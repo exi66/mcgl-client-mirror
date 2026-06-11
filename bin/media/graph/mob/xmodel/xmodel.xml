@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="xmodel" texwidth="64" texheight="32" standartlighting="true">
+    <node id="2" name="body">
+        <position x="0" y="1.5" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="-4.37114e-08" x="0" y="-1" z="0"/>
+        <size x="16" y="16" z="8"/>
+        <unwrap mode="1">
+            <num0 x="8" y="8" transform="0"/>
+            <num1 x="32" y="8" transform="0"/>
+            <num2 x="24" y="8" transform="0"/>
+            <num3 x="24" y="0" transform="0"/>
+            <num4 x="0" y="8" transform="0"/>
+            <num5 x="8" y="0" transform="0"/>
+        </unwrap>
+        <node id="0" name="leg1">
+            <position x="-0.25" y="-0.5" z="0"/>
+            <offset x="0" y="-0.5" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="16" z="8"/>
+            <unwrap mode="1">
+                <num0 x="16" y="8" transform="0"/>
+                <num1 x="32" y="8" transform="0"/>
+                <num2 x="24" y="8" transform="0"/>
+                <num3 x="24" y="0" transform="0"/>
+                <num4 x="8" y="8" transform="0"/>
+                <num5 x="16" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="3" name="leg2">
+            <position x="0.25" y="-0.5" z="0"/>
+            <offset x="0" y="-0.5" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="16" z="8"/>
+            <unwrap mode="1">
+                <num0 x="16" y="8" transform="0"/>
+                <num1 x="32" y="8" transform="0"/>
+                <num2 x="24" y="8" transform="0"/>
+                <num3 x="24" y="0" transform="0"/>
+                <num4 x="8" y="8" transform="0"/>
+                <num5 x="16" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="4" name="hand2">
+            <position x="0.5" y="0.5" z="0"/>
+            <offset x="0.25" y="-0.5" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="16" z="8"/>
+            <unwrap mode="1">
+                <num0 x="16" y="8" transform="0"/>
+                <num1 x="32" y="8" transform="0"/>
+                <num2 x="24" y="8" transform="0"/>
+                <num3 x="24" y="0" transform="0"/>
+                <num4 x="8" y="8" transform="0"/>
+                <num5 x="16" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="5" name="hand1">
+            <position x="-0.5" y="0.5" z="0"/>
+            <offset x="-0.25" y="-0.5" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="16" z="8"/>
+            <unwrap mode="1">
+                <num0 x="16" y="8" transform="0"/>
+                <num1 x="32" y="8" transform="0"/>
+                <num2 x="24" y="8" transform="0"/>
+                <num3 x="24" y="0" transform="0"/>
+                <num4 x="8" y="8" transform="0"/>
+                <num5 x="16" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="6" name="head">
+            <active type="head"/>
+            <position x="0" y="0.625" z="0"/>
+            <offset x="0" y="0.25" z="0"/>
+            <scale x="1.5" y="1.5" z="1.5"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="8" z="8"/>
+            <unwrap mode="1">
+                <num0 x="16" y="8" transform="0"/>
+                <num1 x="32" y="8" transform="0"/>
+                <num2 x="24" y="8" transform="0"/>
+                <num3 x="24" y="0" transform="0"/>
+                <num4 x="8" y="8" transform="0"/>
+                <num5 x="16" y="0" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="10">
+        <animation id="0" name="walk"/>
+        <animation id="1" name="attack"/>
+        <animation id="2" name="run"/>
+        <animation id="3" name="jump"/>
+        <animation id="4" name="death"/>
+        <animation id="5" name="swim"/>
+        <animation id="6" name="eat"/>
+        <animation id="7" name="skill"/>
+        <animation id="8" name="open"/>
+        <animation id="9" name="other"/>
+    </animations>
+</model>

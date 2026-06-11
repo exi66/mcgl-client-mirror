@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="ent_branch" texwidth="64" texheight="128" nocullface="true" standartlighting="true">
+    <node id="20" name="item">
+        <position x="0" y="-0.0625" z="0"/>
+        <offset x="0" y="-0.5" z="-0.5"/>
+        <scale x="-1" y="-1" z="-1"/>
+        <orientation w="0.491501" x="-0.870877" y="0" z="0"/>
+        <size x="2" y="30" z="3"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="21" y="16" transform="0"/>
+            <num2 x="18" y="16" transform="0"/>
+            <num3 x="18" y="13" transform="0"/>
+            <num4 x="13" y="16" transform="0"/>
+            <num5 x="16" y="13" transform="0"/>
+        </unwrap>
+        <node id="22" name="trunk3">
+            <position x="-0.24867" y="-0.106784" z="0.343753"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="-1"/>
+            <orientation w="0.285507" x="0.937979" y="-0.137509" z="-0.140617"/>
+            <size x="2" y="19" z="1"/>
+            <unwrap mode="1">
+                <num0 x="16" y="16" transform="0"/>
+                <num1 x="19" y="16" transform="0"/>
+                <num2 x="18" y="16" transform="0"/>
+                <num3 x="18" y="15" transform="0"/>
+                <num4 x="15" y="16" transform="0"/>
+                <num5 x="16" y="15" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="26" name="trunk6">
+            <position x="0.5" y="-0.423847" z="0.0905684"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="-1"/>
+            <orientation w="0.155721" x="0.895388" y="0.399856" z="0.118938"/>
+            <size x="2" y="19" z="2"/>
+            <unwrap mode="1">
+                <num0 x="16" y="16" transform="0"/>
+                <num1 x="20" y="16" transform="0"/>
+                <num2 x="18" y="16" transform="0"/>
+                <num3 x="18" y="14" transform="0"/>
+                <num4 x="14" y="16" transform="0"/>
+                <num5 x="16" y="14" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="37" name="foliage38">
+            <position x="0" y="-0.6875" z="0.223487"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="-1" z="1"/>
+            <orientation w="0.126471" x="-0.165015" y="-0.453134" z="0.866859"/>
+            <size x="16" y="16" z="16"/>
+            <unwrap mode="1">
+                <num0 x="16" y="63" transform="0"/>
+                <num1 x="48" y="63" transform="0"/>
+                <num2 x="32" y="63" transform="0"/>
+                <num3 x="32" y="47" transform="0"/>
+                <num4 x="0" y="63" transform="0"/>
+                <num5 x="16" y="47" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

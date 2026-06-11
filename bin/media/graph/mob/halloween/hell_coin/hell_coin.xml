@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="hell_coin" texwidth="64" texheight="32" standartlighting="true">
+    <node id="0" name="item">
+        <position x="0.0625" y="0.1875" z="-0.0625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="0.25" y="0.25" z="0.25"/>
+        <orientation w="0.952853" x="0.303431" y="0" z="0"/>
+        <size x="16" y="4" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="48" y="16" transform="0"/>
+            <num2 x="32" y="16" transform="0"/>
+            <num3 x="32" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+        <node id="5" name="item">
+            <position x="0" y="0" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="0.25" y="0.225949" z="0.25"/>
+            <orientation w="0.92388" x="0" y="0.382683" z="0"/>
+            <size x="16" y="4" z="16"/>
+            <unwrap mode="1">
+                <num0 x="16" y="16" transform="0"/>
+                <num1 x="48" y="16" transform="0"/>
+                <num2 x="32" y="16" transform="0"/>
+                <num3 x="32" y="0" transform="0"/>
+                <num4 x="0" y="16" transform="0"/>
+                <num5 x="16" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="6" name="item">
+            <position x="0.0625" y="-0.1375" z="0.0625"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="0.25" y="0.25" z="0.25"/>
+            <orientation w="0.984058" x="0.177848" y="0" z="0"/>
+            <size x="16" y="4" z="16"/>
+            <unwrap mode="1">
+                <num0 x="16" y="16" transform="0"/>
+                <num1 x="48" y="16" transform="0"/>
+                <num2 x="32" y="16" transform="0"/>
+                <num3 x="32" y="0" transform="0"/>
+                <num4 x="0" y="16" transform="0"/>
+                <num5 x="16" y="0" transform="0"/>
+            </unwrap>
+            <node id="7" name="item">
+                <position x="0" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="0.25" y="0.225949" z="0.25"/>
+                <orientation w="0.92388" x="0" y="0.382683" z="0"/>
+                <size x="16" y="4" z="16"/>
+                <unwrap mode="1">
+                    <num0 x="16" y="16" transform="0"/>
+                    <num1 x="48" y="16" transform="0"/>
+                    <num2 x="32" y="16" transform="0"/>
+                    <num3 x="32" y="0" transform="0"/>
+                    <num4 x="0" y="16" transform="0"/>
+                    <num5 x="16" y="0" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="8" name="item">
+            <position x="-0.0625" y="-0.06875" z="0.0625"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="0.25" y="0.25" z="0.25"/>
+            <orientation w="0.910075" x="0.118986" y="-0.394053" z="-0.0482418"/>
+            <size x="16" y="4" z="16"/>
+            <unwrap mode="1">
+                <num0 x="16" y="16" transform="0"/>
+                <num1 x="48" y="16" transform="0"/>
+                <num2 x="32" y="16" transform="0"/>
+                <num3 x="32" y="0" transform="0"/>
+                <num4 x="0" y="16" transform="0"/>
+                <num5 x="16" y="0" transform="0"/>
+            </unwrap>
+            <node id="9" name="item">
+                <position x="0" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="0.25" y="0.225949" z="0.25"/>
+                <orientation w="0.92388" x="0" y="0.382683" z="0"/>
+                <size x="16" y="4" z="16"/>
+                <unwrap mode="1">
+                    <num0 x="16" y="16" transform="0"/>
+                    <num1 x="48" y="16" transform="0"/>
+                    <num2 x="32" y="16" transform="0"/>
+                    <num3 x="32" y="0" transform="0"/>
+                    <num4 x="0" y="16" transform="0"/>
+                    <num5 x="16" y="0" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

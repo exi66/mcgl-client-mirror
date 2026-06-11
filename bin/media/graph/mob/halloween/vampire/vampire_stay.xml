@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="stay" duration="30" holdlastframe="0">
+    <node id="28">
+        <positions>
+            <position interpolation="0" index="0" x="-0.75" y="0.625" z="-0.5625"/>
+        </positions>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="32">
+        <positions>
+            <position interpolation="0" index="0" x="0.75" y="1.1875" z="0.6875"/>
+        </positions>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="24">
+        <positions>
+            <position interpolation="0" index="0" x="-0.5" y="0.125" z="0.5"/>
+        </positions>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="16">
+        <positions>
+            <position interpolation="0" index="0" x="0.625" y="-0.0625" z="-0.5625"/>
+        </positions>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

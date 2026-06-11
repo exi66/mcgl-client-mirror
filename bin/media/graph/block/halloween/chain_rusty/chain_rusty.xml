@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="chain_rusty" texwidth="16" texheight="16" standartlighting="true">
+    <node id="9" name="chain1">
+        <position x="-0.0625" y="0.96875" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="1" y="1" z="1"/>
+        <unwrap mode="1">
+            <num0 x="9" y="1" transform="0" nobrightness="true"/>
+            <num1 x="11" y="1" transform="0" nobrightness="true"/>
+            <num2 x="10" y="1" transform="0" nobrightness="true"/>
+            <num3 x="10" y="0" transform="0" nobrightness="true"/>
+            <num4 x="8" y="1" transform="0" nobrightness="true"/>
+            <num5 x="9" y="0" transform="0" nobrightness="true"/>
+        </unwrap>
+        <node id="10" name="chain2">
+            <position x="0.125" y="0" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="1" z="1"/>
+            <unwrap mode="1">
+                <num0 x="13" y="1" transform="0" nobrightness="true"/>
+                <num1 x="15" y="1" transform="0" nobrightness="true"/>
+                <num2 x="14" y="1" transform="0" nobrightness="true"/>
+                <num3 x="14" y="0" transform="0" nobrightness="true"/>
+                <num4 x="12" y="1" transform="0" nobrightness="true"/>
+                <num5 x="13" y="0" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="11" name="chain3">
+            <position x="0.0625" y="-0.0625" z="0.0625"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="3" z="1"/>
+            <unwrap mode="1">
+                <num0 x="5" y="1" transform="0" nobrightness="true"/>
+                <num1 x="7" y="1" transform="0" nobrightness="true"/>
+                <num2 x="6" y="1" transform="0" nobrightness="true"/>
+                <num3 x="6" y="0" transform="0" nobrightness="true"/>
+                <num4 x="4" y="1" transform="0" nobrightness="true"/>
+                <num5 x="5" y="0" transform="0" nobrightness="true"/>
+            </unwrap>
+            <node id="12" name="chain4">
+                <position x="0" y="0" z="-0.125"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="-1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="3" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="5" y="5" transform="0" nobrightness="true"/>
+                    <num1 x="7" y="5" transform="0" nobrightness="true"/>
+                    <num2 x="6" y="5" transform="0" nobrightness="true"/>
+                    <num3 x="6" y="4" transform="0" nobrightness="true"/>
+                    <num4 x="4" y="5" transform="0" nobrightness="true"/>
+                    <num5 x="5" y="4" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="14" name="chain5">
+                <position x="-0.0625" y="-0.125" z="-0.0625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="3" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="5" y="1" transform="0" nobrightness="true"/>
+                    <num1 x="7" y="1" transform="0" nobrightness="true"/>
+                    <num2 x="6" y="1" transform="0" nobrightness="true"/>
+                    <num3 x="6" y="0" transform="0" nobrightness="true"/>
+                    <num4 x="4" y="1" transform="0" nobrightness="true"/>
+                    <num5 x="5" y="0" transform="0" nobrightness="true"/>
+                </unwrap>
+                <node id="15" name="chain6">
+                    <position x="0.125" y="0" z="0"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="-1" y="1" z="1"/>
+                    <orientation w="1" x="0" y="0" z="0"/>
+                    <size x="1" y="3" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="5" y="5" transform="0" nobrightness="true"/>
+                        <num1 x="7" y="5" transform="0" nobrightness="true"/>
+                        <num2 x="6" y="5" transform="0" nobrightness="true"/>
+                        <num3 x="6" y="4" transform="0" nobrightness="true"/>
+                        <num4 x="4" y="5" transform="0" nobrightness="true"/>
+                        <num5 x="5" y="4" transform="0" nobrightness="true"/>
+                    </unwrap>
+                </node>
+            </node>
+            <node id="16" name="chain7">
+                <position x="0" y="-0.25" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="3" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="9" y="3" transform="0" nobrightness="true"/>
+                    <num1 x="11" y="3" transform="0" nobrightness="true"/>
+                    <num2 x="10" y="3" transform="0" nobrightness="true"/>
+                    <num3 x="10" y="2" transform="0" nobrightness="true"/>
+                    <num4 x="8" y="3" transform="0" nobrightness="true"/>
+                    <num5 x="9" y="2" transform="0" nobrightness="true"/>
+                </unwrap>
+                <node id="17" name="chain8">
+                    <position x="0" y="0" z="-0.125"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="-1" y="1" z="-1"/>
+                    <orientation w="1" x="0" y="0" z="0"/>
+                    <size x="1" y="3" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="5" y="1" transform="0" nobrightness="true"/>
+                        <num1 x="7" y="1" transform="0" nobrightness="true"/>
+                        <num2 x="6" y="1" transform="0" nobrightness="true"/>
+                        <num3 x="6" y="0" transform="0" nobrightness="true"/>
+                        <num4 x="4" y="1" transform="0" nobrightness="true"/>
+                        <num5 x="5" y="0" transform="0" nobrightness="true"/>
+                    </unwrap>
+                </node>
+            </node>
+            <node id="27" name="chain9">
+                <position x="-0.0625" y="-0.375" z="-0.0625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="3" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="1" y="9" transform="0" nobrightness="true"/>
+                    <num1 x="3" y="9" transform="0" nobrightness="true"/>
+                    <num2 x="2" y="9" transform="0" nobrightness="true"/>
+                    <num3 x="2" y="8" transform="0" nobrightness="true"/>
+                    <num4 x="0" y="9" transform="0" nobrightness="true"/>
+                    <num5 x="1" y="8" transform="0" nobrightness="true"/>
+                </unwrap>
+                <node id="28" name="chain10">
+                    <position x="0.125" y="0" z="0"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="-1" y="1" z="1"/>
+                    <orientation w="1" x="0" y="0" z="0"/>
+                    <size x="1" y="3" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="5" y="1" transform="0" nobrightness="true"/>
+                        <num1 x="7" y="1" transform="0" nobrightness="true"/>
+                        <num2 x="6" y="1" transform="0" nobrightness="true"/>
+                        <num3 x="6" y="0" transform="0" nobrightness="true"/>
+                        <num4 x="4" y="1" transform="0" nobrightness="true"/>
+                        <num5 x="5" y="0" transform="0" nobrightness="true"/>
+                    </unwrap>
+                </node>
+            </node>
+            <node id="29" name="chain11">
+                <position x="0" y="-0.5" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="3" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="5" y="5" transform="0" nobrightness="true"/>
+                    <num1 x="7" y="5" transform="0" nobrightness="true"/>
+                    <num2 x="6" y="5" transform="0" nobrightness="true"/>
+                    <num3 x="6" y="4" transform="0" nobrightness="true"/>
+                    <num4 x="4" y="5" transform="0" nobrightness="true"/>
+                    <num5 x="5" y="4" transform="0" nobrightness="true"/>
+                </unwrap>
+                <node id="30" name="chain12">
+                    <position x="0" y="0" z="-0.125"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="-1" y="1" z="-1"/>
+                    <orientation w="1" x="0" y="0" z="0"/>
+                    <size x="1" y="3" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="5" y="9" transform="0" nobrightness="true"/>
+                        <num1 x="7" y="9" transform="0" nobrightness="true"/>
+                        <num2 x="6" y="9" transform="0" nobrightness="true"/>
+                        <num3 x="6" y="8" transform="0" nobrightness="true"/>
+                        <num4 x="4" y="9" transform="0" nobrightness="true"/>
+                        <num5 x="5" y="8" transform="0" nobrightness="true"/>
+                    </unwrap>
+                </node>
+            </node>
+            <node id="31" name="chain13">
+                <position x="-0.0625" y="-0.625" z="-0.0625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="3" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="5" y="1" transform="0" nobrightness="true"/>
+                    <num1 x="7" y="1" transform="0" nobrightness="true"/>
+                    <num2 x="6" y="1" transform="0" nobrightness="true"/>
+                    <num3 x="6" y="0" transform="0" nobrightness="true"/>
+                    <num4 x="4" y="1" transform="0" nobrightness="true"/>
+                    <num5 x="5" y="0" transform="0" nobrightness="true"/>
+                </unwrap>
+                <node id="32" name="chain14">
+                    <position x="0.125" y="0" z="0"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="-1" y="1" z="1"/>
+                    <orientation w="1" x="0" y="0" z="0"/>
+                    <size x="1" y="3" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="9" y="11" transform="0" nobrightness="true"/>
+                        <num1 x="11" y="11" transform="0" nobrightness="true"/>
+                        <num2 x="10" y="11" transform="0" nobrightness="true"/>
+                        <num3 x="10" y="10" transform="0" nobrightness="true"/>
+                        <num4 x="8" y="11" transform="0" nobrightness="true"/>
+                        <num5 x="9" y="10" transform="0" nobrightness="true"/>
+                    </unwrap>
+                </node>
+            </node>
+            <node id="33" name="chain15">
+                <position x="0" y="-0.75" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="3" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="5" y="1" transform="0" nobrightness="true"/>
+                    <num1 x="7" y="1" transform="0" nobrightness="true"/>
+                    <num2 x="6" y="1" transform="0" nobrightness="true"/>
+                    <num3 x="6" y="0" transform="0" nobrightness="true"/>
+                    <num4 x="4" y="1" transform="0" nobrightness="true"/>
+                    <num5 x="5" y="0" transform="0" nobrightness="true"/>
+                </unwrap>
+                <node id="34" name="chain16">
+                    <position x="0" y="0" z="-0.125"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="-1" y="1" z="-1"/>
+                    <orientation w="1" x="0" y="0" z="0"/>
+                    <size x="1" y="3" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="5" y="1" transform="0" nobrightness="true"/>
+                        <num1 x="7" y="1" transform="0" nobrightness="true"/>
+                        <num2 x="6" y="1" transform="0" nobrightness="true"/>
+                        <num3 x="6" y="0" transform="0" nobrightness="true"/>
+                        <num4 x="4" y="1" transform="0" nobrightness="true"/>
+                        <num5 x="5" y="0" transform="0" nobrightness="true"/>
+                    </unwrap>
+                </node>
+            </node>
+            <node id="35" name="chain17">
+                <position x="-0.0625" y="-0.84375" z="-0.0625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="2" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="1" y="5" transform="0" nobrightness="true"/>
+                    <num1 x="3" y="5" transform="0" nobrightness="true"/>
+                    <num2 x="2" y="5" transform="0" nobrightness="true"/>
+                    <num3 x="2" y="4" transform="0" nobrightness="true"/>
+                    <num4 x="0" y="5" transform="0" nobrightness="true"/>
+                    <num5 x="1" y="4" transform="0" nobrightness="true"/>
+                </unwrap>
+                <node id="36" name="chain18">
+                    <position x="0.125" y="0" z="0"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="-1" y="1" z="1"/>
+                    <orientation w="1" x="0" y="0" z="0"/>
+                    <size x="1" y="2" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="1" y="2" transform="0" nobrightness="true"/>
+                        <num1 x="3" y="2" transform="0" nobrightness="true"/>
+                        <num2 x="2" y="2" transform="0" nobrightness="true"/>
+                        <num3 x="2" y="1" transform="0" nobrightness="true"/>
+                        <num4 x="0" y="2" transform="0" nobrightness="true"/>
+                        <num5 x="1" y="1" transform="0" nobrightness="true"/>
+                    </unwrap>
+                </node>
+            </node>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

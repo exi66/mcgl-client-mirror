@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="safe" texwidth="64" texheight="64">
+    <node id="0" name="body">
+        <position x="0" y="0.5" z="-0.03125"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="16" z="15"/>
+        <unwrap mode="1">
+            <num0 x="15" y="15" transform="0"/>
+            <num1 x="46" y="15" transform="0"/>
+            <num2 x="31" y="15" transform="0"/>
+            <num3 x="31" y="0" transform="0"/>
+            <num4 x="0" y="15" transform="0"/>
+            <num5 x="15" y="0" transform="0"/>
+        </unwrap>
+        <node id="1" name="cap">
+            <position x="-0.5" y="0" z="0.46875"/>
+            <offset x="0.5" y="0" z="0.03125"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="16" y="16" z="1"/>
+            <unwrap mode="1">
+                <num0 x="1" y="32" transform="0" nobrightness="true"/>
+                <num1 x="18" y="32" transform="0" nobrightness="true"/>
+                <num2 x="17" y="32" transform="0" nobrightness="true"/>
+                <num3 x="17" y="31" transform="0" nobrightness="true"/>
+                <num4 x="0" y="32" transform="0" nobrightness="true"/>
+                <num5 x="1" y="31" transform="0"/>
+            </unwrap>
+            <node id="2" name="lock">
+                <position x="0" y="0" z="0.0625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="12" y="8" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="1" y="49" transform="0" nobrightness="true"/>
+                    <num1 x="14" y="49" transform="0"/>
+                    <num2 x="13" y="49" transform="0" nobrightness="true"/>
+                    <num3 x="13" y="48" transform="0" nobrightness="true"/>
+                    <num4 x="0" y="49" transform="0" nobrightness="true"/>
+                    <num5 x="1" y="48" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <animations count="1">
+        <animation id="0" name="open"/>
+    </animations>
+</model>

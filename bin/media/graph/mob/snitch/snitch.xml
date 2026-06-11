@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="snitch" texwidth="64" texheight="128" nocullface="true" standartlighting="true">
+    <node id="0" name="body">
+        <position x="0" y="0.5" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1.0" y="1.0" z="1.0"/>
+        <orientation w="0.92388" x="0.382683" y="0" z="0"/>
+        <size x="16" y="16" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="48" transform="0"/>
+            <num1 x="48" y="48" transform="0"/>
+            <num2 x="32" y="48" transform="0"/>
+            <num3 x="32" y="32" transform="0"/>
+            <num4 x="0" y="48" transform="0"/>
+            <num5 x="16" y="32" transform="0"/>
+        </unwrap>
+        <node id="1" name="wing_left">
+            <position x="0" y="0" z="0"/>
+            <offset x="1.5" y="-0.2" z="0"/>
+            <scale x="1.0" y="0.5" z="1.0"/>
+            <orientation w="0.984808" x="-0.173648" y="0" z="0"/>
+            <size x="32" y="16" z="0"/>
+            <unwrap mode="1">
+                <num0 x="0" y="0" transform="0"/>
+                <num1 x="32" y="0" transform="0"/>
+                <num2 x="32" y="0" transform="0"/>
+                <num3 x="32" y="0" transform="0"/>
+                <num4 x="0" y="0" transform="0"/>
+                <num5 x="0" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="3" name="wing_right">
+            <position x="0" y="0" z="0"/>
+            <offset x="-1.5" y="-0.2" z="0"/>
+            <scale x="-1.0" y="0.5" z="1.0"/>
+            <orientation w="0.984808" x="-0.173648" y="0" z="0"/>
+            <size x="32" y="16" z="0"/>
+            <unwrap mode="1">
+                <num0 x="0" y="16" transform="0"/>
+                <num1 x="32" y="16" transform="0"/>
+                <num2 x="32" y="16" transform="0"/>
+                <num3 x="32" y="16" transform="0"/>
+                <num4 x="0" y="16" transform="0"/>
+                <num5 x="0" y="16" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="1">
+        <animation id="0" name="walk"/>
+    </animations>
+</model>

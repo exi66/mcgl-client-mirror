@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="krampus" texwidth="64" texheight="128" boss="true" nocullface="true" standartlighting="true">
+    <node id="8" name="Body_chest">
+        <position x="0" y="1.625" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="0.991446" x="0.130515" y="0" z="0"/>
+        <size x="12" y="4" z="5"/>
+        <unwrap mode="2">
+            <num0 x="5" y="27" transform="0"/>
+            <num1 x="34" y="27" transform="8"/>
+            <num2 x="17" y="27" transform="0"/>
+            <num3 x="17" y="22" transform="0"/>
+            <num4 x="0" y="27" transform="0"/>
+            <num5 x="5" y="22" transform="0"/>
+        </unwrap>
+        <node id="0" name="Head">
+            <position x="0" y="0.362224" z="-0.0970486"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.991446" x="-0.130514" y="0" z="0"/>
+            <size x="8" y="8" z="8"/>
+            <unwrap mode="2">
+                <num0 x="8" y="8" transform="0"/>
+                <num1 x="24" y="8" transform="0"/>
+                <num2 x="16" y="8" transform="0"/>
+                <num3 x="16" y="8" transform="16"/>
+                <num4 x="0" y="8" transform="0"/>
+                <num5 x="8" y="0" transform="0"/>
+            </unwrap>
+            <node id="1" name="Horn">
+                <position x="0.175" y="0.15625" z="0.25"/>
+                <offset x="0" y="0.09375" z="-0.0625"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="0.867613" x="0.463848" y="0.157982" z="-0.0844613"/>
+                <size x="2" y="3" z="2"/>
+                <unwrap mode="1">
+                    <num0 x="2" y="18" transform="0"/>
+                    <num1 x="6" y="18" transform="0"/>
+                    <num2 x="4" y="18" transform="0"/>
+                    <num3 x="4" y="16" transform="0"/>
+                    <num4 x="0" y="18" transform="0"/>
+                    <num5 x="2" y="16" transform="0"/>
+                </unwrap>
+                <node id="3" name="Horn_1">
+                    <position x="0" y="0.09375" z="0.04375"/>
+                    <offset x="0" y="0.125" z="-0.04375"/>
+                    <scale x="0.7" y="1" z="0.7"/>
+                    <orientation w="0.957502" x="-0.288428" y="0" z="0"/>
+                    <size x="2" y="4" z="2"/>
+                    <unwrap mode="1">
+                        <num0 x="10" y="18" transform="0"/>
+                        <num1 x="14" y="18" transform="0"/>
+                        <num2 x="12" y="18" transform="0"/>
+                        <num3 x="12" y="16" transform="0"/>
+                        <num4 x="8" y="18" transform="0"/>
+                        <num5 x="10" y="16" transform="0"/>
+                    </unwrap>
+                    <node id="4" name="Horn_2">
+                        <position x="0" y="0.125" z="0.03125"/>
+                        <offset x="0" y="0.0625" z="-0.03125"/>
+                        <scale x="1" y="1" z="1"/>
+                        <orientation w="0.975671" x="-0.21924" y="0" z="0"/>
+                        <size x="1" y="2" z="1"/>
+                        <unwrap mode="1">
+                            <num0 x="17" y="17" transform="0"/>
+                            <num1 x="19" y="17" transform="0"/>
+                            <num2 x="18" y="17" transform="0"/>
+                            <num3 x="18" y="16" transform="0"/>
+                            <num4 x="16" y="17" transform="0"/>
+                            <num5 x="17" y="16" transform="0"/>
+                        </unwrap>
+                    </node>
+                </node>
+            </node>
+            <node id="5" name="Horn">
+                <position x="-0.175" y="0.15625" z="0.25"/>
+                <offset x="0" y="0.09375" z="-0.0625"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="0.867613" x="0.463848" y="-0.157982" z="0.0844613"/>
+                <size x="2" y="3" z="2"/>
+                <unwrap mode="1">
+                    <num0 x="22" y="18" transform="0"/>
+                    <num1 x="26" y="18" transform="0"/>
+                    <num2 x="24" y="18" transform="0"/>
+                    <num3 x="24" y="16" transform="0"/>
+                    <num4 x="20" y="18" transform="0"/>
+                    <num5 x="22" y="16" transform="0"/>
+                </unwrap>
+                <node id="6" name="Horn_1">
+                    <position x="0" y="0.09375" z="0.04375"/>
+                    <offset x="0" y="0.125" z="-0.04375"/>
+                    <scale x="-0.7" y="1" z="0.7"/>
+                    <orientation w="0.957502" x="-0.288428" y="0" z="0"/>
+                    <size x="2" y="4" z="2"/>
+                    <unwrap mode="1">
+                        <num0 x="31" y="22" transform="0"/>
+                        <num1 x="35" y="22" transform="0"/>
+                        <num2 x="33" y="22" transform="0"/>
+                        <num3 x="33" y="20" transform="0"/>
+                        <num4 x="29" y="22" transform="0"/>
+                        <num5 x="31" y="20" transform="0"/>
+                    </unwrap>
+                    <node id="7" name="Horn_2">
+                        <position x="0" y="0.125" z="0.03125"/>
+                        <offset x="0" y="0.0625" z="-0.03125"/>
+                        <scale x="-1" y="1" z="1"/>
+                        <orientation w="0.975671" x="-0.21924" y="0" z="0"/>
+                        <size x="1" y="2" z="1"/>
+                        <unwrap mode="1">
+                            <num0 x="29" y="17" transform="0"/>
+                            <num1 x="31" y="17" transform="0"/>
+                            <num2 x="30" y="17" transform="0"/>
+                            <num3 x="30" y="16" transform="0"/>
+                            <num4 x="28" y="17" transform="0"/>
+                            <num5 x="29" y="16" transform="0"/>
+                        </unwrap>
+                    </node>
+                </node>
+            </node>
+        </node>
+        <node id="9" name="Body">
+            <position x="0" y="-0.125" z="-0.125"/>
+            <offset x="0" y="-0.25" z="0.125"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.991445" x="-0.130526" y="0" z="0"/>
+            <size x="8" y="8" z="4"/>
+            <unwrap mode="2">
+                <num0 x="5" y="35" transform="0"/>
+                <num1 x="25" y="35" transform="8"/>
+                <num2 x="13" y="35" transform="0"/>
+                <num3 x="13" y="31" transform="0"/>
+                <num4 x="1" y="35" transform="0"/>
+                <num5 x="5" y="31" transform="0"/>
+            </unwrap>
+            <node id="10" name="leg_left">
+                <position x="0" y="-0.25" z="0"/>
+                <offset x="0.125" y="-0.1875" z="0"/>
+                <scale x="1.1" y="1" z="1.1"/>
+                <orientation w="0.999048" x="0" y="0" z="-0.0436194"/>
+                <size x="4" y="6" z="4"/>
+                <unwrap mode="1">
+                    <num0 x="5" y="47" transform="0"/>
+                    <num1 x="13" y="47" transform="0"/>
+                    <num2 x="9" y="47" transform="0"/>
+                    <num3 x="9" y="43" transform="0"/>
+                    <num4 x="1" y="47" transform="0"/>
+                    <num5 x="5" y="43" transform="0"/>
+                </unwrap>
+                <node id="11" name="leg_left_1">
+                    <position x="0" y="-0.1875" z="0.125"/>
+                    <offset x="0" y="-0.1875" z="-0.125"/>
+                    <scale x="1" y="1" z="1"/>
+                    <orientation w="0.965926" x="0.258819" y="0" z="0"/>
+                    <size x="4" y="6" z="4"/>
+                    <unwrap mode="1">
+                        <num0 x="5" y="57" transform="0"/>
+                        <num1 x="13" y="57" transform="0"/>
+                        <num2 x="9" y="57" transform="0"/>
+                        <num3 x="9" y="53" transform="0"/>
+                        <num4 x="1" y="57" transform="0"/>
+                        <num5 x="5" y="53" transform="0"/>
+                    </unwrap>
+                    <node id="12" name="leg_left_2">
+                        <position x="0" y="0.03125" z="0"/>
+                        <offset x="0" y="-0.1875" z="-0.125"/>
+                        <scale x="0.9" y="1" z="0.9"/>
+                        <orientation w="0.866026" x="-0.5" y="6.75277e-10" z="-8.52711e-10"/>
+                        <size x="4" y="6" z="4"/>
+                        <unwrap mode="1">
+                            <num0 x="21" y="47" transform="0"/>
+                            <num1 x="29" y="47" transform="0"/>
+                            <num2 x="25" y="47" transform="0"/>
+                            <num3 x="25" y="43" transform="0"/>
+                            <num4 x="17" y="47" transform="0"/>
+                            <num5 x="21" y="43" transform="0"/>
+                        </unwrap>
+                        <node id="13" name="leg_left_3">
+                            <position x="-0.00132416" y="-0.155142" z="0.138706"/>
+                            <offset x="0" y="-0.1875" z="-0.125"/>
+                            <scale x="0.9" y="1" z="0.9"/>
+                            <orientation w="0.965006" x="0.258572" y="0.0112895" z="0.0421331"/>
+                            <size x="4" y="4" z="4"/>
+                            <unwrap mode="1">
+                                <num0 x="21" y="57" transform="0"/>
+                                <num1 x="29" y="57" transform="0"/>
+                                <num2 x="25" y="57" transform="0"/>
+                                <num3 x="25" y="53" transform="0"/>
+                                <num4 x="17" y="57" transform="0"/>
+                                <num5 x="21" y="53" transform="0"/>
+                            </unwrap>
+                        </node>
+                    </node>
+                </node>
+            </node>
+            <node id="14" name="leg_right">
+                <position x="0" y="-0.25" z="1.5002e-10"/>
+                <offset x="-0.125" y="-0.1875" z="0"/>
+                <scale x="-1.1" y="1" z="1.1"/>
+                <orientation w="0.999048" x="4.01227e-14" y="4.51266e-15" z="0.0436194"/>
+                <size x="4" y="6" z="4"/>
+                <unwrap mode="1">
+                    <num0 x="37" y="47" transform="0"/>
+                    <num1 x="45" y="47" transform="0"/>
+                    <num2 x="41" y="47" transform="0"/>
+                    <num3 x="41" y="43" transform="0"/>
+                    <num4 x="33" y="47" transform="0"/>
+                    <num5 x="37" y="43" transform="0"/>
+                </unwrap>
+                <node id="15" name="leg_right_1">
+                    <position x="0" y="-0.1875" z="0.125"/>
+                    <offset x="0" y="-0.1875" z="-0.125"/>
+                    <scale x="-1" y="1" z="1"/>
+                    <orientation w="0.965926" x="0.258819" y="0" z="0"/>
+                    <size x="4" y="6" z="4"/>
+                    <unwrap mode="1">
+                        <num0 x="5" y="57" transform="0"/>
+                        <num1 x="13" y="57" transform="0"/>
+                        <num2 x="9" y="57" transform="0"/>
+                        <num3 x="9" y="53" transform="0"/>
+                        <num4 x="1" y="57" transform="0"/>
+                        <num5 x="5" y="53" transform="0"/>
+                    </unwrap>
+                    <node id="16" name="leg_right_2">
+                        <position x="0" y="0.03125" z="0"/>
+                        <offset x="0" y="-0.1875" z="-0.125"/>
+                        <scale x="-0.9" y="1" z="0.9"/>
+                        <orientation w="0.866026" x="-0.5" y="-6.75277e-10" z="8.52711e-10"/>
+                        <size x="4" y="6" z="4"/>
+                        <unwrap mode="1">
+                            <num0 x="21" y="47" transform="0"/>
+                            <num1 x="29" y="47" transform="0"/>
+                            <num2 x="25" y="47" transform="0"/>
+                            <num3 x="25" y="43" transform="0"/>
+                            <num4 x="17" y="47" transform="0"/>
+                            <num5 x="21" y="43" transform="0"/>
+                        </unwrap>
+                        <node id="17" name="leg_right_3">
+                            <position x="0.00132416" y="-0.155142" z="0.138706"/>
+                            <offset x="0" y="-0.1875" z="-0.125"/>
+                            <scale x="-0.9" y="1" z="0.9"/>
+                            <orientation w="0.965006" x="0.258572" y="-0.0112895" z="-0.0421331"/>
+                            <size x="4" y="4" z="4"/>
+                            <unwrap mode="1">
+                                <num0 x="21" y="57" transform="0"/>
+                                <num1 x="29" y="57" transform="0"/>
+                                <num2 x="25" y="57" transform="0"/>
+                                <num3 x="25" y="53" transform="0"/>
+                                <num4 x="17" y="57" transform="0"/>
+                                <num5 x="21" y="53" transform="0"/>
+                            </unwrap>
+                        </node>
+                    </node>
+                </node>
+            </node>
+            <node id="18" name="Hand_right">
+                <position x="-0.375" y="0.398759" z="0.0442693"/>
+                <offset x="-0.125" y="-0.3125" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="4" y="12" z="4"/>
+                <unwrap mode="1">
+                    <num0 x="52" y="8" transform="0"/>
+                    <num1 x="60" y="8" transform="0"/>
+                    <num2 x="56" y="8" transform="0"/>
+                    <num3 x="56" y="4" transform="0"/>
+                    <num4 x="48" y="8" transform="0"/>
+                    <num5 x="52" y="4" transform="0"/>
+                </unwrap>
+                <node id="25" name="Chains">
+                    <position x="0" y="-0.125" z="-1.30193e-08"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="1.2" y="-1" z="-1.2"/>
+                    <orientation w="0.991445" x="-5.77886e-09" y="-0.130526" z="-7.60836e-10"/>
+                    <size x="4" y="12" z="4"/>
+                    <unwrap mode="1">
+                        <num0 x="49" y="35" transform="0"/>
+                        <num1 x="57" y="35" transform="0"/>
+                        <num2 x="53" y="35" transform="0"/>
+                        <num3 x="53" y="31" transform="0"/>
+                        <num4 x="45" y="35" transform="0"/>
+                        <num5 x="49" y="31" transform="0"/>
+                    </unwrap>
+                    <node id="26" name="Chains">
+                        <position x="-8.89491e-09" y="0.125" z="-6.32706e-09"/>
+                        <offset x="0" y="0" z="0"/>
+                        <scale x="-1.1" y="1" z="1.1"/>
+                        <orientation w="0.991445" x="-3.05947e-09" y="0.130526" z="-2.43904e-09"/>
+                        <size x="4" y="12" z="4"/>
+                        <unwrap mode="1">
+                            <num0 x="49" y="35" transform="0"/>
+                            <num1 x="57" y="35" transform="0"/>
+                            <num2 x="53" y="35" transform="0"/>
+                            <num3 x="53" y="31" transform="0"/>
+                            <num4 x="45" y="35" transform="0"/>
+                            <num5 x="49" y="31" transform="0"/>
+                        </unwrap>
+                        <node id="27" name="chains_r">
+                            <position x="0" y="-0.4375" z="-0.125"/>
+                            <offset x="0" y="-0.4375" z="0"/>
+                            <scale x="-1" y="1" z="1"/>
+                            <orientation w="0.999391" x="0.0348995" y="0" z="0"/>
+                            <size x="3" y="14" z="1"/>
+                            <unwrap mode="2">
+                                <num0 x="56" y="50" transform="0"/>
+                                <num1 x="63" y="50" transform="8"/>
+                                <num2 x="59" y="50" transform="0"/>
+                                <num3 x="59" y="49" transform="0"/>
+                                <num4 x="55" y="50" transform="0"/>
+                                <num5 x="56" y="49" transform="0"/>
+                            </unwrap>
+                        </node>
+                    </node>
+                </node>
+            </node>
+            <node id="19" name="Hand_left">
+                <position x="0.375" y="0.398759" z="0.0442693"/>
+                <offset x="0.125" y="-0.3125" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="4" y="12" z="4"/>
+                <unwrap mode="1">
+                    <num0 x="36" y="8" transform="0"/>
+                    <num1 x="44" y="8" transform="0"/>
+                    <num2 x="40" y="8" transform="0"/>
+                    <num3 x="40" y="4" transform="0"/>
+                    <num4 x="32" y="8" transform="0"/>
+                    <num5 x="36" y="4" transform="0"/>
+                </unwrap>
+                <node id="23" name="Chains">
+                    <position x="0" y="-0.125" z="-9.12142e-10"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="-1.2" y="-1" z="-1.2"/>
+                    <orientation w="0.991445" x="0" y="0.130526" z="0"/>
+                    <size x="4" y="12" z="4"/>
+                    <unwrap mode="1">
+                        <num0 x="49" y="35" transform="0"/>
+                        <num1 x="57" y="35" transform="0"/>
+                        <num2 x="53" y="35" transform="0"/>
+                        <num3 x="53" y="31" transform="0"/>
+                        <num4 x="45" y="35" transform="0"/>
+                        <num5 x="49" y="31" transform="0"/>
+                    </unwrap>
+                    <node id="22" name="Chains">
+                        <position x="8.89491e-09" y="0.125" z="-6.32706e-09"/>
+                        <offset x="0" y="0" z="0"/>
+                        <scale x="1.1" y="1" z="1.1"/>
+                        <orientation w="0.991445" x="-3.05947e-09" y="-0.130526" z="2.43904e-09"/>
+                        <size x="4" y="12" z="4"/>
+                        <unwrap mode="1">
+                            <num0 x="49" y="35" transform="0"/>
+                            <num1 x="57" y="35" transform="0"/>
+                            <num2 x="53" y="35" transform="0"/>
+                            <num3 x="53" y="31" transform="0"/>
+                            <num4 x="45" y="35" transform="0"/>
+                            <num5 x="49" y="31" transform="0"/>
+                        </unwrap>
+                        <node id="24" name="chains">
+                            <position x="0" y="-0.4375" z="-0.125"/>
+                            <offset x="0" y="-0.4375" z="0"/>
+                            <scale x="1" y="1" z="1"/>
+                            <orientation w="0.999391" x="0.0348995" y="0" z="0"/>
+                            <size x="3" y="14" z="1"/>
+                            <unwrap mode="2">
+                                <num0 x="56" y="50" transform="0"/>
+                                <num1 x="63" y="50" transform="8"/>
+                                <num2 x="59" y="50" transform="0"/>
+                                <num3 x="59" y="49" transform="0"/>
+                                <num4 x="55" y="50" transform="0"/>
+                                <num5 x="56" y="49" transform="0"/>
+                            </unwrap>
+                        </node>
+                    </node>
+                </node>
+            </node>
+        </node>
+    </node>
+    <node id="28" name="skill1">
+        <position x="0" y="1.5" z="1"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="0" y="0" z="0"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="4" y="4" z="4"/>
+        <unwrap mode="1">
+            <num0 x="42" y="24" transform="0"/>
+            <num1 x="50" y="24" transform="0"/>
+            <num2 x="46" y="24" transform="0"/>
+            <num3 x="46" y="20" transform="0"/>
+            <num4 x="38" y="24" transform="0"/>
+            <num5 x="42" y="20" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="29" name="skill 2">
+        <position x="0" y="1" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="0" y="0" z="0"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="22" y="32" z="22"/>
+        <unwrap mode="2">
+            <num0 x="2" y="86" transform="0"/>
+            <num1 x="68" y="86" transform="8"/>
+            <num2 x="24" y="86" transform="0"/>
+            <num3 x="24" y="64" transform="0"/>
+            <num4 x="-20" y="86" transform="0"/>
+            <num5 x="2" y="64" transform="0"/>
+        </unwrap>
+    </node>
+    <animations count="6">
+        <animation id="0" name="run"/>
+        <animation id="1" name="stay"/>
+        <animation id="2" name="skill1"/>
+        <animation id="3" name="skill2"/>
+        <animation id="4" name="attack"/>
+        <animation id="5" name="death"/>
+    </animations>
+</model>

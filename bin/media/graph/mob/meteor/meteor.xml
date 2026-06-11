@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="meteor" texwidth="64" texheight="64" standartlighting="true">
+    <node id="2" name="Block1">
+        <position x="0" y="0" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="0.994078" x="-0.108668" y="0" z="0"/>
+        <size x="16" y="16" z="16"/>
+        <unwrap mode="0">
+            <num0 x="0" y="0" transform="0"/>
+            <num1 x="0" y="0" transform="0"/>
+            <num2 x="0" y="0" transform="0"/>
+            <num3 x="0" y="0" transform="0"/>
+            <num4 x="0" y="0" transform="0"/>
+            <num5 x="0" y="0" transform="0"/>
+        </unwrap>
+        <node id="3" name="Block2">
+            <position x="0" y="-0.630908" z="-0.0084881"/>
+            <offset x="0" y="0.5" z="0"/>
+            <scale x="0" y="0" z="0"/>
+            <orientation w="1" x="1.85864e-09" y="0" z="0"/>
+            <size x="14" y="14" z="14"/>
+            <unwrap mode="2">
+                <num0 x="15" y="26" transform="0"/>
+                <num1 x="15" y="26" transform="0"/>
+                <num2 x="15" y="26" transform="0"/>
+                <num3 x="15" y="26" transform="0"/>
+                <num4 x="15" y="26" transform="0"/>
+                <num5 x="16" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="4" name="Block2">
+            <position x="0" y="0.383817" z="0.0011604"/>
+            <offset x="0" y="0.5" z="0"/>
+            <scale x="0" y="0" z="0"/>
+            <orientation w="1" x="1.85864e-09" y="0" z="0"/>
+            <size x="12" y="12" z="12"/>
+            <unwrap mode="2">
+                <num0 x="16" y="14" transform="0"/>
+                <num1 x="16" y="14" transform="0"/>
+                <num2 x="16" y="14" transform="0"/>
+                <num3 x="16" y="14" transform="0"/>
+                <num4 x="16" y="14" transform="0"/>
+                <num5 x="17" y="1" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="1">
+        <animation id="1" name="stay"/>
+    </animations>
+</model>

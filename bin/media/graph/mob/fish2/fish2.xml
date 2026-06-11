@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="fish2" texwidth="32" texheight="16" nocullface="true">
+    <node id="0" name="body">
+        <position x="0" y="0" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="3" y="3" z="6"/>
+        <unwrap mode="1">
+            <num0 x="6" y="6" transform="0"/>
+            <num1 x="15" y="6" transform="0"/>
+            <num2 x="9" y="6" transform="0"/>
+            <num3 x="9" y="0" transform="0"/>
+            <num4 x="0" y="6" transform="0"/>
+            <num5 x="6" y="0" transform="0"/>
+        </unwrap>
+        <node id="2" name="fin">
+            <position x="0" y="0" z="-0.1875"/>
+            <offset x="0" y="0" z="-0.1875"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="0" y="2" z="6"/>
+            <unwrap mode="1">
+                <num0 x="6" y="12" transform="0"/>
+                <num1 x="12" y="12" transform="0"/>
+                <num2 x="6" y="12" transform="0"/>
+                <num3 x="6" y="6" transform="0"/>
+                <num4 x="0" y="12" transform="0"/>
+                <num5 x="6" y="6" transform="0"/>
+            </unwrap>
+            <node id="1" name="fin2">
+                <position x="0" y="0.0625" z="0.0625001"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="0.966651" x="0.256096" y="0" z="0"/>
+                <size x="0" y="2" z="6"/>
+                <unwrap mode="1">
+                    <num0 x="6" y="12" transform="0"/>
+                    <num1 x="12" y="12" transform="0"/>
+                    <num2 x="6" y="12" transform="0"/>
+                    <num3 x="6" y="6" transform="0"/>
+                    <num4 x="0" y="12" transform="0"/>
+                    <num5 x="6" y="6" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="3" name="fin1">
+                <position x="0" y="-0.0625" z="0.0625001"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="0.966957" x="-0.25494" y="0" z="0"/>
+                <size x="0" y="2" z="6"/>
+                <unwrap mode="1">
+                    <num0 x="6" y="12" transform="0"/>
+                    <num1 x="12" y="12" transform="0"/>
+                    <num2 x="6" y="12" transform="0"/>
+                    <num3 x="6" y="6" transform="0"/>
+                    <num4 x="0" y="12" transform="0"/>
+                    <num5 x="6" y="6" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="4" name="fin3">
+            <position x="0.0625" y="0" z="0.125"/>
+            <offset x="0" y="0" z="-0.0625"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.963318" x="0" y="-0.268361" z="0"/>
+            <size x="0" y="1" z="3"/>
+            <unwrap mode="1">
+                <num0 x="3" y="9" transform="0"/>
+                <num1 x="6" y="9" transform="0"/>
+                <num2 x="3" y="9" transform="0"/>
+                <num3 x="3" y="6" transform="0"/>
+                <num4 x="0" y="9" transform="0"/>
+                <num5 x="3" y="6" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="5" name="fin4">
+            <position x="-0.0625" y="0" z="0.125"/>
+            <offset x="0" y="0" z="-0.0625"/>
+            <scale x="1" y="-1" z="-1"/>
+            <orientation w="0.963318" x="0" y="0.268361" z="0"/>
+            <size x="0" y="1" z="3"/>
+            <unwrap mode="1">
+                <num0 x="3" y="9" transform="0"/>
+                <num1 x="6" y="9" transform="0"/>
+                <num2 x="3" y="9" transform="0"/>
+                <num3 x="3" y="6" transform="0"/>
+                <num4 x="0" y="9" transform="0"/>
+                <num5 x="3" y="6" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="6" name="fin5">
+            <position x="0" y="0.125" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.99372" x="-0.111893" y="0" z="0"/>
+            <size x="0" y="2" z="5"/>
+            <unwrap mode="1">
+                <num0 x="5" y="10" transform="0"/>
+                <num1 x="10" y="10" transform="0"/>
+                <num2 x="5" y="10" transform="0"/>
+                <num3 x="5" y="5" transform="0"/>
+                <num4 x="0" y="10" transform="0"/>
+                <num5 x="5" y="5" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="1">
+        <animation id="0" name="run"/>
+    </animations>
+</model>

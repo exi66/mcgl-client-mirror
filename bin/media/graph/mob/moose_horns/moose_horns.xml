@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="moose_horns" texwidth="128" texheight="64" nocullface="true" standartlighting="true">
+    <node id="43" name="horns">
+        <position x="0" y="0.3125" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="-1"/>
+        <orientation w="-0.707107" x="0.707107" y="6.18172e-08" z="-6.18172e-08"/>
+        <size x="28" y="5" z="9"/>
+        <unwrap mode="1">
+            <num0 x="9" y="27" transform="0"/>
+            <num1 x="46" y="27" transform="0"/>
+            <num2 x="37" y="27" transform="0"/>
+            <num3 x="37" y="18" transform="0"/>
+            <num4 x="0" y="27" transform="0"/>
+            <num5 x="9" y="18" transform="0"/>
+        </unwrap>
+    </node>
+    <animations count="0"/>
+</model>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="portal" texwidth="64" texheight="64" nocullface="true" standartlighting="true">
+    <node id="0" name="top">
+        <position x="0" y="0.125" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="14" y="2" z="14"/>
+        <unwrap mode="1">
+            <num0 x="14" y="14" transform="0"/>
+            <num1 x="42" y="14" transform="0"/>
+            <num2 x="28" y="14" transform="0"/>
+            <num3 x="28" y="0" transform="0"/>
+            <num4 x="0" y="14" transform="0"/>
+            <num5 x="14" y="0" transform="0"/>
+        </unwrap>
+        <node id="8" name="top_1">
+            <position x="0" y="0.09375" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="14" y="1" z="10"/>
+            <unwrap mode="1">
+                <num0 x="10" y="59" transform="0"/>
+                <num1 x="34" y="59" transform="0"/>
+                <num2 x="24" y="59" transform="0"/>
+                <num3 x="24" y="49" transform="0"/>
+                <num4 x="0" y="59" transform="0"/>
+                <num5 x="10" y="49" transform="0"/>
+            </unwrap>
+            <node id="9" name="top_2">
+                <position x="0" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="10" y="1" z="14"/>
+                <unwrap mode="1">
+                    <num0 x="14" y="48" transform="0"/>
+                    <num1 x="38" y="48" transform="0"/>
+                    <num2 x="24" y="48" transform="0"/>
+                    <num3 x="24" y="34" transform="0"/>
+                    <num4 x="0" y="48" transform="0"/>
+                    <num5 x="14" y="34" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="10" name="top_3">
+                <position x="0" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="14" y="1" z="14"/>
+                <unwrap mode="2">
+                    <num0 x="14" y="63" transform="0"/>
+                    <num1 x="42" y="63" transform="0"/>
+                    <num2 x="28" y="63" transform="0"/>
+                    <num3 x="48" y="34" transform="0"/>
+                    <num4 x="0" y="63" transform="0"/>
+                    <num5 x="34" y="34" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <node id="1" name="base">
+        <position x="0" y="0.0625" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="2" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="32" transform="0"/>
+            <num1 x="48" y="32" transform="0"/>
+            <num2 x="32" y="32" transform="0"/>
+            <num3 x="32" y="16" transform="0"/>
+            <num4 x="0" y="32" transform="0"/>
+            <num5 x="16" y="16" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="6" name="teleport">
+        <position x="0" y="0.1875" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="12" y="2" z="12"/>
+        <unwrap mode="2">
+            <num0 x="0" y="0" transform="0"/>
+            <num1 x="0" y="0" transform="0"/>
+            <num2 x="0" y="0" transform="0"/>
+            <num3 x="28" y="0" transform="0"/>
+            <num4 x="0" y="0" transform="0"/>
+            <num5 x="0" y="0" transform="0"/>
+        </unwrap>
+        <node id="7" name="teleport_1">
+            <position x="0" y="0.03125" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="1" z="8"/>
+            <unwrap mode="0">
+                <num0 x="8" y="16" transform="0"/>
+                <num1 x="8" y="16" transform="0"/>
+                <num2 x="8" y="16" transform="0"/>
+                <num3 x="8" y="16" transform="0"/>
+                <num4 x="8" y="16" transform="0"/>
+                <num5 x="8" y="16" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="11" name="tp_effectanimation">
+            <position x="0" y="-0.03125" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="1" z="8"/>
+            <unwrap mode="0">
+                <num0 x="0" y="16" transform="0"/>
+                <num1 x="0" y="16" transform="0"/>
+                <num2 x="0" y="16" transform="0"/>
+                <num3 x="0" y="16" transform="0"/>
+                <num4 x="0" y="16" transform="0"/>
+                <num5 x="0" y="16" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

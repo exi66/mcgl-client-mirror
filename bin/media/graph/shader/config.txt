@@ -1,0 +1,50 @@
+//Water rendering mode (0: off 1: diffraction only 2:reflection and diffraction)
+water_mode 0
+
+
+//PERFORMANCE SETTINGS
+
+//anti aliasing (1 default, 2: 4x, 3: 9x, 4: 16x; high values may result in minecraft out of memory)
+anti_aliasing 2
+
+//Resolution of reflection rendering (1 full resolution)
+reflection_resolution 4
+
+//Reflective items, player, mob (on/off)
+reflective_items 1
+
+//Reflective clouds (on/off)
+reflective_clouds 0
+
+//Reflect player (on/off)
+reflect_player 1
+
+
+
+//RENDER SETTINGS
+
+//v3 render settings (on/off)
+render_v3 1
+
+//between 0.0 and 1.0
+water_surface_transparency 0.05
+
+//between 0.0 and 1.0
+waterfall_transparency 0.4
+
+//(R/G/B) (float) (deep water color)
+water_color 0.0/0.4/0.3
+
+//(R/G/B) (float) (multiplicative color brightness)
+waterfall_color 1.0/1.0/1.0
+
+
+
+//POSSIBLE BUG FIXES
+//(on/off) (if your water is opaque and sky colored, disable this setting)
+waterfall_fog 1
+
+
+
+//transparent block ids to be excluded from water effect (not implemented)
+exclude_list

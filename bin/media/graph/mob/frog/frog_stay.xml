@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="stop" duration="50" holdlastframe="0">
+    <node id="1">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="10" w="0.92388" x="-0.382683" y="0" z="0"/>
+            <orientation interpolation="0" index="15" w="1" x="0" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="8">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="10" w="0.976296" x="0.21644" y="0" z="0"/>
+            <orientation interpolation="0" index="15" w="1" x="0" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="17">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="0" z="0"/>
+            <position interpolation="0" index="8" x="0" y="0.03125" z="0.075"/>
+            <position interpolation="0" index="10" x="0" y="0.1875" z="0.375"/>
+            <position interpolation="0" index="13" x="0" y="0.03125" z="0.15"/>
+            <position interpolation="0" index="14" x="0" y="0" z="0.075"/>
+            <position interpolation="0" index="15" x="0" y="0" z="0"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="10" w="0.965926" x="-0.258819" y="0" z="0"/>
+            <orientation interpolation="0" index="15" w="1" x="0" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales>
+            <scale interpolation="0" index="0" x="0" y="0" z="0"/>
+            <scale interpolation="0" index="8" x="0" y="0" z="7"/>
+            <scale interpolation="0" index="10" x="0" y="0" z="14"/>
+            <scale interpolation="0" index="15" x="0" y="0" z="0"/>
+        </scales>
+    </node>
+</animation>

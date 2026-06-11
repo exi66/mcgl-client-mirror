@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="stay" duration="60" holdlastframe="0">
+    <node id="0">
+        <positions/>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales>
+            <scale interpolation="0" index="0" x="0" y="0" z="0"/>
+            <scale interpolation="0" index="30" x="0.1" y="0.1" z="0.1"/>
+        </scales>
+    </node>
+    <node id="1">
+        <positions/>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales>
+            <scale interpolation="0" index="0" x="0" y="0" z="0"/>
+            <scale interpolation="0" index="30" x="0.1" y="0.1" z="0.1"/>
+        </scales>
+    </node>
+    <node id="2">
+        <positions/>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales>
+            <scale interpolation="0" index="0" x="0" y="0" z="0"/>
+            <scale interpolation="0" index="30" x="0.1" y="0.1" z="0.1"/>
+        </scales>
+    </node>
+    <node id="3">
+        <positions/>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales>
+            <scale interpolation="0" index="0" x="0" y="0" z="0"/>
+            <scale interpolation="0" index="30" x="0.1" y="0.1" z="0.1"/>
+        </scales>
+    </node>
+</animation>

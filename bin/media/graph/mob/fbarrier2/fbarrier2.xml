@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="fbarrier2" texwidth="32" texheight="64" nocullface="true" standartlighting="true">
+    <node id="0" name="1">
+        <position x="0" y="1.0625" z="0"/>
+        <offset x="0.375" y="0" z="0.1875"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="0.975089" x="0.103988" y="-0.129061" z="0.147414"/>
+        <size x="4" y="33" z="4"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="24" y="16" transform="0"/>
+            <num2 x="20" y="16" transform="0"/>
+            <num3 x="20" y="12" transform="0"/>
+            <num4 x="12" y="16" transform="0"/>
+            <num5 x="16" y="12" transform="0"/>
+        </unwrap>
+        <node id="1" name="2">
+            <position x="-0.375" y="-1.86265e-08" z="-0.1875"/>
+            <offset x="-0.125" y="0" z="0.3125"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.956876" x="0.0534841" y="-0.110985" z="-0.263078"/>
+            <size x="4" y="31" z="4"/>
+            <unwrap mode="1">
+                <num0 x="16" y="16" transform="0"/>
+                <num1 x="24" y="16" transform="0"/>
+                <num2 x="20" y="16" transform="0"/>
+                <num3 x="20" y="12" transform="0"/>
+                <num4 x="12" y="16" transform="0"/>
+                <num5 x="16" y="12" transform="0"/>
+            </unwrap>
+            <node id="2" name="3">
+                <position x="0.105388" y="-0.119362" z="-0.280986"/>
+                <offset x="0.0625" y="0" z="-0.1875"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="0.912674" x="-0.239491" y="0.314544" z="0.103597"/>
+                <size x="4" y="29" z="4"/>
+                <unwrap mode="1">
+                    <num0 x="16" y="16" transform="0"/>
+                    <num1 x="24" y="16" transform="0"/>
+                    <num2 x="20" y="16" transform="0"/>
+                    <num3 x="20" y="12" transform="0"/>
+                    <num4 x="12" y="16" transform="0"/>
+                    <num5 x="16" y="12" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="walk" duration="40" holdlastframe="0">
+    <node id="2">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="20" w="0.999962" x="0.00872654" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="34">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="25" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="26" w="0.999848" x="1.15946e-08" y="4.76545e-10" z="-0.0174524"/>
+            <orientation interpolation="0" index="29" w="0.999848" x="1.15946e-08" y="-4.76545e-10" z="0.0174524"/>
+            <orientation interpolation="0" index="32" w="0.999848" x="1.15946e-08" y="4.76545e-10" z="-0.0174524"/>
+            <orientation interpolation="0" index="35" w="0.999848" x="1.15946e-08" y="-4.76545e-10" z="0.0174524"/>
+            <orientation interpolation="0" index="38" w="0.999848" x="1.15946e-08" y="4.76545e-10" z="-0.0174524"/>
+            <orientation interpolation="0" index="39" w="1" x="0" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="9">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="4.32454e-09"/>
+            <orientation interpolation="0" index="20" w="0.999657" x="0" y="0" z="-0.0261769"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="41">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="-4.32454e-09"/>
+            <orientation interpolation="0" index="20" w="0.999657" x="0" y="0" z="0.0261769"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

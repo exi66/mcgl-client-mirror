@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<model>
+    <modelname name="santa_back"/>
+    <standartlight/>
+    <animation id="0" name="stay"/>
+</model>

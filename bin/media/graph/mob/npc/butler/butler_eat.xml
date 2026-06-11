@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="eat" duration="30" holdlastframe="0">
+    <node id="22">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.323632" x="-0.819845" y="-0.277917" z="0.381941"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="43">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.889616" x="-0.26365" y="0.304556" z="0.215215"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="size-1" texwidth="64" texheight="32" standartlighting="true">
+    <node id="0" name="base">
+        <position x="0" y="0.90625" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="3" z="16"/>
+        <unwrap mode="2">
+            <num0 x="8" y="0" transform="0" nobrightness="true"/>
+            <num1 x="8" y="0" transform="0" nobrightness="true"/>
+            <num2 x="8" y="0" transform="0" nobrightness="true"/>
+            <num3 x="8" y="3" transform="0" nobrightness="true"/>
+            <num4 x="8" y="0" transform="0" nobrightness="true"/>
+            <num5 x="8" y="3" transform="0" nobrightness="true"/>
+        </unwrap>
+        <node id="1" name="leg1">
+            <position x="-0.375" y="-0.5" z="0.375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="13" z="2"/>
+            <unwrap mode="0">
+                <num0 x="4" y="2" transform="8" nobrightness="true"/>
+                <num1 x="4" y="2" transform="8" nobrightness="true"/>
+                <num2 x="4" y="2" transform="8" nobrightness="true"/>
+                <num3 x="4" y="2" transform="8" nobrightness="true"/>
+                <num4 x="4" y="2" transform="8" nobrightness="true"/>
+                <num5 x="4" y="2" transform="8" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="2" name="leg2">
+            <position x="0.375" y="-0.5" z="0.375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="13" z="2"/>
+            <unwrap mode="0">
+                <num0 x="2" y="2" transform="0" nobrightness="true"/>
+                <num1 x="2" y="2" transform="0" nobrightness="true"/>
+                <num2 x="2" y="2" transform="0" nobrightness="true"/>
+                <num3 x="2" y="2" transform="0" nobrightness="true"/>
+                <num4 x="2" y="2" transform="0" nobrightness="true"/>
+                <num5 x="2" y="2" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="3" name="leg3">
+            <position x="0.375" y="-0.5" z="-0.375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="13" z="2"/>
+            <unwrap mode="0">
+                <num0 x="4" y="2" transform="8" nobrightness="true"/>
+                <num1 x="4" y="2" transform="8" nobrightness="true"/>
+                <num2 x="4" y="2" transform="8" nobrightness="true"/>
+                <num3 x="4" y="2" transform="8" nobrightness="true"/>
+                <num4 x="4" y="2" transform="8" nobrightness="true"/>
+                <num5 x="4" y="2" transform="8" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="4" name="leg4">
+            <position x="-0.375" y="-0.5" z="-0.375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="13" z="2"/>
+            <unwrap mode="0">
+                <num0 x="2" y="2" transform="0" nobrightness="true"/>
+                <num1 x="2" y="2" transform="0" nobrightness="true"/>
+                <num2 x="2" y="2" transform="0" nobrightness="true"/>
+                <num3 x="2" y="2" transform="0" nobrightness="true"/>
+                <num4 x="2" y="2" transform="0" nobrightness="true"/>
+                <num5 x="2" y="2" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

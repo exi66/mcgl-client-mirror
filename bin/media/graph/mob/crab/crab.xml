@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="crab" texwidth="32" texheight="32" standartlighting="true">
+    <node id="0" name="body">
+        <position x="0" y="0.125" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="0.707107" x="0" y="0.707107" z="0"/>
+        <size x="6" y="2" z="6"/>
+        <unwrap mode="1">
+            <num0 x="6" y="12" transform="0"/>
+            <num1 x="18" y="12" transform="0"/>
+            <num2 x="12" y="12" transform="0"/>
+            <num3 x="12" y="6" transform="0"/>
+            <num4 x="0" y="12" transform="0"/>
+            <num5 x="6" y="6" transform="0"/>
+        </unwrap>
+        <node id="1" name="body_2">
+            <position x="0" y="0.09375" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="4" y="1" z="4"/>
+            <unwrap mode="1">
+                <num0 x="4" y="4" transform="0"/>
+                <num1 x="12" y="4" transform="0"/>
+                <num2 x="8" y="4" transform="0"/>
+                <num3 x="8" y="0" transform="0"/>
+                <num4 x="0" y="4" transform="0"/>
+                <num5 x="4" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="2" name="claw_1">
+            <position x="-0.125" y="-0.0625" z="0"/>
+            <offset x="0" y="0" z="0.125"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.880917" x="0.0723575" y="-0.466137" z="-0.0382879"/>
+            <size x="1" y="1" z="4"/>
+            <unwrap mode="1">
+                <num0 x="14" y="18" transform="0"/>
+                <num1 x="19" y="18" transform="0"/>
+                <num2 x="15" y="18" transform="0"/>
+                <num3 x="15" y="14" transform="0"/>
+                <num4 x="10" y="18" transform="0"/>
+                <num5 x="14" y="14" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="3" name="claw_2">
+            <position x="-0.125" y="-0.0625" z="-0.0625"/>
+            <offset x="0" y="0" z="0.125"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.725406" x="0.0619296" y="-0.683045" z="-0.0583131"/>
+            <size x="1" y="1" z="4"/>
+            <unwrap mode="1">
+                <num0 x="14" y="18" transform="0"/>
+                <num1 x="19" y="18" transform="0"/>
+                <num2 x="15" y="18" transform="0"/>
+                <num3 x="15" y="14" transform="0"/>
+                <num4 x="10" y="18" transform="0"/>
+                <num5 x="14" y="14" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="4" name="claw_3">
+            <position x="-0.125" y="-0.0625" z="-0.125"/>
+            <offset x="0" y="0" z="0.125"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="-0.473906" x="-0.0539812" y="0.873272" z="0.0994718"/>
+            <size x="1" y="1" z="4"/>
+            <unwrap mode="1">
+                <num0 x="14" y="18" transform="0"/>
+                <num1 x="19" y="18" transform="0"/>
+                <num2 x="15" y="18" transform="0"/>
+                <num3 x="15" y="14" transform="0"/>
+                <num4 x="10" y="18" transform="0"/>
+                <num5 x="14" y="14" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="5" name="claw_4">
+            <position x="0.125" y="-0.0625" z="0"/>
+            <offset x="0" y="0" z="0.125"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.880917" x="0.0723575" y="0.466137" z="0.0382879"/>
+            <size x="1" y="1" z="4"/>
+            <unwrap mode="1">
+                <num0 x="14" y="18" transform="0"/>
+                <num1 x="19" y="18" transform="0"/>
+                <num2 x="15" y="18" transform="0"/>
+                <num3 x="15" y="14" transform="0"/>
+                <num4 x="10" y="18" transform="0"/>
+                <num5 x="14" y="14" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="6" name="claw_5">
+            <position x="0.125" y="-0.0625" z="-0.0625"/>
+            <offset x="0" y="0" z="0.125"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.725406" x="0.0619296" y="0.683045" z="0.0583131"/>
+            <size x="1" y="1" z="4"/>
+            <unwrap mode="1">
+                <num0 x="14" y="18" transform="0"/>
+                <num1 x="19" y="18" transform="0"/>
+                <num2 x="15" y="18" transform="0"/>
+                <num3 x="15" y="14" transform="0"/>
+                <num4 x="10" y="18" transform="0"/>
+                <num5 x="14" y="14" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="7" name="claw_6">
+            <position x="0.125" y="-0.0625" z="-0.125"/>
+            <offset x="0" y="0" z="0.125"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.473906" x="0.0539812" y="0.873272" z="0.0994718"/>
+            <size x="1" y="1" z="4"/>
+            <unwrap mode="1">
+                <num0 x="14" y="18" transform="0"/>
+                <num1 x="19" y="18" transform="0"/>
+                <num2 x="15" y="18" transform="0"/>
+                <num3 x="15" y="14" transform="0"/>
+                <num4 x="10" y="18" transform="0"/>
+                <num5 x="14" y="14" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="8" name="right_claw ">
+            <position x="-0.1875" y="0" z="0.1875"/>
+            <offset x="0" y="0" z="0.0625"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.986275" x="0" y="-0.165113" z="0"/>
+            <size x="1" y="1" z="3"/>
+            <unwrap mode="1">
+                <num0 x="14" y="22" transform="0"/>
+                <num1 x="18" y="22" transform="0"/>
+                <num2 x="15" y="22" transform="0"/>
+                <num3 x="15" y="19" transform="0"/>
+                <num4 x="11" y="22" transform="0"/>
+                <num5 x="14" y="19" transform="0"/>
+            </unwrap>
+            <node id="10" name="right_claw _1">
+                <position x="0" y="0" z="0.0625"/>
+                <offset x="0" y="0" z="0.0625"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="0.962509" x="0" y="0.271248" z="0"/>
+                <size x="2" y="2" z="3"/>
+                <unwrap mode="1">
+                    <num0 x="3" y="17" transform="0"/>
+                    <num1 x="8" y="17" transform="0"/>
+                    <num2 x="5" y="17" transform="0"/>
+                    <num3 x="5" y="14" transform="0"/>
+                    <num4 x="0" y="17" transform="0"/>
+                    <num5 x="3" y="14" transform="0"/>
+                </unwrap>
+                <node id="12" name="right_claw_2">
+                    <position x="0.0625" y="0" z="-0.0625"/>
+                    <offset x="0" y="0" z="0.0625"/>
+                    <scale x="1" y="1" z="1"/>
+                    <orientation w="0.975611" x="0" y="0.219506" z="0"/>
+                    <size x="1" y="1" z="2"/>
+                    <unwrap mode="1">
+                        <num0 x="4" y="21" transform="0"/>
+                        <num1 x="7" y="21" transform="0"/>
+                        <num2 x="5" y="21" transform="0"/>
+                        <num3 x="5" y="19" transform="0"/>
+                        <num4 x="2" y="21" transform="0"/>
+                        <num5 x="4" y="19" transform="0"/>
+                    </unwrap>
+                </node>
+            </node>
+        </node>
+        <node id="9" name="left_claw">
+            <position x="0.1875" y="0" z="0.1875"/>
+            <offset x="0" y="0" z="0.0625"/>
+            <scale x="1" y="-1" z="-1"/>
+            <orientation w="0.986275" x="0" y="0.165113" z="0"/>
+            <size x="1" y="1" z="3"/>
+            <unwrap mode="1">
+                <num0 x="14" y="22" transform="0"/>
+                <num1 x="18" y="22" transform="0"/>
+                <num2 x="15" y="22" transform="0"/>
+                <num3 x="15" y="19" transform="0"/>
+                <num4 x="11" y="22" transform="0"/>
+                <num5 x="14" y="19" transform="0"/>
+            </unwrap>
+            <node id="11" name="left_claw_1">
+                <position x="0" y="0" z="0.0625"/>
+                <offset x="0" y="0" z="0.0625"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="0.962509" x="0" y="-0.271248" z="0"/>
+                <size x="2" y="2" z="3"/>
+                <unwrap mode="1">
+                    <num0 x="3" y="17" transform="0"/>
+                    <num1 x="8" y="17" transform="0"/>
+                    <num2 x="5" y="17" transform="0"/>
+                    <num3 x="5" y="14" transform="0"/>
+                    <num4 x="0" y="17" transform="0"/>
+                    <num5 x="3" y="14" transform="0"/>
+                </unwrap>
+                <node id="13" name="left_claw_2">
+                    <position x="-0.0625" y="0" z="-0.0625"/>
+                    <offset x="0" y="0" z="0.0625"/>
+                    <scale x="-1" y="1" z="1"/>
+                    <orientation w="0.975611" x="0" y="-0.219506" z="0"/>
+                    <size x="1" y="1" z="2"/>
+                    <unwrap mode="1">
+                        <num0 x="4" y="21" transform="0"/>
+                        <num1 x="7" y="21" transform="0"/>
+                        <num2 x="5" y="21" transform="0"/>
+                        <num3 x="5" y="19" transform="0"/>
+                        <num4 x="2" y="21" transform="0"/>
+                        <num5 x="4" y="19" transform="0"/>
+                    </unwrap>
+                </node>
+            </node>
+        </node>
+    </node>
+    <animations count="3">
+        <animation id="0" name="run"/>
+        <animation id="1" name="walk"/>
+        <animation id="2" name="stay"/>
+    </animations>
+</model>

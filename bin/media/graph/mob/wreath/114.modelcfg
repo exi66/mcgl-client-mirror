@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <modelname name="goat"/>
+    <standartlight/>
+    <animation id="116" name="walk"/>
+    <animation id="117" name="run"/>
+    <animation id="118" name="eat"/>
+</model>

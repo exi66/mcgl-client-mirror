@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="walk" duration="3" holdlastframe="0">
+    <node id="1">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.976296" x="-1.28395e-09" y="-0.209065" z="-0.0560187"/>
+            <orientation interpolation="0" index="1" w="0.946664" x="-0.0420762" y="0.317148" z="-0.0383876"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="3">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.976296" x="-1.28395e-09" y="0.209065" z="0.0560187"/>
+            <orientation interpolation="0" index="1" w="0.946664" x="-0.0420762" y="-0.317148" z="0.0383876"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

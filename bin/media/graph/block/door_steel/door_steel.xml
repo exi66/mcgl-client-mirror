@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="door_steel" texwidth="64" texheight="64" standartlighting="true">
+    <node id="0" name="steel_door">
+		<active type="head"/>
+        <position x="0" y="1" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="32" z="3"/>
+        <unwrap mode="1">
+            <num0 x="3" y="3" transform="0" nobrightness="true"/>
+            <num1 x="22" y="3" transform="0" nobrightness="true"/>
+            <num2 x="19" y="3" transform="0" nobrightness="true"/>
+            <num3 x="19" y="0" transform="0" nobrightness="true"/>
+            <num4 x="0" y="3" transform="0" nobrightness="true"/>
+            <num5 x="3" y="0" transform="0" nobrightness="true"/>
+        </unwrap>
+        <node id="1" name="steel_bulkhead_2">
+            <position x="0" y="0.25" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="0.999358"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="10" y="2" z="3"/>
+            <unwrap mode="1">
+                <num0 x="3" y="38" transform="0" nobrightness="true"/>
+                <num1 x="16" y="38" transform="0" nobrightness="true"/>
+                <num2 x="13" y="38" transform="0" nobrightness="true"/>
+                <num3 x="13" y="35" transform="0" nobrightness="true"/>
+                <num4 x="0" y="38" transform="0" nobrightness="true"/>
+                <num5 x="3" y="35" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="3" name="steel_bulkhead">
+            <position x="0" y="0.875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="0.999358"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="10" y="2" z="3"/>
+            <unwrap mode="1">
+                <num0 x="3" y="38" transform="0" nobrightness="true"/>
+                <num1 x="16" y="38" transform="0" nobrightness="true"/>
+                <num2 x="13" y="38" transform="0" nobrightness="true"/>
+                <num3 x="13" y="35" transform="0" nobrightness="true"/>
+                <num4 x="0" y="38" transform="0" nobrightness="true"/>
+                <num5 x="3" y="35" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="4" name="steel_bulkhead_3">
+            <position x="-0.375" y="0.5625" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="0.99587"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="8" z="3"/>
+            <unwrap mode="1">
+                <num0 x="3" y="43" transform="0" nobrightness="true"/>
+                <num1 x="8" y="43" transform="0" nobrightness="true"/>
+                <num2 x="5" y="43" transform="0" nobrightness="true"/>
+                <num3 x="5" y="40" transform="0" nobrightness="true"/>
+                <num4 x="0" y="43" transform="0" nobrightness="true"/>
+                <num5 x="3" y="40" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="5" name="steel_bulkhead_4">
+            <position x="0.375" y="0.5625" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="0.99587"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="8" z="3"/>
+            <unwrap mode="1">
+                <num0 x="3" y="43" transform="0" nobrightness="true"/>
+                <num1 x="8" y="43" transform="0" nobrightness="true"/>
+                <num2 x="5" y="43" transform="0" nobrightness="true"/>
+                <num3 x="5" y="40" transform="0" nobrightness="true"/>
+                <num4 x="0" y="43" transform="0" nobrightness="true"/>
+                <num5 x="3" y="40" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="8" name="stick">
+            <position x="0" y="0.5625" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="8" z="3"/>
+            <unwrap mode="1">
+                <num0 x="13" y="48" transform="0" nobrightness="true"/>
+                <num1 x="18" y="48" transform="0" nobrightness="true"/>
+                <num2 x="15" y="48" transform="0" nobrightness="true"/>
+                <num3 x="15" y="45" transform="0" nobrightness="true"/>
+                <num4 x="10" y="48" transform="0" nobrightness="true"/>
+                <num5 x="13" y="45" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="9" name="stick">
+            <position x="0" y="0.5625" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="10" y="2" z="3"/>
+            <unwrap mode="1">
+                <num0 x="13" y="43" transform="0" nobrightness="true"/>
+                <num1 x="26" y="43" transform="0" nobrightness="true"/>
+                <num2 x="23" y="43" transform="0" nobrightness="true"/>
+                <num3 x="23" y="40" transform="0" nobrightness="true"/>
+                <num4 x="10" y="43" transform="0" nobrightness="true"/>
+                <num5 x="13" y="40" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

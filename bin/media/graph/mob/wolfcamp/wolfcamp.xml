@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="wolfcamp" texwidth="64" texheight="32" standartlighting="true">
+    <node id="0" name="Main">
+        <position x="-0.625" y="0.3125" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="10" y="10" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="42" y="16" transform="0"/>
+            <num2 x="26" y="16" transform="0"/>
+            <num3 x="26" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="1" name="Main2">
+        <position x="0.625" y="0.3125" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="10" y="10" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="42" y="16" transform="0"/>
+            <num2 x="26" y="16" transform="0"/>
+            <num3 x="26" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="2" name="Two1">
+        <position x="-0.25" y="0.875" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="8" y="8" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="40" y="16" transform="0"/>
+            <num2 x="24" y="16" transform="0"/>
+            <num3 x="24" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="3" name="Two2">
+        <position x="0.25" y="0.875" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="8" y="8" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="40" y="16" transform="0"/>
+            <num2 x="24" y="16" transform="0"/>
+            <num3 x="24" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="4" name="Bottom">
+        <position x="0" y="0.3125" z="-0.625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="10" y="10" z="8"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="34" y="16" transform="0"/>
+            <num2 x="26" y="16" transform="0"/>
+            <num3 x="26" y="8" transform="0"/>
+            <num4 x="8" y="16" transform="0"/>
+            <num5 x="16" y="8" transform="0"/>
+        </unwrap>
+    </node>
+    <animations count="0"/>
+</model>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="scarecrow" texwidth="128" texheight="64" nocullface="true" standartlighting="true">
+    <node id="0" name="Base">
+        <position x="0" y="0.8125" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="2" y="26" z="2"/>
+        <unwrap mode="1">
+            <num0 x="48" y="14" transform="0"/>
+            <num1 x="52" y="14" transform="0"/>
+            <num2 x="50" y="14" transform="0"/>
+            <num3 x="50" y="12" transform="0"/>
+            <num4 x="46" y="14" transform="0"/>
+            <num5 x="48" y="12" transform="0"/>
+        </unwrap>
+        <node id="1" name="Shoulders">
+            <position x="0" y="0.55625" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="28" y="2" z="2"/>
+            <unwrap mode="1">
+                <num0 x="2" y="42" transform="0"/>
+                <num1 x="32" y="42" transform="0"/>
+                <num2 x="30" y="42" transform="0"/>
+                <num3 x="30" y="40" transform="0"/>
+                <num4 x="0" y="42" transform="0"/>
+                <num5 x="2" y="40" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="2" name="head">
+            <active type="head"/>
+            <position x="0" y="0.9375" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="8" z="8"/>
+            <unwrap mode="1">
+                <num0 x="8" y="8" transform="0"/>
+                <num1 x="24" y="8" transform="0"/>
+                <num2 x="16" y="8" transform="0"/>
+                <num3 x="16" y="0" transform="0"/>
+                <num4 x="0" y="8" transform="0"/>
+                <num5 x="8" y="0" transform="0"/>
+            </unwrap>
+            <node id="5" name="hat">
+                <position x="0" y="0.125" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="0.33" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="10" y="3" z="10"/>
+                <unwrap mode="2">
+                    <num0 x="32" y="3" transform="0"/>
+                    <num1 x="32" y="9" transform="0"/>
+                    <num2 x="32" y="6" transform="0"/>
+                    <num3 x="52" y="0" transform="0"/>
+                    <num4 x="32" y="0" transform="0"/>
+                    <num5 x="42" y="0" transform="0"/>
+                </unwrap>
+                <node id="6" name="hat1">
+                    <position x="0" y="0" z="0.28125"/>
+                    <offset x="0" y="0.09375" z="-0.28125"/>
+                    <scale x="1" y="1" z="1"/>
+                    <orientation w="0.999747" x="-0.0224806" y="0" z="0"/>
+                    <size x="9" y="3" z="9"/>
+                    <unwrap mode="1">
+                        <num0 x="9" y="53" transform="0"/>
+                        <num1 x="27" y="53" transform="0"/>
+                        <num2 x="18" y="53" transform="0"/>
+                        <num3 x="18" y="44" transform="0"/>
+                        <num4 x="0" y="53" transform="0"/>
+                        <num5 x="9" y="44" transform="0"/>
+                    </unwrap>
+                </node>
+            </node>
+        </node>
+        <node id="3" name="Cloth">
+            <position x="0" y="0.4375" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="20" y="6" z="3"/>
+            <unwrap mode="1">
+                <num0 x="3" y="34" transform="0"/>
+                <num1 x="26" y="34" transform="0"/>
+                <num2 x="23" y="34" transform="0"/>
+                <num3 x="23" y="31" transform="0"/>
+                <num4 x="0" y="34" transform="0"/>
+                <num5 x="3" y="31" transform="0"/>
+            </unwrap>
+            <node id="4" name="Cloth1">
+                <position x="0" y="-0.1875" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="8" y="12" z="3"/>
+                <unwrap mode="1">
+                    <num0 x="8" y="19" transform="0"/>
+                    <num1 x="19" y="19" transform="0"/>
+                    <num2 x="16" y="19" transform="0"/>
+                    <num3 x="16" y="16" transform="0"/>
+                    <num4 x="5" y="19" transform="0"/>
+                    <num5 x="8" y="16" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

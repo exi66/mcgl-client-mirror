@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="sword_gem" texwidth="128" texheight="64" nocullface="true">
+    <node id="207" name="[light]item">
+        <position x="0" y="0" z="0"/>
+        <offset x="0" y="-0.375" z="0"/>
+        <scale x="0.05" y="0.05" z="0.05"/>
+        <orientation w="1" x="-2.08616e-7" y="0" z="0"/>
+        <size x="32" y="32" z="32"/>
+        <unwrap mode="1">
+            <num0 x="32" y="32" transform="0"/>
+            <num1 x="96" y="32" transform="0"/>
+            <num2 x="64" y="32" transform="0"/>
+            <num3 x="64" y="0" transform="0"/>
+            <num4 x="0" y="32" transform="0"/>
+            <num5 x="32" y="0" transform="0"/>
+        </unwrap>
+        <node id="215" name="[light]gem">
+            <position x="0" y="-1.86205e-10" z="7.45053e-9"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="0.05" y="0.05" z="0.05"/>
+            <orientation w="0.865238" x="-0.322905" y="-0.13517" z="-0.358921"/>
+            <size x="32" y="32" z="32"/>
+            <unwrap mode="1">
+                <num0 x="32" y="32" transform="0"/>
+                <num1 x="96" y="32" transform="0"/>
+                <num2 x="64" y="32" transform="0"/>
+                <num3 x="64" y="0" transform="0"/>
+                <num4 x="0" y="32" transform="0"/>
+                <num5 x="32" y="0" transform="0"/>
+            </unwrap>
+            <node id="216" name="[light]gem">
+                <position x="-1.80281e-8" y="-2.68215e-8" z="-1.90864e-8"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="0.05" y="0.05" z="0.05"/>
+                <orientation w="0.829777" x="0.245487" y="0.492371" z="0.0936842"/>
+                <size x="32" y="32" z="32"/>
+                <unwrap mode="1">
+                    <num0 x="32" y="32" transform="0"/>
+                    <num1 x="96" y="32" transform="0"/>
+                    <num2 x="64" y="32" transform="0"/>
+                    <num3 x="64" y="0" transform="0"/>
+                    <num4 x="0" y="32" transform="0"/>
+                    <num5 x="32" y="0" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

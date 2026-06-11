@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="tnt" duration="6" holdlastframe="0">
+    <node id="15">
+        <positions>
+            <position interpolation="0" index="0" x="0.000180773" y="-0.000282764" z="-5.87106e-06"/>
+            <position interpolation="0" index="3" x="0.000180773" y="-0.363408" z="-5.87106e-06"/>
+            <position interpolation="0" index="6" x="0.000180773" y="-0.000282764" z="-5.87106e-06"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="-2.90864e-05" y="2.00371e-05" z="2.93371e-05"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="23">
+        <positions>
+            <position interpolation="0" index="0" x="0.000310242" y="0.000123739" z="-2.98023e-08"/>
+            <position interpolation="0" index="3" x="0.000310242" y="0.334499" z="-2.98023e-08"/>
+            <position interpolation="0" index="6" x="0.000310242" y="0.000123739" z="-2.98023e-08"/>
+        </positions>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="9">
+        <positions>
+            <position interpolation="0" index="0" x="-0.00019145" y="0.000101447" z="-2.23517e-08"/>
+            <position interpolation="0" index="3" x="-0.00019145" y="0.374476" z="-2.23517e-08"/>
+            <position interpolation="0" index="6" x="-0.00019145" y="0.000101447" z="-2.23517e-08"/>
+        </positions>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

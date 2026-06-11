@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="run" duration="100" holdlastframe="0">
+    <node id="10">
+        <positions>
+            <position interpolation="0" index="0" x="-0.625" y="-0.01875" z="-0.375"/>
+            <position interpolation="0" index="25" x="-0.125" y="-0.01875" z="-0.3125"/>
+            <position interpolation="0" index="50" x="-0.5" y="-0.01875" z="-0.083125"/>
+            <position interpolation="0" index="75" x="-0.0625007" y="-0.01875" z="0.0625"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.833893" x="0.508988" y="-0.182194" z="0.111168"/>
+            <orientation interpolation="0" index="25" w="0.851251" x="0.519588" y="-0.0627394" z="0.0382575"/>
+            <orientation interpolation="0" index="50" w="0.78236" x="0.570039" y="-0.224145" z="0.112814"/>
+            <orientation interpolation="0" index="75" w="0.74395" x="0.659728" y="-0.10397" z="-0.0220637"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

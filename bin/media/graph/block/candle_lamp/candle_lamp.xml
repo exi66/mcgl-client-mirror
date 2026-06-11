@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="candle_lamp" texwidth="128" texheight="128" nocullface="true" standartlighting="true">
+    <node id="0" name="Base">
+        <position x="0" y="0.0625" z="0"/>
+        <offset x="0" y="0.21875" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="6" y="7" z="6"/>
+        <unwrap mode="1">
+            <num0 x="6" y="6" transform="0"/>
+            <num1 x="18" y="6" transform="0"/>
+            <num2 x="12" y="6" transform="0"/>
+            <num3 x="12" y="0" transform="0"/>
+            <num4 x="0" y="6" transform="0"/>
+            <num5 x="6" y="0" transform="0"/>
+        </unwrap>
+        <node id="1" name="top">
+            <position x="0" y="0.34375" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="4" y="2" z="4"/>
+            <unwrap mode="1">
+                <num0 x="4" y="17" transform="0"/>
+                <num1 x="12" y="17" transform="0"/>
+                <num2 x="8" y="17" transform="0"/>
+                <num3 x="8" y="13" transform="0"/>
+                <num4 x="0" y="17" transform="0"/>
+                <num5 x="4" y="13" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="4" name="bottom">
+            <position x="0" y="-0.25" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="7" y="1" z="7"/>
+            <unwrap mode="1">
+                <num0 x="7" y="35" transform="0"/>
+                <num1 x="21" y="35" transform="0"/>
+                <num2 x="14" y="35" transform="0"/>
+                <num3 x="14" y="28" transform="0"/>
+                <num4 x="0" y="35" transform="0"/>
+                <num5 x="7" y="28" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="5" name="top2">
+            <position x="0" y="0.25" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="7" y="1" z="7"/>
+            <unwrap mode="1">
+                <num0 x="7" y="35" transform="0"/>
+                <num1 x="21" y="35" transform="0"/>
+                <num2 x="14" y="35" transform="0"/>
+                <num3 x="14" y="28" transform="0"/>
+                <num4 x="0" y="35" transform="0"/>
+                <num5 x="7" y="28" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="6" name="candle">
+            <position x="0" y="-0.09375" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="4" z="2"/>
+            <unwrap mode="1">
+                <num0 x="17" y="24" transform="0"/>
+                <num1 x="21" y="24" transform="0"/>
+                <num2 x="19" y="24" transform="0"/>
+                <num3 x="19" y="22" transform="0"/>
+                <num4 x="15" y="24" transform="0"/>
+                <num5 x="17" y="22" transform="0"/>
+            </unwrap>
+            <node id="7" name="wick">
+                <position x="0" y="0.125" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="0.2" y="1" z="0.2"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="18" y="21" transform="0"/>
+                    <num1 x="20" y="21" transform="0"/>
+                    <num2 x="19" y="21" transform="0"/>
+                    <num3 x="19" y="20" transform="0"/>
+                    <num4 x="17" y="21" transform="0"/>
+                    <num5 x="18" y="20" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

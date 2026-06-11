@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+	<head>
+		<item name="phones" tilex="0" tiley="0" id="800">
+			<buy cost="7" />
+		</item>
+		<item name="antena" tilex="1" tiley="0" id="801">
+			<craft count="1">
+				<slot index="1" id="264" />
+				<slot index="3" id="264" />
+				<slot index="4" id="265" />
+				<slot index="6" id="265" />
+				<slot index="7" id="265" />
+				<slot index="9" id="265" />
+			</craft>
+		</item>
+		<item name="chebarashka" tilex="2" tiley="0" id="802">
+			<buy cost="1" />
+		</item>
+		<item name="apache" tilex="3" tiley="0" id="803">
+			<craft count="1">
+				<slot index="1" id="288" />
+				<slot index="3" id="288" />
+				<slot index="4" id="288" />
+				<slot index="5" id="288" />
+				<slot index="6" id="288" />
+				<slot index="8" id="288" />
+			</craft>
+		</item>
+		<item name="crown" tilex="4" tiley="0" id="804">
+			<buy cost="15" cat="33" />
+		</item>
+		<item name="earrings" tilex="5" tiley="0" id="805">
+			<craft count="1">
+				<slot index="1" id="266" />
+				<slot index="3" id="266" />
+			</craft>
+		</item>
+		<item name="rose" tilex="6" tiley="0" id="806">
+			<craft count="1">
+				<slot index="1" id="38" />
+				<slot index="2" id="265" />
+				<slot index="3" id="38" />
+			</craft>
+		</item>
+		<item name="robot" tilex="7" tiley="0" id="807">
+			<craft count="1">
+				<slot index="2" id="265" />
+				<slot index="4" id="265" />
+				<slot index="6" id="265" />
+				<slot index="7" id="265" />
+				<slot index="9" id="265" />
+			</craft>
+		</item>
+		<item name="elvis" tilex="8" tiley="0" id="808" flag="1">
+			<craft count="1">
+				<slot index="2" id="35" />
+				<slot index="4" id="35" />
+				<slot index="6" id="35" />
+				<slot index="7" id="35" />
+				<slot index="9" id="35" />
+			</craft>
+		</item>
+		<item name="dread" tilex="9" tiley="0" id="809" flag="1">
+			<craft count="1">
+				<slot index="2" id="287" />
+				<slot index="4" id="287" />
+				<slot index="5" id="336" />
+				<slot index="6" id="287" />
+				<slot index="7" id="287" />
+				<slot index="9" id="287" />
+			</craft>
+		</item>
+		<item name="cat_ears" tilex="0" tiley="0" id="810">
+			<buy cost="15" />
+		</item>
+		<item name="rome_helmet" tilex="0" tiley="0" id="811" flag="1">
+			<buy cost="100" cat="32" />
+		</item>
+		<item name="china_hat" tilex="0" tiley="0" id="812" flag="1">
+			<buy cost="15" cat="33" />
+		</item>
+		<item name="knight_helmet" tilex="0" tiley="0" id="813" flag="1">
+			<buy cost="200" cat="32" />
+		</item>
+		<item name="builder_hat" tilex="0" tiley="0" id="814" flag="1">
+			<buy cost="10" cat="33" />
+		</item>
+		<item name="redarmy_hat" tilex="0" tiley="0" id="815" flag="1">
+			<buy cost="20" cat="33" />
+		</item>
+		<item name="viking_helmet" tilex="0" tiley="0" id="816" flag="1">
+			<buy cost="35" cat="32" />
+		</item>
+		<item name="r2d2" tilex="0" tiley="0" id="817" flag="1">
+			<buy cost="20" />
+		</item>
+		<item name="sauron" tilex="0" tiley="0" id="818" flag="1">
+		</item>
+		<item name="ragged" tilex="0" tiley="0" id="819" flag="1">
+			<buy cost="50" />
+		</item>
+		<item name="thief_mask" tilex="0" tiley="0" id="820" flag="1">
+			<buy cost="75" cat="34" />
+		</item>
+		<item name="t800_mask1" tilex="0" tiley="0" id="821">
+			<buy cost="15" cat="34" />
+		</item>
+		<item name="t800_mask2" tilex="0" tiley="0" id="822">
+			<buy cost="15" cat="34" />
+		</item>
+		<item name="baseball_hat_green" tilex="0" tiley="0" id="823" flag="1">
+			<buy cost="10" cat="33" />
+		</item>
+		<item name="bum_hat" tilex="0" tiley="0" id="824" flag="1">
+			<buy cost="25" cat="33" />
+		</item>
+		<item name="cylinder_hat" tilex="0" tiley="0" id="825" flag="1">
+			<buy cost="50" cat="33" />
+		</item>
+		<item name="mafia_hat" tilex="0" tiley="0" id="826" flag="1">
+			<buy cost="40" cat="33" />
+		</item>
+		<item name="dart_vader" tilex="0" tiley="0" id="827" flag="1">
+			<buy cost="200" cat="34" />
+		</item>
+		<item name="girl1_hat" tilex="0" tiley="0" id="828" flag="1">
+			<buy cost="15" cat="33" />
+		</item>
+		<item name="girl2_hat" tilex="0" tiley="0" id="829" flag="1">
+			<buy cost="15" cat="33" />
+		</item>
+		<item name="blue_hat" tilex="0" tiley="0" id="830" flag="1">
+			<buy cost="50" cat="33" />
+		</item>
+		<item name="clown_hat" tilex="0" tiley="0" id="831" flag="1">
+			<buy cost="10" cat="33" />
+		</item>
+		<item name="bein" tilex="0" tiley="0" id="832" flag="1">
+			<buy cost="20" cat="34" />
+		</item>
+		<item name="boyarskii" tilex="0" tiley="0" id="833" flag="1">
+			<buy cost="75" cat="33" />
+		</item>
+		<item name="tech_helm" tilex="0" tiley="0" id="834" flag="1">
+			<buy cost="200" cat="32" />
+		</item>
+		<item name="gala_helmet" tilex="0" tiley="0" id="835" flag="1">
+			<buy cost="35" cat="32" />
+		</item>
+		<item name="pirate_hat" tilex="0" tiley="0" id="836" flag="1">
+			<buy cost="150" cat="33" />
+		</item>
+		<item name="baseball_hat_red" tilex="0" tiley="0" id="837" flag="1">
+			<buy cost="10" cat="33" />
+		</item>
+		<item name="glasses1" tilex="0" tiley="0" id="838">
+			<buy cost="1" />
+		</item>
+		<item name="moto_helmet" tilex="0" tiley="0" id="839" flag="1">
+			<buy cost="35" cat="32" />
+		</item>
+		<item name="square" tilex="0" tiley="0" id="840" flag="1">
+			<buy cost="5" cat="34" />
+		</item>
+		<item name="glasses2" tilex="0" tiley="0" id="841">
+			<buy cost="1" />
+		</item>
+		<item name="girl3_hat" tilex="0" tiley="0" id="842" flag="1">
+			<craft count="1">
+				<slot index="2" id="35" data="14" />
+				<slot index="4" id="35" data="14" />
+				<slot index="5" id="35" data="14" />
+				<slot index="6" id="35" data="14" />
+			</craft>
+		</item>
+		<item name="winter_hat" tilex="0" tiley="0" id="843" flag="1">
+			<craft count="1">
+				<slot index="1" id="35" data="4" />
+				<slot index="3" id="35" data="4" />
+				<slot index="4" id="35" data="8" />
+				<slot index="5" id="35" data="8" />
+				<slot index="6" id="35" data="8" />
+			</craft>
+		</item>
+		<item name="widow_hat" tilex="0" tiley="0" id="844" flag="1">
+			<buy cost="15" cat="33" />
+		</item>
+		<item name="clown2_hat" tilex="0" tiley="0" id="845" flag="1">
+			<buy cost="20" cat="33" />
+		</item>
+		<item name="antena2" tilex="1" tiley="0" id="846">
+			<craft count="1">
+				<slot index="1" id="35" data="15" />
+				<slot index="3" id="35" data="15" />
+				<slot index="4" id="265" />
+				<slot index="6" id="265" />
+				<slot index="7" id="265" />
+				<slot index="9" id="265" />
+			</craft>
+		</item>
+		<item name="glasses3" tilex="0" tiley="0" id="847">
+			<buy cost="1" />
+		</item>
+		<item name="dowakin_helmet" tilex="0" tiley="0" id="848" flag="1">
+			<buy cost="35" cat="32" />
+		</item>
+		<item name="deadspace_helmet" tilex="0" tiley="0" id="849" flag="1">
+			<buy cost="150" cat="32" />
+		</item>
+		<item name="elvis_black" tilex="0" tiley="0" id="850" flag="1">
+			<buy cost="1" cat="34" />
+		</item>
+		<item name="elvis_chocolate" tilex="0" tiley="0" id="851" flag="1">
+			<craft count="1">
+				<slot index="1" id="850" />
+				<slot index="2" id="351" data="3" />
+			</craft>
+		</item>
+		<item name="elvis_black_glasses" tilex="0" tiley="0" id="852" flag="1">
+			<craft count="1">
+				<slot index="1" id="850" />
+				<slot index="2" id="838" />
+			</craft>
+		</item>
+		<item name="head_dressing" tilex="0" tiley="0" id="853" flag="1">
+			<craft count="1">
+				<slot index="1" id="35" data="14" />
+				<slot index="2" id="35" data="14" />
+				<slot index="3" id="35" data="14" />
+			</craft>
+		</item>
+		<item name="newbie_hat" tilex="0" tiley="0" id="854" flag="1">
+		</item>
+		<item name="cookie_hat" tilex="0" tiley="0" id="855" flag="1">
+			<buy cost="1" cat="33" />
+		</item>
+		<item name="santa_hat" tilex="0" tiley="0" id="856" flag="1">
+			<buy cost="40" cat="33" />
+		</item>
+		<item name="papaha_hat" tilex="0" tiley="0" id="857" flag="1">
+			<buy cost="10" cat="33" />
+		</item>
+		<item name="rasta_hat" tilex="0" tiley="0" id="858" flag="1">
+			<craft count="1">
+				<slot index="1" id="35" data="5" />
+				<slot index="2" id="35" data="5" />
+				<slot index="3" id="35" data="5" />
+				<slot index="4" id="35" data="4" />
+				<slot index="5" id="35" data="4" />
+				<slot index="6" id="35" data="4" />
+				<slot index="7" id="35" data="14" />
+				<slot index="8" id="35" data="14" />
+				<slot index="9" id="35" data="14" />
+			</craft>
+		</item>
+		<item name="finn_hat" tilex="0" tiley="0" id="859" flag="1">
+			<buy cost="50" cat="33" />
+		</item>
+		<item name="paratrooper_helmet" tilex="0" tiley="0" id="860" flag="1">
+			<buy cost="170" cat="32" />
+		</item>
+		<item name="dog_mask" tilex="0" tiley="0" id="861" flag="1">
+			<buy cost="100" cat="34" />
+		</item>
+		<item name="trollface_mask" tilex="0" tiley="0" id="862" flag="1">
+			<buy cost="10" cat="34" />
+		</item>
+		<item name="piramid_hat" tilex="0" tiley="0" id="863" flag="1">
+			<buy cost="1" cat="33" />
+		</item>
+		<item name="se_stein" tilex="0" tiley="0" id="864">
+			<buy cost="1" />
+		</item>
+		<item name="monocle" tilex="0" tiley="0" id="865">
+			<buy cost="1" />
+		</item>
+		<item name="kamina_glasses" tilex="0" tiley="0" id="866">
+			<buy cost="1" />
+		</item>
+		<item name="bear_mask" tilex="0" tiley="0" id="867" flag="1">
+			<buy cost="5" cat="34" />
+		</item>
+		<item name="rabbitcatdog_mask" tilex="0" tiley="0" id="868" flag="1">
+			<buy cost="5" cat="34" />
+		</item>
+		<item name="pickaxe_in_head" tilex="0" tiley="0" id="869" flag="1">
+			<buy cost="15" cat="34" />
+		</item>
+		<item name="mickey_mouse" tilex="0" tiley="0" id="870">
+			<buy cost="6" />
+		</item>
+		<item name="minnie_mouse" tilex="0" tiley="0" id="871">
+			<buy cost="6" />
+		</item>
+		<item name="bender_antenna" tilex="0" tiley="0" id="872">
+			<buy cost="1" />
+		</item>
+		<item name="enginer_helmet_device" tilex="0" tiley="0" id="873" flag="1">
+			<buy cost="150" cat="32" />
+		</item>
+		<item name="elf_ears" tilex="0" tiley="0" id="874">
+			<buy cost="3" />
+		</item>
+		<item name="bant_rose" tilex="0" tiley="0" id="875">
+			<buy cost="2" />
+		</item>
+		<item name="phones2" tilex="0" tiley="0" id="876">
+			<buy cost="15" />
+		</item>
+		<item name="rugby_helmet" tilex="0" tiley="0" id="877" flag="1">
+			<buy cost="200" cat="32" />
+		</item>
+		<item name="medic_mask" tilex="0" tiley="0" id="878" flag="1">
+			<buy cost="25" cat="34" />
+		</item>
+		<item name="newyear_man_hat" tilex="0" tiley="0" id="879" flag="1">
+		</item>
+		<item name="newyear_woman_hat" tilex="0" tiley="0" id="880" flag="1">
+		</item>
+		<item name="wreath" tilex="0" tiley="0" id="898" flag="0">
+		</item>
+		<item name="hat_dandelion" tilex="0" tiley="0" id="899" flag="1">
+			<craft count="1">
+				<slot index="2" id="239" />
+				<slot index="4" id="239" />
+				<slot index="6" id="239" />
+				<slot index="9" id="37" />
+			</craft>
+		</item>
+		<item name="scientist" tilex="0" tiley="0" id="900" flag="1">
+			<buy cost="20" cat="33" />
+		</item>
+		<item name="test" tilex="0" tiley="0" id="901">
+		</item>
+		<item name="futurama_blob" tilex="0" tiley="0" id="902" flag="1">
+			<craft count="1">
+				<slot index="1" id="341" />
+				<slot index="2" id="341" />
+				<slot index="4" id="341" />
+				<slot index="5" id="381" />
+				<slot index="6" id="341" />
+				<slot index="8" id="341" />
+			</craft>
+		</item>
+		<item name="iroquois1" tilex="0" tiley="0" id="903" flag="1">
+			<craft count="1">
+				<slot index="1" id="35" data="5" />
+				<slot index="2" id="35" data="5" />
+				<slot index="3" id="35" data="5" />
+				<slot index="6" id="35" data="5" />
+			</craft>
+		</item>
+
+		<item name="Шляпа ведьмы" tilex="0" tiley="0" id="906" flag="1" />
+		<item name="Шляпа ведьмы - нос" tilex="0" tiley="0" id="907" flag="1" />
+		<item name="Очки с усами" tilex="0" tiley="0" id="908" flag="0" />
+		<item name="Голова зомби" tilex="0" tiley="0" id="909" flag="1" />
+		<item name="Капюшон вампира" tilex="0" tiley="0" id="910" flag="1" />
+		<item name="Маска привидения" tilex="0" tiley="0" id="911" flag="1" />
+		<item name="Мумия" tilex="0" tiley="0" id="912" flag="1" />
+		<item name="Спрут" tilex="0" tiley="0" id="913" flag="1" />
+		<item name="Стрела в голове" tilex="0" tiley="0" id="914" flag="0" />
+		<item name="Тыква" tilex="0" tiley="0" id="915" flag="1" />
+		<item name="Маска Хиробрина" tilex="0" tiley="0" id="916" flag="0" />
+		<item name="Зеленая шляпа" tilex="0" tiley="0" id="917" flag="1" />
+
+		<item name="Лиса" tilex="0" tiley="0" id="923" flag="1" />
+		<item name="Кокошник снегурочки" tilex="0" tiley="0" id="927" flag="1" />
+		<item name="Олень" tilex="0" tiley="0" id="929" flag="1" />
+		<item name="Петрушка" tilex="0" tiley="0" id="930" flag="1" />
+		<item name="Шапка эльфа" tilex="0" tiley="0" id="934" flag="1" />
+		<item name="Дракон края" tilex="0" tiley="0" id="935" flag="1" />
+		<item name="Лягушка" tilex="0" tiley="0" id="936" flag="1" />
+		<item name="Красный дракон" tilex="0" tiley="0" id="937" flag="1" />
+		<item name="Tonto" tilex="0" tiley="0" id="938" flag="1" />
+		<item name="Визор" tilex="0" tiley="0" id="939" flag="0" />
+		<item name="Зомби" tilex="0" tiley="0" id="940" flag="1" />
+		<item name="Рогатый череп" tilex="0" tiley="0" id="941" flag="1" />
+		<item name="Барашек" tilex="0" tiley="0" id="942" flag="1" />
+		<item name="Щелкунчик" tilex="0" tiley="0" id="943" flag="1" />
+		<item name="Красная шляпа 2015" tilex="0" tiley="0" id="944" flag="1" />
+		<item name="Капитан америка" tilex="0" tiley="0" id="948" flag="1" />
+
+		<item name="sector" tilex="0" tiley="0" id="954" flag="1" />
+		<item name="smoke" tilex="0" tiley="0" id="955" flag="1" />
+		<item name="syrax" tilex="0" tiley="0" id="956" flag="1" />
+		<item name="assasincreed" tilex="0" tiley="0" id="957" flag="1" />
+		<item name="batman" tilex="0" tiley="0" id="958" flag="1" />
+		<item name="catinboots" tilex="0" tiley="0" id="959" flag="1" />
+		<item name="megaman" tilex="0" tiley="0" id="960" flag="1" />
+		<item name="cow" tilex="0" tiley="0" id="961" flag="1" />
+		<item name="fish" tilex="0" tiley="0" id="962" flag="1" />
+		<item name="hulk" tilex="0" tiley="0" id="963" flag="1" />
+		<item name="jason" tilex="0" tiley="0" id="964" flag="1" />
+		<item name="pikachu" tilex="0" tiley="0" id="965" flag="1" />
+		<item name="pudel" tilex="0" tiley="0" id="966" flag="1" />
+		<item name="rainbowdash" tilex="0" tiley="0" id="967" flag="1" />
+		<item name="samurai" tilex="0" tiley="0" id="968" flag="1" />
+		<item name="zayka" tilex="0" tiley="0" id="969" flag="1" />
+		<item name="edgeDragon" tilex="0" tiley="0" id="972" flag="1" />
+		<item name="edgeDragonNeon" tilex="0" tiley="0" id="974" flag="1" />
+		<item name="demonologAccessories" tilex="0" tiley="0" id="978" flag="1" />
+		<item name="creaper" tilex="0" tiley="0" id="979" flag="1" />
+
+		<item name="Армейская кепка" tilex="0" tiley="0" id="986" flag="1">
+		</item>
+		<item name="Белая шапка ушанка" tilex="0" tiley="0" id="987" flag="1">
+		</item>
+		<item name="Солдатская шапка ушанка" tilex="0" tiley="0" id="988" flag="1">
+		</item>
+		<item name="Шлем Маска-1Щ" tilex="0" tiley="0" id="989" flag="1">
+		</item>
+
+		<item name="ogrehelmet" tilex="0" tiley="0" id="994" flag="1" />
+		<item name="vikinghelmet" tilex="0" tiley="0" id="997" flag="1" />
+		<item name="legionhelmet" tilex="0" tiley="0" id="998" flag="1" />
+
+		<item name="CRYSIS" tilex="0" tiley="0" id="999" flag="1">
+			<buy cost="300" cat="32" />
+		</item>
+		<item name="FNaF" tilex="0" tiley="0" id="1500" flag="1">
+			<buy cost="100" cat="34" />
+		</item>
+		<item name="Halo" tilex="0" tiley="0" id="1501" flag="1">
+			<buy cost="300" cat="32" />
+		</item>
+		<item name="FlyHelmet" tilex="0" tiley="0" id="1502" flag="1">
+			<buy cost="250" cat="32" />
+		</item>
+		<item name="bull" tilex="0" tiley="0" id="1503" flag="1">
+		</item>
+		<item name="army-1" tilex="0" tiley="0" id="1504" flag="1">
+			<buy cost="200" cat="32" />
+		</item>
+		<item name="army-2" tilex="0" tiley="0" id="1505" flag="1">
+			<buy cost="200" cat="32" />
+		</item>
+		<item name="dragonwhite" tilex="0" tiley="0" id="1506" flag="1">
+			<buy cost="300" cat="33" />
+		</item>
+		<item name="majorthunder" tilex="0" tiley="0" id="1507" flag="1">
+			<buy cost="150" cat="34" />
+		</item>
+		<item name="Aborigine" tilex="0" tiley="0" id="1508" flag="1">
+			<buy cost="10" cat="34" />
+		</item>
+		<item name="joker" tilex="0" tiley="0" id="1509" flag="1">
+			<buy cost="350" cat="34" />
+		</item>
+		<item name="mastertigress" tilex="0" tiley="0" id="1510" flag="1">
+			<buy cost="350" cat="34" />
+		</item>
+		<item name="masterpanda" tilex="0" tiley="0" id="1511" flag="1">
+			<buy cost="250" cat="34" />
+		</item>
+		<item name="ussr" tilex="0" tiley="0" id="1512" flag="1">
+			<buy cost="150" cat="33" />
+		</item>
+		<item name="motofire" tilex="0" tiley="0" id="1513" flag="1">
+			<buy cost="300" cat="32" />
+		</item>
+		<item name="greenheadphones" tilex="0" tiley="0" id="1514" flag="1">
+			<buy cost="30" cat="5" />
+		</item>
+		<item name="horned_helmet" tilex="0" tiley="0" id="1515" flag="1">
+			<buy cost="350" cat="32" />
+		</item>
+		<item name="gay_hat" tilex="0" tiley="0" id="1516" flag="1">
+			<buy cost="30" cat="33" />
+		</item>
+
+		<item name="Ваас Монтенегро" tilex="0" tiley="0" id="1517" flag="1" />
+		<item name="Гаррус Вакариан" tilex="0" tiley="0" id="1518" flag="1" />
+		<item name="Урднот Рекс" tilex="0" tiley="0" id="1519" flag="1" />
+		<item name="Коллекционер" tilex="0" tiley="0" id="1520" flag="1" />
+		<item name="Мастер Йода" tilex="0" tiley="0" id="1521" flag="1" />
+		<item name="Каска шахтера" tilex="0" tiley="0" id="1522" flag="1" />
+		<item name="Шлем кузнеца" tilex="0" tiley="0" id="1523" flag="1" />
+		<item name="Маска дельфина" tilex="0" tiley="0" id="1524" flag="1" />
+		<item name="Оптимус Прайм" tilex="0" tiley="0" id="1525" flag="1" />
+		<item name="Мегатрон" tilex="0" tiley="0" id="1526" flag="1" />
+		<item name="Бамблби" tilex="0" tiley="0" id="1527" flag="1" />
+		<item name="Маска кородуба" tilex="0" tiley="0" id="1528" flag="1" />
+		<item name="Halo" tilex="0" tiley="0" id="1529" flag="1" />
+		<item name="Левиафан" tilex="0" tiley="0" id="1530" flag="1" />
+		<item name="Локдаун" tilex="0" tiley="0" id="1531" flag="1" />
+		<item name="Спектр" tilex="0" tiley="0" id="1532" flag="1" />
+
+		<item name="diadem1" tilex="0" tiley="0" id="1535" flag="1" />
+		<item name="diadem2" tilex="0" tiley="0" id="1536" flag="1" />
+		<item name="diadem3" tilex="0" tiley="0" id="1537" flag="1" />
+
+		<item name="newbiehat" tilex="0" tiley="0" id="1543" flag="1" />
+		<item name="tiger" tilex="0" tiley="0" id="1544" flag="1" />
+		<item name="craken" tilex="0" tiley="0" id="1545" flag="1" />
+		<item name="fantasy_knight" tilex="0" tiley="0" id="1546" flag="1" />
+		<item name="General Grievous" tilex="0" tiley="0" id="1547" flag="1" />
+
+		<item name="Collection-1" tilex="0" tiley="0" id="1550" flag="1" />
+		<item name="Collection-2" tilex="0" tiley="0" id="1551" flag="1" />
+		<item name="Collection-3" tilex="0" tiley="0" id="1552" flag="1" />
+		<item name="Collection-4" tilex="0" tiley="0" id="1553" flag="1" />
+		<item name="Collection-5" tilex="0" tiley="0" id="1554" flag="1" />
+		<item name="Collection-6" tilex="0" tiley="0" id="1555" flag="1" />
+		<item name="Collection-7" tilex="0" tiley="0" id="1556" flag="1" />
+		<item name="Collection-8" tilex="0" tiley="0" id="1557" flag="1" />
+		<item name="Collection-9" tilex="0" tiley="0" id="1558" flag="1" />
+		<item name="Collection-10" tilex="0" tiley="0" id="1559" flag="1" />
+		<item name="Collection-11" tilex="0" tiley="0" id="1560" flag="1" />
+		<item name="Collection-12" tilex="0" tiley="0" id="1561" flag="1" />
+		<item name="Collection-13" tilex="0" tiley="0" id="1562" flag="1" />
+		<item name="Collection-14" tilex="0" tiley="0" id="1563" flag="1" />
+		<item name="Krampus" tilex="0" tiley="0" id="1564" flag="1" />
+
+		<item name="bloodborne" id="1565" flag="1" />
+
+		<item name="cat_14f" id="1566" flag="1" />
+		<item name="angel_14f" id="1567" flag="1" />
+		<item name="Suica_14f" id="1568" flag="1" />
+		<item name="love_cube_14f" id="1569" flag="1" />
+		<item name="hc12" id="1570" flag="1" />
+	</head>
+
+	<body>
+		<item name="fly" tilex="1" tiley="0" id="793">
+			<craft count="1">
+				<slot index="1" id="288" />
+				<slot index="2" id="351" data="4" />
+				<slot index="3" id="288" />
+				<slot index="4" id="288" />
+				<slot index="5" id="288" />
+				<slot index="6" id="288" />
+				<slot index="7" id="288" />
+				<slot index="9" id="288" />
+			</craft>
+		</item>
+		<item name="wingVampireBlood" tilex="3" tiley="0" id="1400">
+			<craft count="1">
+				<slot index="1" id="288" />
+				<slot index="2" id="288" />
+				<slot index="3" id="288" />
+				<slot index="4" id="288" />
+				<slot index="5" id="87" />
+				<slot index="6" id="288" />
+				<slot index="7" id="288" />
+				<slot index="9" id="288" />
+			</craft>
+		</item>
+		<item name="wingVampireSand" tilex="3" tiley="1" id="1401">
+			<craft count="1">
+				<slot index="1" id="288" />
+				<slot index="2" id="288" />
+				<slot index="3" id="288" />
+				<slot index="4" id="288" />
+				<slot index="5" id="88" />
+				<slot index="6" id="288" />
+				<slot index="7" id="288" />
+				<slot index="9" id="288" />
+			</craft>
+		</item>
+		<item name="wingVampireDiamond" tilex="3" tiley="2" id="1402">
+			<craft count="1">
+				<slot index="1" id="288" />
+				<slot index="2" id="288" />
+				<slot index="3" id="288" />
+				<slot index="4" id="288" />
+				<slot index="5" id="264" />
+				<slot index="6" id="288" />
+				<slot index="7" id="288" />
+				<slot index="9" id="288" />
+			</craft>
+		</item>
+		<item name="flyGray" tilex="1" tiley="1" id="1403">
+			<craft count="1">
+				<slot index="1" id="288" />
+				<slot index="2" id="351" data="7" />
+				<slot index="3" id="288" />
+				<slot index="4" id="288" />
+				<slot index="5" id="288" />
+				<slot index="6" id="288" />
+				<slot index="7" id="288" />
+				<slot index="9" id="288" />
+			</craft>
+		</item>
+		<item name="flyPink" tilex="1" tiley="2" id="1404">
+			<craft count="1">
+				<slot index="1" id="288" />
+				<slot index="2" id="351" data="9" />
+				<slot index="3" id="288" />
+				<slot index="4" id="288" />
+				<slot index="5" id="288" />
+				<slot index="6" id="288" />
+				<slot index="7" id="288" />
+				<slot index="9" id="288" />
+			</craft>
+		</item>
+		<item name="wingAngel" tilex="4" tiley="0" id="1405">
+			<craft count="1">
+				<slot index="1" id="288" />
+				<slot index="2" id="288" />
+				<slot index="3" id="288" />
+				<slot index="4" id="288" />
+				<slot index="5" id="288" />
+				<slot index="6" id="288" />
+				<slot index="7" id="288" />
+				<slot index="9" id="288" />
+			</craft>
+		</item>
+		<item name="wingBuilder" tilex="5" tiley="1" id="1406">
+			<craft count="1">
+				<slot index="2" id="265" />
+				<slot index="4" id="265" />
+				<slot index="5" id="1000" />
+				<slot index="6" id="265" />
+				<slot index="7" id="265" />
+				<slot index="9" id="265" />
+			</craft>
+		</item>
+	</body>
+
+	<hand>
+
+	</hand>
+
+	<foot>
+
+	</foot>
+
+	<other>
+		<item name="cup1" tilex="0" tiley="0" id="881" flag="0" />
+		<item name="cup2" tilex="0" tiley="0" id="882" flag="0" />
+		<item name="cup3" tilex="0" tiley="0" id="883" flag="0" />
+		<item name="arrow" tilex="0" tiley="0" id="884" flag="0" />
+		<item name="camera" tilex="0" tiley="0" id="885" flag="0" />
+		<item name="pixelcup" tilex="0" tiley="0" id="886" flag="0" />
+		<item name="nicon" tilex="0" tiley="0" id="887" flag="0" />
+		<item name="spruce" tilex="0" tiley="0" id="888" flag="0" />
+		<item name="book" tilex="0" tiley="0" id="889" flag="0" />
+		<item name="goldstiv" tilex="0" tiley="0" id="890" flag="0" />
+		<item name="cube8" tilex="0" tiley="0" id="891" flag="0" />
+		<item name="flowers" tilex="0" tiley="0" id="892" flag="0" />
+		<item name="basketflowers" tilex="0" tiley="0" id="893" flag="0" />
+		<item name="chocolate1" tilex="0" tiley="0" id="894" flag="0" />
+		<item name="chocolate2" tilex="0" tiley="0" id="895" flag="0" />
+		<item name="chocolate3" tilex="0" tiley="0" id="896" flag="0" />
+		<item name="chocolate4" tilex="0" tiley="0" id="897" flag="0" />
+		<item name="raduga30lvl" tilex="0" tiley="0" id="904" flag="0" />
+		<item name="dolphin" tilex="0" tiley="0" id="905" flag="0" />
+
+		<item name="Конфета-тыква" tilex="0" tiley="0" id="918" flag="0" />
+		<item name="Леденец" tilex="0" tiley="0" id="919" flag="0" />
+		<item name="Разноцветная конфетка" tilex="0" tiley="0" id="920" flag="0" />
+		<item name="Петушок на палочке" tilex="0" tiley="0" id="921" flag="0" />
+		<item name="Чупа-чупс" tilex="0" tiley="0" id="922" flag="0" />
+
+		<item name="Снежинка" tilex="0" tiley="0" id="924" flag="0" />
+		<item name="Ёлка" tilex="0" tiley="0" id="925" flag="0" />
+		<item name="Карамель" tilex="0" tiley="0" id="926" flag="0" />
+		<item name="Мишка" tilex="0" tiley="0" id="928" flag="0" />
+		<item name="Подарок" tilex="0" tiley="0" id="931" flag="0" />
+		<item name="Пряничный домик" tilex="0" tiley="0" id="932" flag="0" />
+		<item name="Снеговик" tilex="0" tiley="0" id="933" flag="0" />
+
+		<item name="Овечка 2015" tilex="0" tiley="0" id="945" flag="0" />
+
+		<item name="Цветы" tilex="0" tiley="0" id="946" flag="0" />
+		<item name="Букет цветов" tilex="0" tiley="0" id="947" flag="0" />
+		<item name="Палитра с кистью" tilex="0" tiley="0" id="949" flag="0" />
+		<item name="Микрофон" tilex="0" tiley="0" id="950" flag="0" />
+
+		<item name="easterCake" tilex="0" tiley="0" id="951" flag="0">
+			<craft count="1">
+				<slot index="2" id="353" />
+				<slot index="4" id="344" />
+				<slot index="5" id="335" />
+				<slot index="6" id="351" data="3" />
+				<slot index="8" id="296" />
+			</craft>
+		</item>
+
+		<item name="Граммофон" tilex="0" tiley="0" id="952" flag="0" />
+		<item name="Видеокамера" tilex="0" tiley="0" id="953" flag="0" />
+		<item name="tail30lvl" tilex="0" tiley="0" id="970" flag="0" />
+		<item name="olimpicgames" tilex="0" tiley="0" id="971" flag="0" />
+		<item name="eyestatue" tilex="0" tiley="0" id="973" flag="0" max="10" />
+		<item name="dragonstatue" tilex="0" tiley="0" id="975" flag="0" />
+		<item name="Embr0n кубок" tilex="0" tiley="0" id="976" flag="0" />
+		<item name="baseball" tilex="0" tiley="0" id="977" flag="0" />
+		<item name="dracula" tilex="0" tiley="0" id="980" flag="0" />
+		<item name="arenaWeapon" tilex="0" tiley="0" id="981" flag="0" />
+
+		<item name="свеча" tilex="0" tiley="0" id="982" flag="0" />
+		<item name="торт" tilex="0" tiley="0" id="983" flag="0" />
+		<item name="утка" tilex="0" tiley="0" id="984" flag="0" />
+		<item name="шарик" tilex="0" tiley="0" id="985" flag="0" />
+
+		<item name="plutoniumContainer" tilex="4" tiley="0" id="1185" flag="0">
+			<craft count="1">
+				<slot index="1" id="169" />
+				<slot index="2" id="169" />
+				<slot index="3" id="169" />
+				<slot index="4" id="169" />
+				<slot index="5" id="265" />
+				<slot index="6" id="169" />
+				<slot index="7" id="169" />
+				<slot index="8" id="265" />
+				<slot index="9" id="169" />
+			</craft>
+		</item>
+
+		<item name="statue_diamond" tilex="0" tiley="2" id="1193" flag="0" />
+		<item name="statue_lapis" tilex="1" tiley="2" id="1194" flag="0" />
+		<item name="statue_gold" tilex="2" tiley="2" id="1195" flag="0" />
+		<item name="bd8" tilex="5" tiley="5" id="1281" flag="0" />
+
+		<item name="ogreshield" tilex="0" tiley="0" id="995" flag="0" />
+		<item name="mermaid" tilex="0" tiley="0" id="996" flag="0" />
+
+		<item name="mcgl7" tilex="0" tiley="0" id="1533" flag="0" />
+		<item name="vk" tilex="0" tiley="0" id="1534" flag="0" />
+
+		<item name="topcraft" tilex="0" tiley="0" id="1538" flag="0" />
+		<item name="pvpevent" tilex="0" tiley="0" id="1539" flag="0" />
+		<item name="bedwars" tilex="0" tiley="0" id="1540" flag="0" max="50" />
+		<item name="hg" tilex="0" tiley="0" id="1541" flag="0" max="3600" />
+		<item name="ctf" tilex="0" tiley="0" id="1542" flag="0" max="100" />
+
+		<item name="свеча тыква" tilex="0" tiley="0" id="1548" flag="0" />
+		<item name="корзина тыква" tilex="0" tiley="0" id="1549" flag="0" />
+	</other>
+
+	<quest>
+		<item
+            name="sword_blade"
+            meta="1"
+            tilex="1"
+            tiley="0"
+            model="halloween/sword_blade"
+        />
+		<item
+            name="sword_grip"
+            meta="2"
+            tilex="2"
+            tiley="0"
+            model="halloween/sword_grip"
+        />
+		<item
+            name="sword_gem"
+            meta="3"
+            tilex="3"
+            tiley="0"
+            model="halloween/sword_gem"
+        />
+		<item
+            name="ent_branch"
+            meta="4"
+            tilex="4"
+            tiley="0"
+            model="halloween/ent_branch"
+        />
+		<item name="sword_recepie" meta="5" tilex="5" tiley="0" />
+	</quest>
+</items>

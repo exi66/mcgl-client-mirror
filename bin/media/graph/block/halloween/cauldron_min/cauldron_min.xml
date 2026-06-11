@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="cauldron_min" texwidth="64" texheight="128" nocullface="true" standartlighting="true">
+    <node id="0" name="cauldron_b">
+        <position x="0" y="0.03125" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="8" y="1" z="8"/>
+        <unwrap mode="1">
+            <num0 x="8" y="49" transform="0" nobrightness="true"/>
+            <num1 x="24" y="49" transform="0" nobrightness="true"/>
+            <num2 x="16" y="49" transform="0" nobrightness="true"/>
+            <num3 x="16" y="41" transform="0" nobrightness="true"/>
+            <num4 x="0" y="49" transform="0" nobrightness="true"/>
+            <num5 x="8" y="41" transform="0" nobrightness="true"/>
+        </unwrap>
+        <node id="1" name="cauldron_1s">
+            <position x="0.28125" y="0.46875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="14" z="8"/>
+            <unwrap mode="1">
+                <num0 x="8" y="91" transform="0" nobrightness="true"/>
+                <num1 x="17" y="91" transform="0" nobrightness="true"/>
+                <num2 x="9" y="91" transform="0" nobrightness="true"/>
+                <num3 x="9" y="83" transform="0" nobrightness="true"/>
+                <num4 x="0" y="91" transform="0" nobrightness="true"/>
+                <num5 x="8" y="83" transform="0" nobrightness="true"/>
+            </unwrap>
+            <node id="2" name="cauldron_2s">
+                <position x="-0.5625" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="14" z="8"/>
+                <unwrap mode="1">
+                    <num0 x="8" y="91" transform="0" nobrightness="true"/>
+                    <num1 x="17" y="91" transform="0" nobrightness="true"/>
+                    <num2 x="9" y="91" transform="0" nobrightness="true"/>
+                    <num3 x="9" y="83" transform="0" nobrightness="true"/>
+                    <num4 x="0" y="91" transform="0" nobrightness="true"/>
+                    <num5 x="8" y="83" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="3" name="cauldron_3s">
+                <position x="-0.28125" y="0" z="-0.28125"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="8" y="14" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="1" y="69" transform="0" nobrightness="true"/>
+                    <num1 x="10" y="69" transform="0" nobrightness="true"/>
+                    <num2 x="9" y="69" transform="0" nobrightness="true"/>
+                    <num3 x="9" y="68" transform="0" nobrightness="true"/>
+                    <num4 x="0" y="69" transform="0" nobrightness="true"/>
+                    <num5 x="1" y="68" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="4" name="cauldron_4s">
+                <position x="-0.28125" y="0" z="0.28125"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="-1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="8" y="14" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="1" y="69" transform="0" nobrightness="true"/>
+                    <num1 x="10" y="69" transform="0" nobrightness="true"/>
+                    <num2 x="9" y="69" transform="0" nobrightness="true"/>
+                    <num3 x="9" y="68" transform="0" nobrightness="true"/>
+                    <num4 x="0" y="69" transform="0" nobrightness="true"/>
+                    <num5 x="1" y="68" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="5" name="cauldron_b_1s">
+            <position x="0.3125" y="0.34375" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="8" z="10"/>
+            <unwrap mode="1">
+                <num0 x="10" y="60" transform="0" nobrightness="true"/>
+                <num1 x="22" y="60" transform="0" nobrightness="true"/>
+                <num2 x="12" y="60" transform="0" nobrightness="true"/>
+                <num3 x="12" y="50" transform="0" nobrightness="true"/>
+                <num4 x="0" y="60" transform="0" nobrightness="true"/>
+                <num5 x="10" y="50" transform="0" nobrightness="true"/>
+            </unwrap>
+            <node id="6" name="cauldron_b_2s">
+                <position x="-0.625" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="2" y="8" z="10"/>
+                <unwrap mode="1">
+                    <num0 x="10" y="60" transform="0" nobrightness="true"/>
+                    <num1 x="22" y="60" transform="0" nobrightness="true"/>
+                    <num2 x="12" y="60" transform="0" nobrightness="true"/>
+                    <num3 x="12" y="50" transform="0" nobrightness="true"/>
+                    <num4 x="0" y="60" transform="0" nobrightness="true"/>
+                    <num5 x="10" y="50" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="7" name="cauldron_b_3s">
+                <position x="-0.3125" y="0" z="0.3125"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="10" y="8" z="2"/>
+                <unwrap mode="1">
+                    <num0 x="26" y="60" transform="0" nobrightness="true"/>
+                    <num1 x="38" y="60" transform="0" nobrightness="true"/>
+                    <num2 x="36" y="60" transform="0" nobrightness="true"/>
+                    <num3 x="36" y="58" transform="0" nobrightness="true"/>
+                    <num4 x="24" y="60" transform="0" nobrightness="true"/>
+                    <num5 x="26" y="58" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="8" name="cauldron_b_4s">
+                <position x="-0.3125" y="0" z="-0.3125"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="-1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="10" y="8" z="2"/>
+                <unwrap mode="1">
+                    <num0 x="26" y="60" transform="0" nobrightness="true"/>
+                    <num1 x="38" y="60" transform="0" nobrightness="true"/>
+                    <num2 x="36" y="60" transform="0" nobrightness="true"/>
+                    <num3 x="36" y="58" transform="0" nobrightness="true"/>
+                    <num4 x="24" y="60" transform="0" nobrightness="true"/>
+                    <num5 x="26" y="58" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="9" name="top_1">
+            <position x="0" y="0.8125" z="0.34375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="1" z="1"/>
+            <unwrap mode="1">
+                <num0 x="39" y="29" transform="0" nobrightness="true"/>
+                <num1 x="48" y="29" transform="0" nobrightness="true"/>
+                <num2 x="47" y="29" transform="0" nobrightness="true"/>
+                <num3 x="47" y="28" transform="0" nobrightness="true"/>
+                <num4 x="38" y="29" transform="0" nobrightness="true"/>
+                <num5 x="39" y="28" transform="0" nobrightness="true"/>
+            </unwrap>
+            <node id="11" name="top_2">
+                <position x="0" y="0" z="-0.6875"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="-1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="8" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="39" y="29" transform="0" nobrightness="true"/>
+                    <num1 x="48" y="29" transform="0" nobrightness="true"/>
+                    <num2 x="47" y="29" transform="0" nobrightness="true"/>
+                    <num3 x="47" y="28" transform="0" nobrightness="true"/>
+                    <num4 x="38" y="29" transform="0" nobrightness="true"/>
+                    <num5 x="39" y="28" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="12" name="top_3">
+                <position x="-0.34375" y="0" z="-0.34375"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="-1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="8"/>
+                <unwrap mode="2">
+                    <num0 x="46" y="29" transform="0" nobrightness="true"/>
+                    <num1 x="55" y="29" transform="0" nobrightness="true"/>
+                    <num2 x="47" y="29" transform="0" nobrightness="true"/>
+                    <num3 x="47" y="28" transform="1" nobrightness="true"/>
+                    <num4 x="38" y="29" transform="0" nobrightness="true"/>
+                    <num5 x="55" y="28" transform="1" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="13" name="top_4">
+                <position x="0.34375" y="0" z="-0.34375"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="-1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="8"/>
+                <unwrap mode="2">
+                    <num0 x="46" y="29" transform="0" nobrightness="true"/>
+                    <num1 x="55" y="29" transform="0" nobrightness="true"/>
+                    <num2 x="47" y="29" transform="0" nobrightness="true"/>
+                    <num3 x="55" y="28" transform="1" nobrightness="true"/>
+                    <num4 x="38" y="29" transform="0" nobrightness="true"/>
+                    <num5 x="47" y="28" transform="1" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="14" name="top_5">
+                <position x="0.28125" y="0" z="-0.0625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="46" y="29" transform="0" nobrightness="true"/>
+                    <num1 x="48" y="29" transform="0" nobrightness="true"/>
+                    <num2 x="47" y="29" transform="0" nobrightness="true"/>
+                    <num3 x="47" y="28" transform="0" nobrightness="true"/>
+                    <num4 x="45" y="29" transform="0" nobrightness="true"/>
+                    <num5 x="46" y="28" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="15" name="top_6">
+                <position x="0.28125" y="0" z="-0.625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="47" y="29" transform="0" nobrightness="true"/>
+                    <num1 x="49" y="29" transform="0" nobrightness="true"/>
+                    <num2 x="48" y="29" transform="0" nobrightness="true"/>
+                    <num3 x="48" y="28" transform="0" nobrightness="true"/>
+                    <num4 x="46" y="29" transform="0" nobrightness="true"/>
+                    <num5 x="47" y="28" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="16" name="top_7">
+                <position x="-0.28125" y="0" z="-0.625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="47" y="29" transform="0" nobrightness="true"/>
+                    <num1 x="49" y="29" transform="0" nobrightness="true"/>
+                    <num2 x="48" y="29" transform="0" nobrightness="true"/>
+                    <num3 x="48" y="28" transform="0" nobrightness="true"/>
+                    <num4 x="46" y="29" transform="0" nobrightness="true"/>
+                    <num5 x="47" y="28" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="17" name="top_8">
+                <position x="-0.28125" y="0" z="-0.0625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="-1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="47" y="29" transform="0" nobrightness="true"/>
+                    <num1 x="49" y="29" transform="0" nobrightness="true"/>
+                    <num2 x="48" y="29" transform="0" nobrightness="true"/>
+                    <num3 x="48" y="28" transform="0" nobrightness="true"/>
+                    <num4 x="46" y="29" transform="0" nobrightness="true"/>
+                    <num5 x="47" y="28" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="26" name="cauldron_m_1">
+            <position x="-0.28125" y="0.625" z="-0.28125"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="1" z="1"/>
+            <unwrap mode="1">
+                <num0 x="33" y="1" transform="0" nobrightness="true"/>
+                <num1 x="35" y="1" transform="0" nobrightness="true"/>
+                <num2 x="34" y="1" transform="0" nobrightness="true"/>
+                <num3 x="34" y="0" transform="0" nobrightness="true"/>
+                <num4 x="32" y="1" transform="0" nobrightness="true"/>
+                <num5 x="33" y="0" transform="0" nobrightness="true"/>
+            </unwrap>
+            <node id="27" name="cauldron_m_2">
+                <position x="0.5625" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="33" y="1" transform="0" nobrightness="true"/>
+                    <num1 x="35" y="1" transform="0" nobrightness="true"/>
+                    <num2 x="34" y="1" transform="0" nobrightness="true"/>
+                    <num3 x="34" y="0" transform="0" nobrightness="true"/>
+                    <num4 x="32" y="1" transform="0" nobrightness="true"/>
+                    <num5 x="33" y="0" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="28" name="cauldron_m_3">
+                <position x="0.5625" y="0" z="0.5625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="-1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="33" y="1" transform="0" nobrightness="true"/>
+                    <num1 x="35" y="1" transform="0" nobrightness="true"/>
+                    <num2 x="34" y="1" transform="0" nobrightness="true"/>
+                    <num3 x="34" y="0" transform="0" nobrightness="true"/>
+                    <num4 x="32" y="1" transform="0" nobrightness="true"/>
+                    <num5 x="33" y="0" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="30" name="cauldron_m_4">
+                <position x="0" y="0" z="0.5625"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="-1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="33" y="1" transform="0" nobrightness="true"/>
+                    <num1 x="35" y="1" transform="0" nobrightness="true"/>
+                    <num2 x="34" y="1" transform="0" nobrightness="true"/>
+                    <num3 x="34" y="0" transform="0" nobrightness="true"/>
+                    <num4 x="32" y="1" transform="0" nobrightness="true"/>
+                    <num5 x="33" y="0" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="31" name="water">
+            <position x="0" y="0.375" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="1" z="8"/>
+            <unwrap mode="2">
+                <num0 x="38" y="40" transform="0" nobrightness="true"/>
+                <num1 x="38" y="31" transform="0" nobrightness="true"/>
+                <num2 x="46" y="40" transform="4" nobrightness="true"/>
+                <num3 x="38" y="32" transform="0" nobrightness="true"/>
+                <num4 x="38" y="32" transform="1" nobrightness="true"/>
+                <num5 x="56" y="8" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

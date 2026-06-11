@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="chair" texwidth="32" texheight="32" standartlighting="true">
+    <node id="0" name="Base">
+        <position x="0" y="0.59375" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="12" y="1" z="12"/>
+        <unwrap mode="2">
+            <num0 x="9" y="19" transform="0" nobrightness="true"/>
+            <num1 x="21" y="8" transform="8" nobrightness="true"/>
+            <num2 x="20" y="20" transform="4" nobrightness="true"/>
+            <num3 x="9" y="8" transform="0" nobrightness="true"/>
+            <num4 x="10" y="8" transform="1" nobrightness="true"/>
+            <num5 x="9" y="8" transform="0" nobrightness="true"/>
+        </unwrap>
+        <node id="2" name="leg2">
+            <position x="0.34375" y="-0.09375" z="-0.34375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="16" z="1"/>
+            <unwrap mode="0">
+                <num0 x="0" y="8" transform="0" nobrightness="true"/>
+                <num1 x="0" y="8" transform="0" nobrightness="true"/>
+                <num2 x="0" y="8" transform="0" nobrightness="true"/>
+                <num3 x="0" y="8" transform="0" nobrightness="true"/>
+                <num4 x="0" y="8" transform="0" nobrightness="true"/>
+                <num5 x="0" y="8" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="3" name="leg3">
+            <position x="0.34375" y="-0.3125" z="0.34375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="9" z="1"/>
+            <unwrap mode="0">
+                <num0 x="0" y="15" transform="0" nobrightness="true"/>
+                <num1 x="0" y="15" transform="0" nobrightness="true"/>
+                <num2 x="0" y="15" transform="0" nobrightness="true"/>
+                <num3 x="0" y="15" transform="0" nobrightness="true"/>
+                <num4 x="0" y="15" transform="0" nobrightness="true"/>
+                <num5 x="0" y="15" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="7" name="leg4">
+            <position x="-0.34375" y="-0.3125" z="0.34375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="9" z="1"/>
+            <unwrap mode="0">
+                <num0 x="0" y="15" transform="0" nobrightness="true"/>
+                <num1 x="0" y="15" transform="0" nobrightness="true"/>
+                <num2 x="0" y="15" transform="0" nobrightness="true"/>
+                <num3 x="0" y="15" transform="0" nobrightness="true"/>
+                <num4 x="0" y="15" transform="0" nobrightness="true"/>
+                <num5 x="0" y="15" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="14" name="cr_1">
+            <position x="-0.34375" y="-0.1875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="1" z="10"/>
+            <unwrap mode="2">
+                <num0 x="1" y="0" transform="0" nobrightness="true"/>
+                <num1 x="1" y="0" transform="0" nobrightness="true"/>
+                <num2 x="1" y="0" transform="0" nobrightness="true"/>
+                <num3 x="1" y="0" transform="17" nobrightness="true"/>
+                <num4 x="11" y="0" transform="8" nobrightness="true"/>
+                <num5 x="11" y="0" transform="1" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="24" name="top">
+            <position x="0" y="0.65625" z="-0.34375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="12" y="8" z="1"/>
+            <unwrap mode="2">
+                <num0 x="23" y="0" transform="8" nobrightness="true"/>
+                <num1 x="23" y="0" transform="8" nobrightness="true"/>
+                <num2 x="23" y="0" transform="8" nobrightness="true"/>
+                <num3 x="11" y="7" transform="0" nobrightness="true"/>
+                <num4 x="23" y="0" transform="8" nobrightness="true"/>
+                <num5 x="11" y="0" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="25" name="leg1">
+            <position x="-0.34375" y="-0.09375" z="-0.34375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="16" z="1"/>
+            <unwrap mode="0">
+                <num0 x="0" y="8" transform="0" nobrightness="true"/>
+                <num1 x="0" y="8" transform="0" nobrightness="true"/>
+                <num2 x="0" y="8" transform="0" nobrightness="true"/>
+                <num3 x="0" y="8" transform="0" nobrightness="true"/>
+                <num4 x="0" y="8" transform="0" nobrightness="true"/>
+                <num5 x="0" y="8" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="26" name="cr_2">
+            <position x="0.34375" y="-0.1875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="1" z="10"/>
+            <unwrap mode="2">
+                <num0 x="1" y="0" transform="0" nobrightness="true"/>
+                <num1 x="1" y="0" transform="0" nobrightness="true"/>
+                <num2 x="1" y="0" transform="0" nobrightness="true"/>
+                <num3 x="1" y="0" transform="17" nobrightness="true"/>
+                <num4 x="11" y="0" transform="8" nobrightness="true"/>
+                <num5 x="11" y="0" transform="1" nobrightness="true"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

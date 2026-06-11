@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <modelname name="ice_golem"/>
+    <nocullface/>
+    <standartlight/>
+    <animation id="402" name="run"/>
+    <animation id="416" name="walk"/>
+</model>

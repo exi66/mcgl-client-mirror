@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="angel_pedestal" texwidth="128" texheight="64" standartlighting="true">
+    <node id="0" name="stone1">
+        <position x="0.00797971" y="0.455815" z="0.00789052"/>
+        <offset x="0" y="-0.125" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="3.73929e-09" z="3.15442e-08"/>
+        <size x="20" y="14" z="20"/>
+        <unwrap mode="1">
+            <num0 x="21" y="20" transform="0"/>
+            <num1 x="61" y="20" transform="0"/>
+            <num2 x="41" y="20" transform="0"/>
+            <num3 x="41" y="0" transform="0"/>
+            <num4 x="1" y="20" transform="0"/>
+            <num5 x="21" y="0" transform="0"/>
+        </unwrap>
+        <node id="1" name="stone2">
+            <position x="1.76216e-10" y="0.5" z="6.80462e-08"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="1.48487e-08" y="-1.30797e-15" z="-1.42664e-14"/>
+            <size x="11" y="4" z="11"/>
+            <unwrap mode="1">
+                <num0 x="11" y="45" transform="0"/>
+                <num1 x="33" y="45" transform="0"/>
+                <num2 x="22" y="45" transform="0"/>
+                <num3 x="22" y="34" transform="0"/>
+                <num4 x="0" y="45" transform="0"/>
+                <num5 x="11" y="34" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="move" duration="10" holdlastframe="0">
+    <node id="25">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="2.28097e-08" z="0"/>
+            <orientation interpolation="0" index="10" w="-1.75242e-08" x="0" y="-1" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="26">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="4.72405e-09" z="0"/>
+            <orientation interpolation="0" index="5" w="0.707107" x="0" y="-0.707107" z="0"/>
+            <orientation interpolation="0" index="10" w="-1.28002e-08" x="0" y="-1" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="2">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="0" z="0"/>
+            <position interpolation="0" index="5" x="0" y="-0.00625002" z="0"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.989248" x="0.146246" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

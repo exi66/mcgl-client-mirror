@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="attack" duration="15" holdlastframe="0">
+    <node id="39">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.931958" x="-0.361798" y="0.0198653" z="-0.012744"/>
+            <orientation interpolation="0" index="2" w="0.908719" x="-0.41674" y="0.0191029" z="-0.0138942"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="40">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.925115" x="-0.349969" y="0.101803" z="0.106398"/>
+            <orientation interpolation="0" index="2" w="0.897849" x="-0.41494" y="0.109139" z="0.098892"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="72">
+        <positions>
+            <position interpolation="0" index="0" x="-0.125" y="0.4375" z="0.66875"/>
+            <position interpolation="0" index="2" x="-0.0625" y="0.5625" z="0.66875"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="-0.742267" x="-0.0417534" y="0.668466" z="0.0212095"/>
+            <orientation interpolation="0" index="2" w="0.735551" x="-0.0311733" y="-0.669044" z="-0.101843"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="57">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.991614" x="0.0563832" y="-0.035128" z="-0.110852"/>
+            <orientation interpolation="0" index="2" w="0.993116" x="-0.0140708" y="-0.042894" z="-0.108091"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="48">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.803001" x="-0.466542" y="-0.231813" z="0.289466"/>
+            <orientation interpolation="0" index="2" w="0.782174" x="-0.500669" y="-0.219124" z="0.299197"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="51">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.993506" x="-0.0434127" y="-0.00875484" z="0.104808"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="29">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.998547" x="0.0147544" y="-0.0498525" z="-0.0141775"/>
+            <orientation interpolation="0" index="2" w="0.998652" x="-0.00303933" y="-0.050076" z="-0.0132967"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="21">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.998263" x="0.0589204" y="-1.08384e-05" z="4.08616e-05"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="20">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.996866" x="0.0791119" y="-2.33195e-05" z="-2.82147e-05"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="10">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="-0.035" z="0"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.993429" x="-0.114452" y="8.27578e-11" z="1.69486e-09"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="9">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.992039" x="0.125934" y="2.43911e-10" z="2.77444e-09"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

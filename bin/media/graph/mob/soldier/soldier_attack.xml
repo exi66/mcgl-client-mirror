@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="attack" duration="20" holdlastframe="0">
+    <node id="7">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.911654" x="-0.37762" y="0.0620488" z="-0.149799"/>
+            <orientation interpolation="0" index="3" w="0.964661" x="-0.207717" y="0.0879367" z="-0.136199"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="9">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="-0.03125" z="-0.03125"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.910749" x="-0.37928" y="0.0842224" z="0.139959"/>
+            <orientation interpolation="0" index="3" w="0.774857" x="-0.610675" y="0.118841" z="0.112028"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="2">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="-0.03125" z="0"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="3" w="0.99907" x="-0.0431291" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="3">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.995378" x="-0.09603" y="0" z="0"/>
+            <orientation interpolation="0" index="3" w="0.998562" x="-0.0536144" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="4">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.989001" x="0.147909" y="0" z="0"/>
+            <orientation interpolation="0" index="3" w="0.973918" x="0.226902" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="8">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="-0.03125" z="0"/>
+            <position interpolation="0" index="3" x="0" y="-0.03125" z="-0.03125"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.797714" x="-0.585205" y="-0.075856" z="0.124235"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

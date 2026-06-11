@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="run" duration="15" holdlastframe="0">
+    <node id="1">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="-3.20068e-05" y="0" z="0"/>
+            <orientation interpolation="0" index="5" w="0.956574" x="-0.0273859" y="-0.174513" z="0.231866"/>
+            <orientation interpolation="0" index="11" w="0.942645" x="-0.105634" y="0.195155" z="-0.249352"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="4">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="1.66039e-06" z="0"/>
+            <orientation interpolation="0" index="5" w="0.974325" x="0" y="-0.225147" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="5">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="-1.81631e-05" z="0"/>
+            <orientation interpolation="0" index="5" w="0.981343" x="0" y="0.192264" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

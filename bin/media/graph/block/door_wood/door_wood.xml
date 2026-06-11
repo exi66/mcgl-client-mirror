@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="door_wood" texwidth="64" texheight="64" standartlighting="true">
+    <node id="2" name="balk_left">
+        <active type="head"/>
+        <position x="-0.40625" y="1" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="3" y="32" z="3"/>
+        <unwrap mode="1">
+            <num0 x="3" y="3" transform="0" nobrightness="true"/>
+            <num1 x="9" y="3" transform="0" nobrightness="true"/>
+            <num2 x="6" y="3" transform="0" nobrightness="true"/>
+            <num3 x="6" y="0" transform="0" nobrightness="true"/>
+            <num4 x="0" y="3" transform="0" nobrightness="true"/>
+            <num5 x="3" y="0" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <node id="4" name="balk_center">
+        <position x="0" y="1" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="2" y="32" z="3"/>
+        <unwrap mode="1">
+            <num0 x="15" y="3" transform="0" nobrightness="true"/>
+            <num1 x="20" y="3" transform="0" nobrightness="true"/>
+            <num2 x="17" y="3" transform="0" nobrightness="true"/>
+            <num3 x="17" y="0" transform="0" nobrightness="true"/>
+            <num4 x="12" y="3" transform="0" nobrightness="true"/>
+            <num5 x="15" y="0" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <node id="6" name="balk_top">
+        <position x="0" y="1.90625" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="3" z="3"/>
+        <unwrap mode="1">
+            <num0 x="3" y="38" transform="0" nobrightness="true"/>
+            <num1 x="22" y="38" transform="0" nobrightness="true"/>
+            <num2 x="19" y="38" transform="0" nobrightness="true"/>
+            <num3 x="19" y="35" transform="0" nobrightness="true"/>
+            <num4 x="0" y="38" transform="0" nobrightness="true"/>
+            <num5 x="3" y="35" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <node id="7" name="balk_vert">
+        <position x="0" y="1.5625" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="0.99" y="0.99" z="0.99"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="2" z="3"/>
+        <unwrap mode="1">
+            <num0 x="3" y="56" transform="0" nobrightness="true"/>
+            <num1 x="22" y="56" transform="0" nobrightness="true"/>
+            <num2 x="19" y="56" transform="0" nobrightness="true"/>
+            <num3 x="19" y="53" transform="0" nobrightness="true"/>
+            <num4 x="0" y="56" transform="0" nobrightness="true"/>
+            <num5 x="3" y="53" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <node id="8" name="balk_vert">
+        <position x="0" y="0.4375" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="0.99" y="0.99" z="0.99"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="2" z="3"/>
+        <unwrap mode="1">
+            <num0 x="3" y="56" transform="0" nobrightness="true"/>
+            <num1 x="22" y="56" transform="0" nobrightness="true"/>
+            <num2 x="19" y="56" transform="0" nobrightness="true"/>
+            <num3 x="19" y="53" transform="0" nobrightness="true"/>
+            <num4 x="0" y="56" transform="0" nobrightness="true"/>
+            <num5 x="3" y="53" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <node id="9" name="balk_vert">
+        <position x="0" y="1.21875" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="0.99" y="0.99" z="0.99"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="3" z="3"/>
+        <unwrap mode="1">
+            <num0 x="3" y="50" transform="0" nobrightness="true"/>
+            <num1 x="22" y="50" transform="0" nobrightness="true"/>
+            <num2 x="19" y="50" transform="0" nobrightness="true"/>
+            <num3 x="19" y="47" transform="0" nobrightness="true"/>
+            <num4 x="0" y="50" transform="0" nobrightness="true"/>
+            <num5 x="3" y="47" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <node id="10" name="balk_vert">
+        <position x="0" y="0.84375" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="0.99" y="0.99" z="0.99"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="3" z="3"/>
+        <unwrap mode="1">
+            <num0 x="3" y="50" transform="0" nobrightness="true"/>
+            <num1 x="22" y="50" transform="0" nobrightness="true"/>
+            <num2 x="19" y="50" transform="0" nobrightness="true"/>
+            <num3 x="19" y="47" transform="0" nobrightness="true"/>
+            <num4 x="0" y="50" transform="0" nobrightness="true"/>
+            <num5 x="3" y="47" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <node id="11" name="center">
+        <position x="0" y="0.65625" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="14" y="17" z="1"/>
+        <unwrap mode="1">
+            <num0 x="35" y="1" transform="0" nobrightness="true"/>
+            <num1 x="50" y="1" transform="0" nobrightness="true"/>
+            <num2 x="49" y="1" transform="0" nobrightness="true"/>
+            <num3 x="49" y="0" transform="0" nobrightness="true"/>
+            <num4 x="34" y="1" transform="0" nobrightness="true"/>
+            <num5 x="35" y="0" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <node id="12" name="handle">
+        <active type="head"/>
+        <position x="0" y="0" z="0"/>
+        <offset x="0.40625" y="1" z="0.40625"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="2" y="2" z="5"/>
+        <unwrap mode="1">
+            <num0 x="57" y="26" transform="4" nobrightness="true"/>
+            <num1 x="57" y="19" transform="4" nobrightness="true"/>
+            <num2 x="57" y="24" transform="4" nobrightness="true"/>
+            <num3 x="52" y="24" transform="4" nobrightness="true"/>
+            <num4 x="57" y="31" transform="4" nobrightness="true"/>
+            <num5 x="52" y="26" transform="4" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <node id="14" name="balk_right">
+        <active type="head"/>
+        <position x="0.40625" y="1" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="-1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="3" y="32" z="3"/>
+        <unwrap mode="1">
+            <num0 x="25" y="3" transform="0" nobrightness="true"/>
+            <num1 x="31" y="3" transform="0" nobrightness="true"/>
+            <num2 x="28" y="3" transform="0" nobrightness="true"/>
+            <num3 x="28" y="0" transform="0" nobrightness="true"/>
+            <num4 x="22" y="3" transform="0" nobrightness="true"/>
+            <num5 x="25" y="0" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <node id="15" name="balk_down">
+        <position x="0" y="0.09375" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="-1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="3" z="3"/>
+        <unwrap mode="1">
+            <num0 x="3" y="44" transform="0" nobrightness="true"/>
+            <num1 x="22" y="44" transform="0" nobrightness="true"/>
+            <num2 x="19" y="44" transform="0" nobrightness="true"/>
+            <num3 x="19" y="41" transform="0" nobrightness="true"/>
+            <num4 x="0" y="44" transform="0" nobrightness="true"/>
+            <num5 x="3" y="41" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <animations count="0"/>
+</model>

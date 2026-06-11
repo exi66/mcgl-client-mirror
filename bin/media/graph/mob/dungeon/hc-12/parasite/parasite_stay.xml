@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="stay" duration="20" holdlastframe="0">
+    <node id="1">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="-4.35279e-05" y="0" z="0"/>
+            <orientation interpolation="0" index="10" w="0.999375" x="0.0237698" y="-0.000622436" z="-0.0261695"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales>
+            <scale interpolation="0" index="0" x="0" y="0" z="0"/>
+            <scale interpolation="0" index="10" x="0.03" y="0" z="0.05"/>
+        </scales>
+    </node>
+    <node id="2">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="-3.26411e-05"/>
+            <orientation interpolation="0" index="10" w="0.999666" x="0" y="0" z="-0.0258606"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="5">
+        <positions/>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales>
+            <scale interpolation="0" index="0" x="0" y="0" z="0"/>
+            <scale interpolation="0" index="10" x="-0.0506123" y="0.104863" z="0.136625"/>
+        </scales>
+    </node>
+    <node id="3">
+        <positions/>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales>
+            <scale interpolation="0" index="0" x="0" y="0" z="0"/>
+            <scale interpolation="0" index="10" x="0.311681" y="0.15934" z="0"/>
+        </scales>
+    </node>
+    <node id="4">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="-7.37766e-06" y="7.6905e-06" z="2.7528e-06"/>
+            <orientation interpolation="0" index="10" w="0.99643" x="-0.04767" y="-0.0695917" z="-0.0033273"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="6">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="2.26065e-05" y="-2.70122e-05" z="-1.90442e-05"/>
+            <orientation interpolation="0" index="10" w="0.989411" x="0.0711673" y="0.00905097" z="0.12617"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

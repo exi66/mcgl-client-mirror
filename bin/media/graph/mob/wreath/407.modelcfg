@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <modelname name="нпс"/>
+    <standartlight/>
+    <animation id="408" name="walk"/>
+</model>

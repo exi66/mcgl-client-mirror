@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<panels>
+	<items h="0.5" v="1.0" x="0" y="0"/>
+	<date h="1" v="0" x="-110" y="1"/>
+	<ping h="1" v="0" x="-40" y="1"/>
+	<zone h="0.5" v="0" x="0" y="1"/>
+	<player h="0" v="0" x="22" y="6"/>
+	<pilon h="0.5" v="1" x="-90" y="-52"/>
+	<armor h="0.5" v="1" x="-90" y="-43"/>
+	<life h="0.5" v="1" x="-90" y="-32"/>
+	<hunger h="0.5" v="1" x="91" y="-43"/>
+	<shield h="0.5" v="1" x="-90" y="-52"/>
+	<oxygen h="0.5" v="0" x="-45" y="14"/>
+	<paty h="0" v="0" x="2" y="60"/>
+	<itemdamage h="1" v="1" x="-80" y="-10"/>
+</panels>

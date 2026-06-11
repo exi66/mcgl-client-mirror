@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="soldier" texwidth="32" texheight="16" standartlighting="true">
+    <node id="2" name="body">
+        <position x="0" y="0.28125" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="2" y="3" z="1"/>
+        <unwrap mode="1">
+            <num0 x="1" y="1" transform="0"/>
+            <num1 x="4" y="1" transform="0"/>
+            <num2 x="3" y="1" transform="0"/>
+            <num3 x="3" y="0" transform="0"/>
+            <num4 x="0" y="1" transform="0"/>
+            <num5 x="1" y="0" transform="0"/>
+        </unwrap>
+        <node id="3" name="leg_right">
+            <position x="-0.03125" y="-0.09375" z="0"/>
+            <offset x="0" y="-0.09375" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="3" z="1"/>
+            <unwrap mode="1">
+                <num0 x="11" y="1" transform="0"/>
+                <num1 x="13" y="1" transform="0"/>
+                <num2 x="12" y="1" transform="0"/>
+                <num3 x="12" y="0" transform="0"/>
+                <num4 x="10" y="1" transform="0"/>
+                <num5 x="11" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="4" name="leg_left">
+            <position x="0.03125" y="-0.09375" z="0"/>
+            <offset x="0" y="-0.09375" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="3" z="1"/>
+            <unwrap mode="1">
+                <num0 x="15" y="1" transform="0"/>
+                <num1 x="17" y="1" transform="0"/>
+                <num2 x="16" y="1" transform="0"/>
+                <num3 x="16" y="0" transform="0"/>
+                <num4 x="14" y="1" transform="0"/>
+                <num5 x="15" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="6" name="hd">
+            <position x="0" y="0.09375" z="0"/>
+            <offset x="0" y="0.046875" z="0"/>
+            <scale x="1.5" y="1.5" z="1.5"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="1" z="1"/>
+            <unwrap mode="1">
+                <num0 x="7" y="3" transform="0"/>
+                <num1 x="9" y="3" transform="0"/>
+                <num2 x="8" y="3" transform="0"/>
+                <num3 x="8" y="2" transform="0"/>
+                <num4 x="6" y="3" transform="0"/>
+                <num5 x="7" y="2" transform="0"/>
+            </unwrap>
+            <node id="10" name="hd_armor">
+                <position x="0" y="-0.01875" z="0"/>
+                <offset x="0" y="0.046875" z="0"/>
+                <scale x="1.7" y="1" z="1.7"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="7" y="1" transform="0"/>
+                    <num1 x="9" y="1" transform="0"/>
+                    <num2 x="8" y="1" transform="0"/>
+                    <num3 x="8" y="0" transform="0"/>
+                    <num4 x="6" y="1" transform="0"/>
+                    <num5 x="7" y="0" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="7" name="hand_right">
+            <position x="-0.078125" y="0.09375" z="0"/>
+            <offset x="0" y="-0.09375" z="0"/>
+            <scale x="0.5" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="3" z="1"/>
+            <unwrap mode="1">
+                <num0 x="19" y="1" transform="0"/>
+                <num1 x="21" y="1" transform="0"/>
+                <num2 x="20" y="1" transform="0"/>
+                <num3 x="20" y="0" transform="0"/>
+                <num4 x="18" y="1" transform="0"/>
+                <num5 x="19" y="0" transform="0"/>
+            </unwrap>
+            <node id="9" name="gun">
+                <position x="0" y="0" z="0.0625"/>
+                <offset x="0" y="-0.09375" z="0"/>
+                <scale x="0.75" y="1" z="0.75"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="3" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="27" y="1" transform="0"/>
+                    <num1 x="29" y="1" transform="0"/>
+                    <num2 x="28" y="1" transform="0"/>
+                    <num3 x="28" y="0" transform="0"/>
+                    <num4 x="26" y="1" transform="0"/>
+                    <num5 x="27" y="0" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="8" name="hand_left">
+            <position x="0.078125" y="0.09375" z="0"/>
+            <offset x="0" y="-0.09375" z="0"/>
+            <scale x="0.5" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="3" z="1"/>
+            <unwrap mode="1">
+                <num0 x="23" y="1" transform="0"/>
+                <num1 x="25" y="1" transform="0"/>
+                <num2 x="24" y="1" transform="0"/>
+                <num3 x="24" y="0" transform="0"/>
+                <num4 x="22" y="1" transform="0"/>
+                <num5 x="23" y="0" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="3">
+        <animation id="0" name="stay"/>
+        <animation id="1" name="walk"/>
+        <animation id="2" name="attack"/>
+    </animations>
+</model>

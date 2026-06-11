@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<model>
+    <modelname name="hc12v2_amf"/>
+    <nocullface/>
+    <standartlight/>
+    <animation id="2" name="stay"/>
+</model>

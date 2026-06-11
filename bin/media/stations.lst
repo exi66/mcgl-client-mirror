@@ -1,0 +1,4 @@
+Sector progressive=http://89.223.45.5:8000/progressive-160
+Sector space=http://89.223.45.5:8000/space-160
+Sector 90s=http://89.223.45.5:8000/next-160
+Sector 10s=http://89.223.45.5:8000/zed-160

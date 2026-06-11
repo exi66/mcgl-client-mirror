@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="death" duration="30" holdlastframe="1">
+    <node id="223">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="0" z="0"/>
+            <position interpolation="0" index="10" x="0" y="-0.75" z="-2.0625"/>
+            <position interpolation="0" index="20" x="0" y="-2.9375" z="-3.875"/>
+            <position interpolation="0" index="25" x="0" y="-2.75" z="-4.0625"/>
+            <position interpolation="0" index="30" x="0" y="-2.9375" z="-4.1875"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="20" w="0.707107" x="-0.707107" y="0" z="0"/>
+            <orientation interpolation="0" index="25" w="0.728102" x="-0.685469" y="0" z="0"/>
+            <orientation interpolation="0" index="30" w="0.707107" x="-0.707107" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

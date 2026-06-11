@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="courier" texwidth="64" texheight="32" standartlighting="true">
+    <node id="0" name="Block">
+        <position x="0" y="0.25" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="8" y="6" z="12"/>
+        <unwrap mode="1">
+            <num0 x="12" y="12" transform="0"/>
+            <num1 x="32" y="12" transform="0"/>
+            <num2 x="20" y="12" transform="0"/>
+            <num3 x="20" y="0" transform="0"/>
+            <num4 x="0" y="12" transform="0"/>
+            <num5 x="12" y="0" transform="0"/>
+        </unwrap>
+        <node id="1" name="wheel">
+            <position x="0.25" y="-0.1875" z="0.25"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="2" z="2"/>
+            <unwrap mode="1">
+                <num0 x="2" y="2" transform="0"/>
+                <num1 x="5" y="2" transform="0"/>
+                <num2 x="3" y="2" transform="0"/>
+                <num3 x="3" y="0" transform="0"/>
+                <num4 x="0" y="2" transform="0"/>
+                <num5 x="2" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="2" name="wheel">
+            <position x="0.25" y="-0.1875" z="-0.25"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="2" z="2"/>
+            <unwrap mode="1">
+                <num0 x="2" y="2" transform="0"/>
+                <num1 x="5" y="2" transform="0"/>
+                <num2 x="3" y="2" transform="0"/>
+                <num3 x="3" y="0" transform="0"/>
+                <num4 x="0" y="2" transform="0"/>
+                <num5 x="2" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="3" name="wheel">
+            <position x="0.25" y="-0.1875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="2" z="2"/>
+            <unwrap mode="1">
+                <num0 x="2" y="2" transform="0"/>
+                <num1 x="5" y="2" transform="0"/>
+                <num2 x="3" y="2" transform="0"/>
+                <num3 x="3" y="0" transform="0"/>
+                <num4 x="0" y="2" transform="0"/>
+                <num5 x="2" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="4" name="wheel">
+            <position x="-0.25" y="-0.1875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="2" z="2"/>
+            <unwrap mode="1">
+                <num0 x="2" y="2" transform="0"/>
+                <num1 x="5" y="2" transform="0"/>
+                <num2 x="3" y="2" transform="0"/>
+                <num3 x="3" y="0" transform="0"/>
+                <num4 x="0" y="2" transform="0"/>
+                <num5 x="2" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="5" name="wheel">
+            <position x="-0.25" y="-0.1875" z="-0.25"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="2" z="2"/>
+            <unwrap mode="1">
+                <num0 x="2" y="2" transform="0"/>
+                <num1 x="5" y="2" transform="0"/>
+                <num2 x="3" y="2" transform="0"/>
+                <num3 x="3" y="0" transform="0"/>
+                <num4 x="0" y="2" transform="0"/>
+                <num5 x="2" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="6" name="wheel">
+            <position x="-0.25" y="-0.1875" z="0.25"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="2" z="2"/>
+            <unwrap mode="1">
+                <num0 x="2" y="2" transform="0"/>
+                <num1 x="5" y="2" transform="0"/>
+                <num2 x="3" y="2" transform="0"/>
+                <num3 x="3" y="0" transform="0"/>
+                <num4 x="0" y="2" transform="0"/>
+                <num5 x="2" y="0" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="7" name="emblem">
+            <position x="0" y="0.19375" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="0.8" y="1" z="0.8"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="9" y="0" z="9"/>
+            <unwrap mode="1">
+                <num0 x="46" y="9" transform="0"/>
+                <num1 x="64" y="9" transform="0"/>
+                <num2 x="55" y="9" transform="0"/>
+                <num3 x="55" y="0" transform="0"/>
+                <num4 x="37" y="9" transform="0"/>
+                <num5 x="46" y="0" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="1">
+        <animation id="0" name="stay"/>
+    </animations>
+</model>

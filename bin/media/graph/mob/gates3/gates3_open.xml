@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="open" duration="30" holdlastframe="1">
+    <node id="223">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="0" z="0"/>
+            <position interpolation="0" index="15" x="0" y="3" z="0"/>
+            <position interpolation="0" index="30" x="0" y="4" z="0"/>
+        </positions>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

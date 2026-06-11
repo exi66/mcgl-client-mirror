@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="standard" texwidth="128" texheight="128" nocullface="true" standartlighting="true">
+    <node id="3" name="Block">
+        <position x="0" y="0.875" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="12" y="4" z="12"/>
+        <unwrap mode="1">
+            <num0 x="12" y="76" transform="0"/>
+            <num1 x="36" y="76" transform="0"/>
+            <num2 x="24" y="76" transform="0"/>
+            <num3 x="24" y="64" transform="0"/>
+            <num4 x="0" y="76" transform="0"/>
+            <num5 x="12" y="64" transform="0"/>
+        </unwrap>
+        <node id="2" name="texture">
+            <position x="0" y="0.6875" z="0"/>
+            <offset x="0" y="0" z="0.25"/>
+            <scale x="0.25" y="0.25" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="32" y="64" z="0"/>
+            <unwrap mode="1">
+                <num0 x="0" y="0" transform="0"/>
+                <num1 x="32" y="0" transform="0"/>
+                <num2 x="32" y="0" transform="0"/>
+                <num3 x="32" y="0" transform="0"/>
+                <num4 x="0" y="0" transform="0"/>
+                <num5 x="0" y="0" transform="0"/>
+            </unwrap>
+            <node id="9" name="texture1">
+                <position x="0.25" y="0" z="-0.25"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="0.25" y="0.25" z="1"/>
+                <orientation w="0.707107" x="0" y="0.707107" z="0"/>
+                <size x="32" y="64" z="0"/>
+                <unwrap mode="1">
+                    <num0 x="0" y="0" transform="0"/>
+                    <num1 x="32" y="0" transform="0"/>
+                    <num2 x="32" y="0" transform="0"/>
+                    <num3 x="32" y="0" transform="0"/>
+                    <num4 x="0" y="0" transform="0"/>
+                    <num5 x="0" y="0" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="10" name="texture2">
+                <position x="-0.25" y="0" z="-0.25"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-0.25" y="0.25" z="1"/>
+                <orientation w="0.707107" x="0" y="0.707107" z="0"/>
+                <size x="32" y="64" z="0"/>
+                <unwrap mode="1">
+                    <num0 x="0" y="0" transform="0"/>
+                    <num1 x="32" y="0" transform="0"/>
+                    <num2 x="32" y="0" transform="0"/>
+                    <num3 x="32" y="0" transform="0"/>
+                    <num4 x="0" y="0" transform="0"/>
+                    <num5 x="0" y="0" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="11" name="texture3">
+                <position x="0" y="0" z="-0.5"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-0.25" y="0.25" z="1"/>
+                <orientation w="1" x="-8.74228e-08" y="0" z="0"/>
+                <size x="32" y="64" z="0"/>
+                <unwrap mode="1">
+                    <num0 x="0" y="0" transform="0"/>
+                    <num1 x="32" y="0" transform="0"/>
+                    <num2 x="32" y="0" transform="0"/>
+                    <num3 x="32" y="0" transform="0"/>
+                    <num4 x="0" y="0" transform="0"/>
+                    <num5 x="0" y="0" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="4" name="effect">
+            <position x="0" y="-0.1875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="12" y="0" z="12"/>
+            <unwrap mode="1">
+                <num0 x="12" y="92" transform="0"/>
+                <num1 x="36" y="92" transform="0"/>
+                <num2 x="24" y="92" transform="0"/>
+                <num3 x="24" y="80" transform="0"/>
+                <num4 x="0" y="92" transform="0"/>
+                <num5 x="12" y="80" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="5" name="effect2">
+            <position x="0" y="-0.1875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="12" y="0" z="12"/>
+            <unwrap mode="1">
+                <num0 x="12" y="92" transform="0"/>
+                <num1 x="36" y="92" transform="0"/>
+                <num2 x="24" y="92" transform="0"/>
+                <num3 x="24" y="80" transform="0"/>
+                <num4 x="0" y="92" transform="0"/>
+                <num5 x="12" y="80" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="6" name="effect3">
+            <position x="0" y="-0.1875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="12" y="0" z="12"/>
+            <unwrap mode="1">
+                <num0 x="12" y="92" transform="0"/>
+                <num1 x="36" y="92" transform="0"/>
+                <num2 x="24" y="92" transform="0"/>
+                <num3 x="24" y="80" transform="0"/>
+                <num4 x="0" y="92" transform="0"/>
+                <num5 x="12" y="80" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="7" name="effect4">
+            <position x="0" y="-0.1875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="12" y="0" z="12"/>
+            <unwrap mode="1">
+                <num0 x="12" y="92" transform="0"/>
+                <num1 x="36" y="92" transform="0"/>
+                <num2 x="24" y="92" transform="0"/>
+                <num3 x="24" y="80" transform="0"/>
+                <num4 x="0" y="92" transform="0"/>
+                <num5 x="12" y="80" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="1">
+        <animation id="0" name="stay"/>
+    </animations>
+</model>

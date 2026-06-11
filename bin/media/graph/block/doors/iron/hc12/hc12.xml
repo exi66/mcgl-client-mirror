@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="hc12" texwidth="64" texheight="64" nocullface="true" standartlighting="true">
+    <node id="0" name="Block">
+        <position x="0" y="1" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="32" z="3"/>
+        <unwrap mode="1">
+            <num0 x="3" y="3" transform="0" nobrightness="true"/>
+            <num1 x="22" y="3" transform="0" nobrightness="true"/>
+            <num2 x="19" y="3" transform="0" nobrightness="true"/>
+            <num3 x="19" y="0" transform="0" nobrightness="true"/>
+            <num4 x="0" y="3" transform="0" nobrightness="true"/>
+            <num5 x="3" y="0" transform="0" nobrightness="true"/>
+        </unwrap>
+        <node id="1" name="Block1">
+            <position x="0" y="0.6875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="14" y="8" z="3"/>
+            <unwrap mode="2">
+                <num0 x="3" y="38" transform="0" nobrightness="true"/>
+                <num1 x="34" y="38" transform="8" nobrightness="true"/>
+                <num2 x="17" y="38" transform="0" nobrightness="true"/>
+                <num3 x="17" y="35" transform="0" nobrightness="true"/>
+                <num4 x="0" y="38" transform="0" nobrightness="true"/>
+                <num5 x="3" y="35" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

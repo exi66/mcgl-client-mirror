@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="light_stone" texwidth="16" texheight="16" standartlighting="true">
+    <node id="0" name="Block">
+        <position x="0" y="0.5" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="16" z="16"/>
+        <unwrap mode="0">
+            <num0 x="0" y="0" transform="0"/>
+            <num1 x="0" y="0" transform="0"/>
+            <num2 x="0" y="0" transform="0"/>
+            <num3 x="0" y="0" transform="0"/>
+            <num4 x="0" y="0" transform="0"/>
+            <num5 x="0" y="0" transform="0"/>
+        </unwrap>
+    </node>
+    <animations count="0"/>
+</model>

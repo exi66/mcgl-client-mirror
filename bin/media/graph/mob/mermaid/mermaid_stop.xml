@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="stop" duration="30" holdlastframe="0">
+    <node id="25">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="7.63912e-08"/>
+            <orientation interpolation="0" index="15" w="0.999848" x="0" y="0" z="-0.0174523"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="23">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="6.66284e-08"/>
+            <orientation interpolation="0" index="15" w="0.999848" x="0" y="0" z="0.0174525"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="6">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="15" w="0.999848" x="0.0174524" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

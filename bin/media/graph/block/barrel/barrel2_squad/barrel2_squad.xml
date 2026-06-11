@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="barrel2_squad" texwidth="64" texheight="128" nocullface="true" standartlighting="true">
+    <node id="0" name="Barrel">
+        <position x="0" y="0.5" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="14" y="16" z="14"/>
+        <unwrap mode="1">
+            <num0 x="14" y="15" transform="0" nobrightness="true"/>
+            <num1 x="42" y="15" transform="0" nobrightness="true"/>
+            <num2 x="28" y="15" transform="0" nobrightness="true"/>
+            <num3 x="28" y="1" transform="0" nobrightness="true"/>
+            <num4 x="0" y="15" transform="0" nobrightness="true"/>
+            <num5 x="14" y="1" transform="0" nobrightness="true"/>
+        </unwrap>
+        <node id="1" name="cap">
+            <position x="-0.25" y="0.4375" z="-0.0625"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="1" z="2"/>
+            <unwrap mode="0">
+                <num0 x="26" y="61" transform="16" nobrightness="true"/>
+                <num1 x="26" y="61" transform="16" nobrightness="true"/>
+                <num2 x="26" y="61" transform="16" nobrightness="true"/>
+                <num3 x="26" y="61" transform="16" nobrightness="true"/>
+                <num4 x="26" y="61" transform="16" nobrightness="true"/>
+                <num5 x="26" y="61" transform="16" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="2" name="ring">
+            <position x="0" y="0.25" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="0.95" y="1" z="0.95"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="16" y="2" z="16"/>
+            <unwrap mode="1">
+                <num0 x="16" y="47" transform="0" nobrightness="true"/>
+                <num1 x="48" y="47" transform="0" nobrightness="true"/>
+                <num2 x="32" y="47" transform="0" nobrightness="true"/>
+                <num3 x="32" y="31" transform="0" nobrightness="true"/>
+                <num4 x="0" y="47" transform="0" nobrightness="true"/>
+                <num5 x="16" y="31" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="3" name="ring">
+            <position x="0" y="-0.25" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="0.95" y="1" z="0.95"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="16" y="2" z="16"/>
+            <unwrap mode="1">
+                <num0 x="16" y="47" transform="0" nobrightness="true"/>
+                <num1 x="48" y="47" transform="0" nobrightness="true"/>
+                <num2 x="32" y="47" transform="0" nobrightness="true"/>
+                <num3 x="32" y="31" transform="0" nobrightness="true"/>
+                <num4 x="0" y="47" transform="0" nobrightness="true"/>
+                <num5 x="16" y="31" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="4" name="top">
+            <position x="0" y="0.46875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="12" y="1" z="12"/>
+            <unwrap mode="2">
+                <num0 x="16" y="61" transform="0" nobrightness="true"/>
+                <num1 x="40" y="61" transform="0" nobrightness="true"/>
+                <num2 x="28" y="61" transform="0" nobrightness="true"/>
+                <num3 x="28" y="49" transform="0" nobrightness="true"/>
+                <num4 x="4" y="61" transform="0" nobrightness="true"/>
+                <num5 x="14" y="49" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="6" name="bottom">
+            <position x="0" y="-0.46875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="12" y="1" z="12"/>
+            <unwrap mode="1">
+                <num0 x="16" y="74" transform="0" nobrightness="true"/>
+                <num1 x="40" y="74" transform="0" nobrightness="true"/>
+                <num2 x="28" y="74" transform="0" nobrightness="true"/>
+                <num3 x="28" y="62" transform="0" nobrightness="true"/>
+                <num4 x="4" y="74" transform="0" nobrightness="true"/>
+                <num5 x="16" y="62" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="1">
+        <animation id="2" name="open"/>
+    </animations>
+</model>

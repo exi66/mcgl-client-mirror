@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animation name="attack" duration="20" holdlastframe="0">
+    <node id="0">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="0" z="0"/>
+            <position interpolation="0" index="10" x="0" y="0" z="-0.0625"/>
+            <position interpolation="0" index="15" x="0" y="0" z="0"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="10" w="0.972438" x="-0.085077" y="-0.01892" z="0.216259"/>
+            <orientation interpolation="0" index="15" w="0.999048" x="0.043619" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="15">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="0" z="0"/>
+            <position interpolation="0" index="10" x="0" y="0" z="-0.0625"/>
+            <position interpolation="0" index="15" x="0" y="0" z="0.0625"/>
+        </positions>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0.000029" y="0" z="0"/>
+            <orientation interpolation="0" index="10" w="0.949142" x="0.314848" y="0" z="0"/>
+            <orientation interpolation="0" index="15" w="0.925177" x="-0.379536" y="0" z="0"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

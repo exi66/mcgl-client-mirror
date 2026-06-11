@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="pumkin" texwidth="64" texheight="64">
+    <node id="1" name="pumpkin">
+        <position x="0" y="2.4375" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="3.15146" y="3.15146" z="3.15146"/>
+        <orientation w="0.997079" x="0.076371" y="0" z="0"/>
+        <size x="16" y="16" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="48" y="16" transform="0"/>
+            <num2 x="32" y="16" transform="0"/>
+            <num3 x="32" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+        <node id="2" name="hаnd_r">
+            <position x="-1.75" y="-0.346333" z="2.26669"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1.19572" y="1.19572" z="1.19572"/>
+            <orientation w="0.995188" x="-0.0762261" y="-0.0613895" z="-0.00470211"/>
+            <size x="9" y="4" z="9"/>
+            <unwrap mode="1">
+                <num0 x="37" y="28" transform="0"/>
+                <num1 x="55" y="28" transform="0"/>
+                <num2 x="46" y="28" transform="0"/>
+                <num3 x="46" y="19" transform="0"/>
+                <num4 x="28" y="28" transform="0"/>
+                <num5 x="37" y="19" transform="0"/>
+            </unwrap>
+            <node id="3" name="finger1">
+                <position x="-0.375" y="0" z="0.4375"/>
+                <offset x="0" y="0" z="0.3125"/>
+                <scale x="1.19572" y="1.19572" z="1.19572"/>
+                <orientation w="0.926189" x="0.212166" y="-0.303835" z="-0.0696007"/>
+                <size x="3" y="4" z="9"/>
+                <unwrap mode="1">
+                    <num0 x="42" y="28" transform="0"/>
+                    <num1 x="54" y="28" transform="0"/>
+                    <num2 x="45" y="28" transform="0"/>
+                    <num3 x="45" y="19" transform="0"/>
+                    <num4 x="33" y="28" transform="0"/>
+                    <num5 x="42" y="19" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="4" name="finger2">
+                <position x="-0.0625" y="0" z="0.625"/>
+                <offset x="0" y="0" z="0.3125"/>
+                <scale x="1.19572" y="1.19572" z="1.19572"/>
+                <orientation w="0.962068" x="0.272737" y="0.00608977" z="0.00172639"/>
+                <size x="3" y="4" z="9"/>
+                <unwrap mode="1">
+                    <num0 x="42" y="28" transform="0"/>
+                    <num1 x="54" y="28" transform="0"/>
+                    <num2 x="45" y="28" transform="0"/>
+                    <num3 x="45" y="19" transform="0"/>
+                    <num4 x="33" y="28" transform="0"/>
+                    <num5 x="42" y="19" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="5" name="finger3">
+                <position x="0.3125" y="0" z="0.4375"/>
+                <offset x="0" y="0" z="0.3125"/>
+                <scale x="1.19572" y="1.19572" z="1.19572"/>
+                <orientation w="0.907331" x="0.188584" y="0.367886" z="0.076463"/>
+                <size x="3" y="4" z="9"/>
+                <unwrap mode="1">
+                    <num0 x="42" y="28" transform="0"/>
+                    <num1 x="54" y="28" transform="0"/>
+                    <num2 x="45" y="28" transform="0"/>
+                    <num3 x="45" y="19" transform="0"/>
+                    <num4 x="33" y="28" transform="0"/>
+                    <num5 x="42" y="19" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="6" name="hаnd_l">
+            <position x="1.8125" y="-0.346333" z="2.26669"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1.19572" y="1.19572" z="1.19572"/>
+            <orientation w="0.9891" x="-0.0757598" y="0.125889" z="0.0096424"/>
+            <size x="9" y="4" z="9"/>
+            <unwrap mode="1">
+                <num0 x="37" y="28" transform="0"/>
+                <num1 x="55" y="28" transform="0"/>
+                <num2 x="46" y="28" transform="0"/>
+                <num3 x="46" y="19" transform="0"/>
+                <num4 x="28" y="28" transform="0"/>
+                <num5 x="37" y="19" transform="0"/>
+            </unwrap>
+            <node id="7" name="finger4">
+                <position x="-0.375" y="0" z="0.4375"/>
+                <offset x="0" y="0" z="0.3125"/>
+                <scale x="1.19572" y="1.19572" z="1.19572"/>
+                <orientation w="0.926189" x="0.212166" y="-0.303835" z="-0.0696007"/>
+                <size x="3" y="4" z="9"/>
+                <unwrap mode="1">
+                    <num0 x="42" y="28" transform="0"/>
+                    <num1 x="54" y="28" transform="0"/>
+                    <num2 x="45" y="28" transform="0"/>
+                    <num3 x="45" y="19" transform="0"/>
+                    <num4 x="33" y="28" transform="0"/>
+                    <num5 x="42" y="19" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="8" name="finger5">
+                <position x="-0.0625" y="0" z="0.625"/>
+                <offset x="0" y="0" z="0.3125"/>
+                <scale x="1.19572" y="1.19572" z="1.19572"/>
+                <orientation w="0.962068" x="0.272737" y="0.00608977" z="0.00172639"/>
+                <size x="3" y="4" z="9"/>
+                <unwrap mode="1">
+                    <num0 x="42" y="28" transform="0"/>
+                    <num1 x="54" y="28" transform="0"/>
+                    <num2 x="45" y="28" transform="0"/>
+                    <num3 x="45" y="19" transform="0"/>
+                    <num4 x="33" y="28" transform="0"/>
+                    <num5 x="42" y="19" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="9" name="finger6">
+                <position x="0.3125" y="0" z="0.4375"/>
+                <offset x="0" y="0" z="0.3125"/>
+                <scale x="1.19572" y="1.19572" z="1.19572"/>
+                <orientation w="0.907331" x="0.188584" y="0.367886" z="0.076463"/>
+                <size x="3" y="4" z="9"/>
+                <unwrap mode="1">
+                    <num0 x="42" y="28" transform="0"/>
+                    <num1 x="54" y="28" transform="0"/>
+                    <num2 x="45" y="28" transform="0"/>
+                    <num3 x="45" y="19" transform="0"/>
+                    <num4 x="33" y="28" transform="0"/>
+                    <num5 x="42" y="19" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="10" name="leg_r">
+            <position x="-0.6875" y="-2.03844" z="0.31411"/>
+            <offset x="0" y="0" z="0.5"/>
+            <scale x="1" y="2.42037" z="1.26156"/>
+            <orientation w="0.978946" x="0.0387701" y="-0.196703" z="-0.0383348"/>
+            <size x="7" y="2" z="16"/>
+            <unwrap mode="1">
+                <num0 x="34" y="30" transform="0"/>
+                <num1 x="57" y="30" transform="0"/>
+                <num2 x="41" y="30" transform="0"/>
+                <num3 x="41" y="14" transform="0"/>
+                <num4 x="18" y="30" transform="0"/>
+                <num5 x="34" y="14" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="12" name="leg_l">
+            <position x="0.6875" y="-2.03844" z="0.31411"/>
+            <offset x="0" y="0" z="0.5"/>
+            <scale x="-1" y="2.09624" z="1.34933"/>
+            <orientation w="0.978946" x="0.0387701" y="0.196703" z="0.0383348"/>
+            <size x="7" y="2" z="16"/>
+            <unwrap mode="1">
+                <num0 x="34" y="30" transform="0"/>
+                <num1 x="57" y="30" transform="0"/>
+                <num2 x="41" y="30" transform="0"/>
+                <num3 x="41" y="14" transform="0"/>
+                <num4 x="18" y="30" transform="0"/>
+                <num5 x="34" y="14" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="17" name="pumpkin1">
+            <position x="0" y="0.0526495" z="1.57283"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="3.15146" y="3.15146" z="3.15146"/>
+            <orientation w="1" x="1.19809e-08" y="0" z="0"/>
+            <size x="16" y="16" z="0"/>
+            <unwrap mode="1">
+                <num0 x="0" y="32" transform="0"/>
+                <num1 x="16" y="32" transform="0"/>
+                <num2 x="16" y="32" transform="0"/>
+                <num3 x="16" y="32" transform="0"/>
+                <num4 x="0" y="32" transform="0"/>
+                <num5 x="0" y="32" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <node id="13" name="pumpkin2">
+        <position x="2.5625" y="0.6875" z="-0.988732"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="0.98796" x="0.103464" y="0.114013" z="0.0152223"/>
+        <size x="16" y="16" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="48" y="16" transform="0"/>
+            <num2 x="32" y="16" transform="0"/>
+            <num3 x="32" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="14" name="pumpkin3">
+        <position x="-2.6875" y="0.5625" z="-0.875"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="-1" y="1" z="1"/>
+        <orientation w="0.991742" x="0.0567195" y="-0.114604" z="-0.00982417"/>
+        <size x="16" y="16" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="48" y="16" transform="0"/>
+            <num2 x="32" y="16" transform="0"/>
+            <num3 x="32" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="15" name="pumpkin4">
+        <position x="-2.4375" y="0.375" z="-3.87313"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="0.736574" y="0.736574" z="0.736574"/>
+        <orientation w="0.999418" x="-0.0181335" y="0.0289075" z="-0.000396978"/>
+        <size x="16" y="16" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="48" y="16" transform="0"/>
+            <num2 x="32" y="16" transform="0"/>
+            <num3 x="32" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="16" name="pumpkin5">
+        <position x="3.6875" y="0.4375" z="1.67694"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="0.736574" y="0.736574" z="0.736574"/>
+        <orientation w="0.993067" x="0.0266627" y="-0.114195" z="-0.00811677"/>
+        <size x="16" y="16" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="48" y="16" transform="0"/>
+            <num2 x="32" y="16" transform="0"/>
+            <num3 x="32" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+    </node>
+    <animations count="3">
+        <animation id="0" name="run"/>
+        <animation id="1" name="attack"/>
+        <animation id="2" name="walk"/>
+    </animations>
+</model>

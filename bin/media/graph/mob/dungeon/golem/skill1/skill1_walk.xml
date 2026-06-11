@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="walk" duration="30" holdlastframe="0">
+    <node id="47">
+        <positions>
+            <position interpolation="0" index="0" x="-7.45058e-08" y="-1.125" z="1.49012e-08"/>
+            <position interpolation="0" index="5" x="-7.45058e-08" y="0" z="1.49012e-08"/>
+        </positions>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="40">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="-0.1875" z="0"/>
+            <position interpolation="0" index="5" x="0" y="0" z="0"/>
+            <position interpolation="0" index="27" x="0" y="0" z="0"/>
+        </positions>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

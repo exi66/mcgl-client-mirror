@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="run" duration="70" holdlastframe="0">
+    <node id="2">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="-2.03075e-05" y="-2.80616e-05" z="1.73626e-05"/>
+            <orientation interpolation="0" index="16" w="0.984092" x="0.0150066" y="0.102293" z="0.14448"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="6">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="1.75385e-05" y="-2.18031e-06" z="4.64094e-06"/>
+            <orientation interpolation="0" index="5" w="0.987806" x="-0.152767" y="0.00459017" z="-0.0296849"/>
+            <orientation interpolation="0" index="10" w="0.989102" x="-0.0122556" y="0.0346045" z="-0.142584"/>
+            <orientation interpolation="0" index="15" w="0.990953" x="0.120791" y="0.00111951" z="-0.0584926"/>
+            <orientation interpolation="0" index="20" w="0.984982" x="0.136246" y="0.00639864" z="0.105863"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="8">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="1.27378e-05" y="-3.19481e-06" z="6.58576e-05"/>
+            <orientation interpolation="0" index="5" w="0.989554" x="0.144166" y="-1.26747e-05" z="6.47115e-05"/>
+            <orientation interpolation="0" index="10" w="0.973116" x="0.230315" y="-1.68649e-05" z="7.90906e-05"/>
+            <orientation interpolation="0" index="15" w="0.999767" x="-0.0215919" y="1.46838e-05" z="8.81725e-05"/>
+            <orientation interpolation="0" index="20" w="0.983971" x="-0.178329" y="2.66724e-05" z="0.000156463"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="3">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="3.7621e-05" y="1.52912e-08" z="9.03381e-09"/>
+            <orientation interpolation="0" index="20" w="0.99999" x="3.76185e-05" y="1.8638e-07" z="0.00454708"/>
+            <orientation interpolation="0" index="31" w="0.99987" x="3.76099e-05" y="6.23004e-07" z="0.0161549"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="10">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="-1.4599e-06" y="2.84099e-05" z="1.58064e-05"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="5">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="4.29664e-05" y="3.53067e-06" z="1.88471e-05"/>
+            <orientation interpolation="0" index="20" w="1" x="4.29893e-05" y="3.52134e-06" z="1.88472e-05"/>
+            <orientation interpolation="0" index="31" w="0.999879" x="-0.00661016" y="-9.06368e-05" z="-0.0140596"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="4">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="1.81613e-05" y="-2.18295e-05" z="1.63977e-05"/>
+            <orientation interpolation="0" index="20" w="1" x="1.81951e-05" y="-2.18451e-05" z="1.63898e-05"/>
+            <orientation interpolation="0" index="31" w="0.999791" x="-0.0145374" y="-0.000231223" z="-0.014364"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="9">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="3.27713e-05" y="-3.27875e-05" z="1.07242e-05"/>
+            <orientation interpolation="0" index="23" w="0.997565" x="3.03984e-05" y="-3.49943e-05" z="-0.0697452"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

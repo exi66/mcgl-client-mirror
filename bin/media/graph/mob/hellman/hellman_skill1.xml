@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="skill1" duration="15" holdlastframe="0">
+    <node id="4">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="7" w="0.0285526" x="-0.169931" y="0.98503" z="0.00492571"/>
+            <orientation interpolation="0" index="11" w="0.672154" x="0.0925773" y="-0.727721" z="-0.100298"/>
+            <orientation interpolation="0" index="15" w="0.99989" x="-1.8416e-09" y="0.0148116" z="1.22146e-09"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="19">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="-0.711926" x="0.702255" y="2.36193e-07" z="2.35118e-07"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="11">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="-0.706879" x="-0.707335" y="-2.35072e-07" z="2.38047e-07"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

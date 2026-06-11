@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="torch" texwidth="64" texheight="32" nocullface="true" standartlighting="true">
+    <node id="1" name="Block1">
+        <position x="-6.14425e-9" y="0.5" z="-8.78665e-8"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="0.736239" y="0.990319" z="0.736239"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="2" y="16" z="2"/>
+        <unwrap mode="1">
+            <num0 x="2" y="5" transform="0"/>
+            <num1 x="6" y="5" transform="0"/>
+            <num2 x="4" y="5" transform="0"/>
+            <num3 x="4" y="3" transform="0"/>
+            <num4 x="0" y="5" transform="0"/>
+            <num5 x="2" y="3" transform="0"/>
+        </unwrap>
+        <node id="2" name="Block2">
+            <position x="0" y="0.416669" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="0.392937" y="0.463694" z="0.392937"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="11" y="11" z="11"/>
+            <unwrap mode="1">
+                <num0 x="11" y="21" transform="0"/>
+                <num1 x="33" y="21" transform="0"/>
+                <num2 x="22" y="21" transform="0"/>
+                <num3 x="22" y="10" transform="0"/>
+                <num4 x="0" y="21" transform="0"/>
+                <num5 x="11" y="10" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

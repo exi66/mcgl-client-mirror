@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="Broom" texwidth="128" texheight="32" standartlighting="true">
+    <node id="0" name="broomstick">
+        <position x="0" y="0.6" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="2" y="2" z="20"/>
+        <unwrap mode="1">
+            <num0 x="20" y="20" transform="0"/>
+            <num1 x="42" y="20" transform="0"/>
+            <num2 x="22" y="20" transform="0"/>
+            <num3 x="22" y="0" transform="0"/>
+            <num4 x="0" y="20" transform="0"/>
+            <num5 x="20" y="0" transform="0"/>
+        </unwrap>
+        <node id="1" name="broom">
+            <position x="0" y="0" z="1.125"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="16" y="1" z="16"/>
+            <unwrap mode="1">
+                <num0 x="44" y="18" transform="0"/>
+                <num1 x="76" y="18" transform="0"/>
+                <num2 x="60" y="18" transform="0"/>
+                <num3 x="60" y="2" transform="0"/>
+                <num4 x="28" y="18" transform="0"/>
+                <num5 x="44" y="2" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="2" name="broom_vertical">
+            <position x="0" y="0" z="1.125"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.707107" x="0" y="0" z="-0.707107"/>
+            <size x="16" y="1" z="16"/>
+            <unwrap mode="1">
+                <num0 x="44" y="18" transform="0"/>
+                <num1 x="76" y="18" transform="0"/>
+                <num2 x="60" y="18" transform="0"/>
+                <num3 x="60" y="2" transform="0"/>
+                <num4 x="28" y="18" transform="0"/>
+                <num5 x="44" y="2" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

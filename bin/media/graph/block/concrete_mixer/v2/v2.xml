@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="v2" texwidth="128" texheight="64" nocullface="true" standartlighting="false">
+    <node id="55" name="bas">
+        <position x="0" y="0.53125" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="2" z="2"/>
+        <unwrap mode="2">
+            <num0 x="30" y="15" transform="1"/>
+            <num1 x="28" y="31" transform="4"/>
+            <num2 x="26" y="15" transform="0"/>
+            <num3 x="30" y="15" transform="1"/>
+            <num4 x="26" y="17" transform="0"/>
+            <num5 x="30" y="15" transform="1"/>
+        </unwrap>
+        <node id="0" name="mixer1">
+            <position x="9.31323e-10" y="0.0625" z="0"/>
+            <offset x="0" y="0" z="-0.270625"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="4" y="8" z="1"/>
+            <unwrap mode="1">
+                <num0 x="1" y="1" transform="0"/>
+                <num1 x="6" y="1" transform="0"/>
+                <num2 x="5" y="1" transform="0"/>
+                <num3 x="5" y="0" transform="0"/>
+                <num4 x="0" y="1" transform="0"/>
+                <num5 x="1" y="0" transform="0"/>
+            </unwrap>
+            <node id="13" name="mixer_bas1">
+                <position x="0" y="-0.21875" z="0.271875"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="0.707107" x="0" y="0.707107" z="0"/>
+                <size x="8" y="1" z="4"/>
+                <unwrap mode="1">
+                    <num0 x="14" y="4" transform="0"/>
+                    <num1 x="26" y="4" transform="0"/>
+                    <num2 x="22" y="4" transform="0"/>
+                    <num3 x="22" y="0" transform="0"/>
+                    <num4 x="10" y="4" transform="0"/>
+                    <num5 x="14" y="0" transform="0"/>
+                </unwrap>
+                <node id="9" name="mixer_bas4">
+                    <position x="0" y="0" z="0"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="1" y="1" z="1"/>
+                    <orientation w="0.707107" x="0" y="-0.707107" z="0"/>
+                    <size x="8" y="1" z="4"/>
+                    <unwrap mode="1">
+                        <num0 x="14" y="14" transform="0"/>
+                        <num1 x="26" y="14" transform="0"/>
+                        <num2 x="22" y="14" transform="0"/>
+                        <num3 x="22" y="10" transform="0"/>
+                        <num4 x="10" y="14" transform="0"/>
+                        <num5 x="14" y="10" transform="0"/>
+                    </unwrap>
+                </node>
+                <node id="11" name="mixer_bas3">
+                    <position x="0" y="1.49012e-08" z="0"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="1" y="1" z="1"/>
+                    <orientation w="0.92388" x="0" y="-0.382683" z="0"/>
+                    <size x="8" y="1" z="4"/>
+                    <unwrap mode="1">
+                        <num0 x="14" y="9" transform="0"/>
+                        <num1 x="26" y="9" transform="0"/>
+                        <num2 x="22" y="9" transform="0"/>
+                        <num3 x="22" y="5" transform="0"/>
+                        <num4 x="10" y="9" transform="0"/>
+                        <num5 x="14" y="5" transform="0"/>
+                    </unwrap>
+                </node>
+                <node id="12" name="mixer_bas2">
+                    <position x="0" y="1.49012e-08" z="0"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="-1" y="1" z="1"/>
+                    <orientation w="0.382683" x="0" y="-0.92388" z="0"/>
+                    <size x="8" y="1" z="4"/>
+                    <unwrap mode="1">
+                        <num0 x="14" y="9" transform="0"/>
+                        <num1 x="26" y="9" transform="0"/>
+                        <num2 x="22" y="9" transform="0"/>
+                        <num3 x="22" y="5" transform="0"/>
+                        <num4 x="10" y="9" transform="0"/>
+                        <num5 x="14" y="5" transform="0"/>
+                    </unwrap>
+                </node>
+            </node>
+            <node id="18" name="mixer11">
+                <position x="0" y="0.25" z="-0.03125"/>
+                <offset x="0" y="0.0625" z="0.03125"/>
+                <scale x="0.8" y="1" z="1"/>
+                <orientation w="0.965926" x="0.258819" y="0" z="0"/>
+                <size x="4" y="2" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="1" y="10" transform="0"/>
+                    <num1 x="6" y="10" transform="0"/>
+                    <num2 x="5" y="10" transform="0"/>
+                    <num3 x="5" y="9" transform="0"/>
+                    <num4 x="0" y="10" transform="0"/>
+                    <num5 x="1" y="9" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="19" name="mixer2">
+                <position x="0.125" y="0" z="-0.03125"/>
+                <offset x="0.125" y="0" z="0.03125"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="0.92388" x="0" y="-0.382683" z="0"/>
+                <size x="4" y="8" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="1" y="1" transform="0"/>
+                    <num1 x="6" y="1" transform="0"/>
+                    <num2 x="5" y="1" transform="0"/>
+                    <num3 x="5" y="0" transform="0"/>
+                    <num4 x="0" y="1" transform="0"/>
+                    <num5 x="1" y="0" transform="0"/>
+                </unwrap>
+                <node id="20" name="mixer21">
+                    <position x="0" y="0.25" z="-0.03125"/>
+                    <offset x="0" y="0.0625" z="0.03125"/>
+                    <scale x="0.8" y="1" z="1"/>
+                    <orientation w="0.965926" x="0.258819" y="0" z="0"/>
+                    <size x="4" y="2" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="1" y="10" transform="0"/>
+                        <num1 x="6" y="10" transform="0"/>
+                        <num2 x="5" y="10" transform="0"/>
+                        <num3 x="5" y="9" transform="0"/>
+                        <num4 x="0" y="10" transform="0"/>
+                        <num5 x="1" y="9" transform="0"/>
+                    </unwrap>
+                </node>
+                <node id="21" name="mixer3">
+                    <position x="0.125" y="2.16459e-08" z="-0.03125"/>
+                    <offset x="0.125" y="0" z="0.03125"/>
+                    <scale x="1" y="1" z="1"/>
+                    <orientation w="0.92388" x="0" y="-0.382683" z="0"/>
+                    <size x="4" y="8" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="1" y="1" transform="0"/>
+                        <num1 x="6" y="1" transform="0"/>
+                        <num2 x="5" y="1" transform="0"/>
+                        <num3 x="5" y="0" transform="0"/>
+                        <num4 x="0" y="1" transform="0"/>
+                        <num5 x="1" y="0" transform="0"/>
+                    </unwrap>
+                    <node id="22" name="mixer31">
+                        <position x="0" y="0.25" z="-0.03125"/>
+                        <offset x="0" y="0.0625" z="0.03125"/>
+                        <scale x="0.8" y="1" z="1"/>
+                        <orientation w="0.965926" x="0.258819" y="0" z="0"/>
+                        <size x="4" y="2" z="1"/>
+                        <unwrap mode="1">
+                            <num0 x="1" y="10" transform="0"/>
+                            <num1 x="6" y="10" transform="0"/>
+                            <num2 x="5" y="10" transform="0"/>
+                            <num3 x="5" y="9" transform="0"/>
+                            <num4 x="0" y="10" transform="0"/>
+                            <num5 x="1" y="9" transform="0"/>
+                        </unwrap>
+                    </node>
+                    <node id="23" name="mixer4">
+                        <position x="0.125" y="3.42986e-08" z="-0.03125"/>
+                        <offset x="0.125" y="0" z="0.03125"/>
+                        <scale x="1" y="1" z="1"/>
+                        <orientation w="0.92388" x="0" y="-0.382683" z="0"/>
+                        <size x="4" y="8" z="1"/>
+                        <unwrap mode="1">
+                            <num0 x="1" y="1" transform="0"/>
+                            <num1 x="6" y="1" transform="0"/>
+                            <num2 x="5" y="1" transform="0"/>
+                            <num3 x="5" y="0" transform="0"/>
+                            <num4 x="0" y="1" transform="0"/>
+                            <num5 x="1" y="0" transform="0"/>
+                        </unwrap>
+                        <node id="24" name="mixer41">
+                            <position x="0" y="0.25" z="-0.03125"/>
+                            <offset x="0" y="0.0625" z="0.03125"/>
+                            <scale x="0.8" y="1" z="1"/>
+                            <orientation w="0.965926" x="0.258819" y="0" z="0"/>
+                            <size x="4" y="2" z="1"/>
+                            <unwrap mode="1">
+                                <num0 x="1" y="10" transform="0"/>
+                                <num1 x="6" y="10" transform="0"/>
+                                <num2 x="5" y="10" transform="0"/>
+                                <num3 x="5" y="9" transform="0"/>
+                                <num4 x="0" y="10" transform="0"/>
+                                <num5 x="1" y="9" transform="0"/>
+                            </unwrap>
+                        </node>
+                        <node id="25" name="mixer5">
+                            <position x="0.125" y="2.74019e-08" z="-0.03125"/>
+                            <offset x="0.125" y="0" z="0.03125"/>
+                            <scale x="1" y="1" z="1"/>
+                            <orientation w="-0.92388" x="8.07681e-08" y="0.382683" z="-3.34553e-08"/>
+                            <size x="4" y="8" z="1"/>
+                            <unwrap mode="1">
+                                <num0 x="1" y="1" transform="0"/>
+                                <num1 x="6" y="1" transform="0"/>
+                                <num2 x="5" y="1" transform="0"/>
+                                <num3 x="5" y="0" transform="0"/>
+                                <num4 x="0" y="1" transform="0"/>
+                                <num5 x="1" y="0" transform="0"/>
+                            </unwrap>
+                            <node id="26" name="mixer51">
+                                <position x="0" y="0.25" z="-0.03125"/>
+                                <offset x="0" y="0.0625" z="0.03125"/>
+                                <scale x="0.8" y="1" z="1"/>
+                                <orientation w="0.965926" x="0.258819" y="0" z="0"/>
+                                <size x="4" y="2" z="1"/>
+                                <unwrap mode="1">
+                                    <num0 x="1" y="10" transform="0"/>
+                                    <num1 x="6" y="10" transform="0"/>
+                                    <num2 x="5" y="10" transform="0"/>
+                                    <num3 x="5" y="9" transform="0"/>
+                                    <num4 x="0" y="10" transform="0"/>
+                                    <num5 x="1" y="9" transform="0"/>
+                                </unwrap>
+                            </node>
+                            <node id="27" name="mixer6">
+                                <position x="0.125" y="-3.02678e-08" z="-0.03125"/>
+                                <offset x="0.125" y="0" z="0.03125"/>
+                                <scale x="1" y="1" z="1"/>
+                                <orientation w="0.92388" x="0" y="-0.382683" z="0"/>
+                                <size x="4" y="8" z="1"/>
+                                <unwrap mode="1">
+                                    <num0 x="1" y="1" transform="0"/>
+                                    <num1 x="6" y="1" transform="0"/>
+                                    <num2 x="5" y="1" transform="0"/>
+                                    <num3 x="5" y="0" transform="0"/>
+                                    <num4 x="0" y="1" transform="0"/>
+                                    <num5 x="1" y="0" transform="0"/>
+                                </unwrap>
+                                <node id="28" name="mixer61">
+                                    <position x="0" y="0.25" z="-0.03125"/>
+                                    <offset x="0" y="0.0625" z="0.03125"/>
+                                    <scale x="0.8" y="1" z="1"/>
+                                    <orientation w="0.965926" x="0.258819" y="0" z="0"/>
+                                    <size x="4" y="2" z="1"/>
+                                    <unwrap mode="1">
+                                        <num0 x="1" y="10" transform="0"/>
+                                        <num1 x="6" y="10" transform="0"/>
+                                        <num2 x="5" y="10" transform="0"/>
+                                        <num3 x="5" y="9" transform="0"/>
+                                        <num4 x="0" y="10" transform="0"/>
+                                        <num5 x="1" y="9" transform="0"/>
+                                    </unwrap>
+                                </node>
+                                <node id="29" name="mixer7">
+                                    <position x="0.125" y="-3.36244e-08" z="-0.03125"/>
+                                    <offset x="0.125" y="0" z="0.03125"/>
+                                    <scale x="1" y="1" z="1"/>
+                                    <orientation w="0.92388" x="0" y="-0.382683" z="0"/>
+                                    <size x="4" y="8" z="1"/>
+                                    <unwrap mode="1">
+                                        <num0 x="1" y="1" transform="0"/>
+                                        <num1 x="6" y="1" transform="0"/>
+                                        <num2 x="5" y="1" transform="0"/>
+                                        <num3 x="5" y="0" transform="0"/>
+                                        <num4 x="0" y="1" transform="0"/>
+                                        <num5 x="1" y="0" transform="0"/>
+                                    </unwrap>
+                                    <node id="30" name="mixer71">
+                                        <position x="0" y="0.25" z="-0.03125"/>
+                                        <offset x="0" y="0.0625" z="0.03125"/>
+                                        <scale x="0.8" y="1" z="1"/>
+                                        <orientation w="0.965926" x="0.258819" y="0" z="0"/>
+                                        <size x="4" y="2" z="1"/>
+                                        <unwrap mode="1">
+                                            <num0 x="1" y="10" transform="0"/>
+                                            <num1 x="6" y="10" transform="0"/>
+                                            <num2 x="5" y="10" transform="0"/>
+                                            <num3 x="5" y="9" transform="0"/>
+                                            <num4 x="0" y="10" transform="0"/>
+                                            <num5 x="1" y="9" transform="0"/>
+                                        </unwrap>
+                                    </node>
+                                    <node id="31" name="mixer8">
+                                        <position x="0.125" y="-3.2622e-08" z="-0.03125"/>
+                                        <offset x="0.125" y="0" z="0.03125"/>
+                                        <scale x="1" y="1" z="1"/>
+                                        <orientation w="0.92388" x="0" y="-0.382683" z="0"/>
+                                        <size x="4" y="8" z="1"/>
+                                        <unwrap mode="1">
+                                            <num0 x="1" y="1" transform="0"/>
+                                            <num1 x="6" y="1" transform="0"/>
+                                            <num2 x="5" y="1" transform="0"/>
+                                            <num3 x="5" y="0" transform="0"/>
+                                            <num4 x="0" y="1" transform="0"/>
+                                            <num5 x="1" y="0" transform="0"/>
+                                        </unwrap>
+                                        <node id="32" name="mixer81">
+                                            <position x="0" y="0.25" z="-0.03125"/>
+                                            <offset x="0" y="0.0625" z="0.03125"/>
+                                            <scale x="0.8" y="1" z="1"/>
+                                            <orientation w="0.965926" x="0.258819" y="0" z="0"/>
+                                            <size x="4" y="2" z="1"/>
+                                            <unwrap mode="1">
+                                                <num0 x="1" y="10" transform="0"/>
+                                                <num1 x="6" y="10" transform="0"/>
+                                                <num2 x="5" y="10" transform="0"/>
+                                                <num3 x="5" y="9" transform="0"/>
+                                                <num4 x="0" y="10" transform="0"/>
+                                                <num5 x="1" y="9" transform="0"/>
+                                            </unwrap>
+                                        </node>
+                                        <node id="63" name="mixer811">
+                                            <position x="0" y="-0.25" z="-0.03125"/>
+                                            <offset x="0" y="-0.0625" z="0.03125"/>
+                                            <scale x="0.8" y="-1" z="1"/>
+                                            <orientation w="0.965926" x="-0.258819" y="3.1561e-08" z="1.18596e-07"/>
+                                            <size x="4" y="2" z="1"/>
+                                            <unwrap mode="1">
+                                                <num0 x="1" y="10" transform="0"/>
+                                                <num1 x="6" y="10" transform="0"/>
+                                                <num2 x="5" y="10" transform="0"/>
+                                                <num3 x="5" y="9" transform="0"/>
+                                                <num4 x="0" y="10" transform="0"/>
+                                                <num5 x="1" y="9" transform="0"/>
+                                            </unwrap>
+                                        </node>
+                                    </node>
+                                    <node id="62" name="mixer711">
+                                        <position x="-1.85666e-10" y="-0.25" z="-0.03125"/>
+                                        <offset x="0" y="-0.0625" z="0.03125"/>
+                                        <scale x="0.8" y="-1" z="1"/>
+                                        <orientation w="0.965926" x="-0.258819" y="5.61568e-08" z="1.87623e-07"/>
+                                        <size x="4" y="2" z="1"/>
+                                        <unwrap mode="1">
+                                            <num0 x="1" y="10" transform="0"/>
+                                            <num1 x="6" y="10" transform="0"/>
+                                            <num2 x="5" y="10" transform="0"/>
+                                            <num3 x="5" y="9" transform="0"/>
+                                            <num4 x="0" y="10" transform="0"/>
+                                            <num5 x="1" y="9" transform="0"/>
+                                        </unwrap>
+                                    </node>
+                                </node>
+                                <node id="61" name="mixer611">
+                                    <position x="-1.16889e-09" y="-0.25" z="-0.03125"/>
+                                    <offset x="0" y="-0.0625" z="0.03125"/>
+                                    <scale x="0.8" y="-1" z="1"/>
+                                    <orientation w="0.965926" x="-0.258819" y="-6.23e-09" z="1.24096e-07"/>
+                                    <size x="4" y="2" z="1"/>
+                                    <unwrap mode="1">
+                                        <num0 x="1" y="10" transform="0"/>
+                                        <num1 x="6" y="10" transform="0"/>
+                                        <num2 x="5" y="10" transform="0"/>
+                                        <num3 x="5" y="9" transform="0"/>
+                                        <num4 x="0" y="10" transform="0"/>
+                                        <num5 x="1" y="9" transform="0"/>
+                                    </unwrap>
+                                </node>
+                            </node>
+                            <node id="60" name="mixer511">
+                                <position x="-1.23786e-10" y="-0.25" z="-0.03125"/>
+                                <offset x="0" y="-0.0625" z="0.03125"/>
+                                <scale x="0.8" y="-1" z="1"/>
+                                <orientation w="0.965926" x="-0.258819" y="-1.75011e-08" z="4.68941e-09"/>
+                                <size x="4" y="2" z="1"/>
+                                <unwrap mode="1">
+                                    <num0 x="1" y="10" transform="0"/>
+                                    <num1 x="6" y="10" transform="0"/>
+                                    <num2 x="5" y="10" transform="0"/>
+                                    <num3 x="5" y="9" transform="0"/>
+                                    <num4 x="0" y="10" transform="0"/>
+                                    <num5 x="1" y="9" transform="0"/>
+                                </unwrap>
+                            </node>
+                        </node>
+                        <node id="59" name="mixer411">
+                            <position x="2.90908e-09" y="-0.25" z="-0.03125"/>
+                            <offset x="0" y="-0.0625" z="0.03125"/>
+                            <scale x="0.8" y="-1" z="1"/>
+                            <orientation w="-0.965926" x="0.258819" y="1.07394e-08" z="2.42266e-09"/>
+                            <size x="4" y="2" z="1"/>
+                            <unwrap mode="1">
+                                <num0 x="1" y="10" transform="0"/>
+                                <num1 x="6" y="10" transform="0"/>
+                                <num2 x="5" y="10" transform="0"/>
+                                <num3 x="5" y="9" transform="0"/>
+                                <num4 x="0" y="10" transform="0"/>
+                                <num5 x="1" y="9" transform="0"/>
+                            </unwrap>
+                        </node>
+                    </node>
+                    <node id="58" name="mixer311">
+                        <position x="-8.29018e-10" y="-0.25" z="-0.03125"/>
+                        <offset x="0" y="-0.0625" z="0.03125"/>
+                        <scale x="0.8" y="-1" z="1"/>
+                        <orientation w="0.965926" x="-0.258819" y="3.92746e-08" z="-2.18783e-08"/>
+                        <size x="4" y="2" z="1"/>
+                        <unwrap mode="1">
+                            <num0 x="1" y="10" transform="0"/>
+                            <num1 x="6" y="10" transform="0"/>
+                            <num2 x="5" y="10" transform="0"/>
+                            <num3 x="5" y="9" transform="0"/>
+                            <num4 x="0" y="10" transform="0"/>
+                            <num5 x="1" y="9" transform="0"/>
+                        </unwrap>
+                    </node>
+                </node>
+                <node id="57" name="mixer211">
+                    <position x="7.45901e-09" y="-0.25" z="-0.03125"/>
+                    <offset x="0" y="-0.0625" z="0.03125"/>
+                    <scale x="0.8" y="-1" z="1"/>
+                    <orientation w="0.965926" x="-0.258819" y="-2.22626e-08" z="2.9618e-09"/>
+                    <size x="4" y="2" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="1" y="10" transform="0"/>
+                        <num1 x="6" y="10" transform="0"/>
+                        <num2 x="5" y="10" transform="0"/>
+                        <num3 x="5" y="9" transform="0"/>
+                        <num4 x="0" y="10" transform="0"/>
+                        <num5 x="1" y="9" transform="0"/>
+                    </unwrap>
+                </node>
+            </node>
+            <node id="56" name="mixer111">
+                <position x="0" y="-0.25" z="-0.03125"/>
+                <offset x="0" y="-0.0625" z="0.03125"/>
+                <scale x="0.8" y="-1" z="1"/>
+                <orientation w="0.965926" x="-0.258819" y="0" z="0"/>
+                <size x="4" y="2" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="1" y="10" transform="0"/>
+                    <num1 x="6" y="10" transform="0"/>
+                    <num2 x="5" y="10" transform="0"/>
+                    <num3 x="5" y="9" transform="0"/>
+                    <num4 x="0" y="10" transform="0"/>
+                    <num5 x="1" y="9" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="45" name="cement1">
+            <position x="-0.10625" y="-0.0625" z="-0.025"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.95536" x="0.043905" y="-0.224859" z="0.18654"/>
+            <size x="3" y="3" z="3"/>
+            <unwrap mode="1">
+                <num0 x="3" y="15" transform="0"/>
+                <num1 x="9" y="15" transform="0"/>
+                <num2 x="6" y="15" transform="0"/>
+                <num3 x="6" y="12" transform="0"/>
+                <num4 x="0" y="15" transform="0"/>
+                <num5 x="3" y="12" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="46" name="cement2">
+            <position x="0.08125" y="-0.0625" z="0.09375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="0.95536" x="0.043905" y="0.224859" z="-0.186539"/>
+            <size x="3" y="3" z="3"/>
+            <unwrap mode="1">
+                <num0 x="3" y="15" transform="0"/>
+                <num1 x="9" y="15" transform="0"/>
+                <num2 x="6" y="15" transform="0"/>
+                <num3 x="6" y="12" transform="0"/>
+                <num4 x="0" y="15" transform="0"/>
+                <num5 x="3" y="12" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="50" name="Stand">
+            <position x="0.4375" y="-0.25" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="8" z="1"/>
+            <unwrap mode="1">
+                <num0 x="23" y="16" transform="0"/>
+                <num1 x="25" y="16" transform="0"/>
+                <num2 x="24" y="16" transform="0"/>
+                <num3 x="24" y="15" transform="0"/>
+                <num4 x="22" y="16" transform="0"/>
+                <num5 x="23" y="15" transform="0"/>
+            </unwrap>
+            <node id="51" name="Stand1">
+                <position x="-0.875" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="8" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="23" y="16" transform="0"/>
+                    <num1 x="25" y="16" transform="0"/>
+                    <num2 x="24" y="16" transform="0"/>
+                    <num3 x="24" y="15" transform="0"/>
+                    <num4 x="22" y="16" transform="0"/>
+                    <num5 x="23" y="15" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="52" name="Stand3">
+                <position x="-0.4375" y="-0.21875" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="0.707107" x="0" y="0" z="-0.707107"/>
+                <size x="1" y="13" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="19" y="16" transform="0"/>
+                    <num1 x="21" y="16" transform="0"/>
+                    <num2 x="20" y="16" transform="0"/>
+                    <num3 x="20" y="15" transform="0"/>
+                    <num4 x="18" y="16" transform="0"/>
+                    <num5 x="19" y="15" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="53" name="Stand4">
+                <position x="-0.4375" y="-0.09375" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="0.707107" x="0" y="0" z="-0.707107"/>
+                <size x="6" y="2" z="2"/>
+                <unwrap mode="2">
+                    <num0 x="28" y="26" transform="2"/>
+                    <num1 x="22" y="24" transform="0"/>
+                    <num2 x="26" y="22" transform="0"/>
+                    <num3 x="28" y="26" transform="2"/>
+                    <num4 x="26" y="22" transform="0"/>
+                    <num5 x="28" y="26" transform="2"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <animations count="1">
+        <animation id="0" name="run"/>
+    </animations>
+</model>

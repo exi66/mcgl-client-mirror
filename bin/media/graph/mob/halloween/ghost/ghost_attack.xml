@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="attack" duration="30" holdlastframe="0">
+    <node id="7">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.982143" x="0.188138" y="0" z="0"/>
+            <orientation interpolation="0" index="5" w="0.978304" x="0.182644" y="-0.0634238" z="0.0744249"/>
+            <orientation interpolation="0" index="16" w="0.978642" x="0.192729" y="0.0446961" z="-0.0558407"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="4">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.984826" x="0.124824" y="-0.01516" z="0.119608"/>
+            <orientation interpolation="0" index="5" w="0.978405" x="0.125397" y="-0.00950336" z="0.164042"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="23">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="0.985499" x="0.106571" y="0.0296307" z="-0.128668"/>
+            <orientation interpolation="0" index="5" w="0.963589" x="0.170077" y="0.0239466" z="-0.204929"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="8">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="-8.94564e-07" y="-1.23319e-07" z="-2.09885e-05"/>
+            <orientation interpolation="0" index="5" w="0.920622" x="-0.33879" y="-0.0670482" z="0.182155"/>
+            <orientation interpolation="0" index="10" w="0.89462" x="0.0733314" y="-0.438402" z="-0.0456204"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

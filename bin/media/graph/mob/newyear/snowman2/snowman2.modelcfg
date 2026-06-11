@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<model>
+    <modelname name="snowman2"/>
+    <animation id="0" name="stay"/>
+    <animation id="1" name="walk"/>
+    <animation id="2" name="attack"/>
+    <animation id="3" name="death"/>
+</model>

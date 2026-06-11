@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="candle" texwidth="32" texheight="32" standartlighting="true">
+    <node id="0" name="candle1">
+        <position x="0" y="0.0625" z="0"/>
+        <offset x="0" y="0.25" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="2" y="8" z="2"/>
+        <unwrap mode="1">
+            <num0 x="2" y="2" transform="0"/>
+            <num1 x="6" y="2" transform="0"/>
+            <num2 x="4" y="2" transform="0"/>
+            <num3 x="4" y="0" transform="0"/>
+            <num4 x="0" y="2" transform="0"/>
+            <num5 x="2" y="0" transform="0"/>
+        </unwrap>
+        <node id="7" name="cap">
+            <position x="0" y="-0.28125" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="4" y="1" z="4"/>
+            <unwrap mode="1">
+                <num0 x="4" y="15" transform="0"/>
+                <num1 x="12" y="15" transform="0"/>
+                <num2 x="8" y="15" transform="0"/>
+                <num3 x="8" y="11" transform="0"/>
+                <num4 x="0" y="15" transform="0"/>
+                <num5 x="4" y="11" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="8" name="cape">
+            <position x="0" y="-0.21875" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="6" y="1" z="6"/>
+            <unwrap mode="1">
+                <num0 x="6" y="22" transform="0"/>
+                <num1 x="18" y="22" transform="0"/>
+                <num2 x="12" y="22" transform="0"/>
+                <num3 x="12" y="16" transform="0"/>
+                <num4 x="0" y="22" transform="0"/>
+                <num5 x="6" y="16" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

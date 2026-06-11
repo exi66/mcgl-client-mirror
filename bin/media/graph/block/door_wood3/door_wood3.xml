@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="door_wood3" texwidth="64" texheight="64" nocullface="true" standartlighting="true">
+    <node id="0" name="body">
+		<active type="head"/>
+        <position x="0" y="1" z="0.40625"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="16" y="32" z="3"/>
+        <unwrap mode="1">
+            <num0 x="3" y="3" transform="0" nobrightness="true"/>
+            <num1 x="22" y="3" transform="0" nobrightness="true"/>
+            <num2 x="19" y="3" transform="0" nobrightness="true"/>
+            <num3 x="19" y="0" transform="0" nobrightness="true"/>
+            <num4 x="0" y="3" transform="0" nobrightness="true"/>
+            <num5 x="3" y="0" transform="0" nobrightness="true"/>
+        </unwrap>
+        <node id="1" name="box1">
+            <position x="0.375" y="0" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="32" z="4"/>
+            <unwrap mode="1">
+                <num0 x="42" y="4" transform="0" nobrightness="true"/>
+                <num1 x="48" y="4" transform="0" nobrightness="true"/>
+                <num2 x="44" y="4" transform="0" nobrightness="true"/>
+                <num3 x="44" y="0" transform="0" nobrightness="true"/>
+                <num4 x="38" y="4" transform="0" nobrightness="true"/>
+                <num5 x="42" y="0" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="2" name="box2">
+            <position x="0.1875" y="0" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="32" z="4"/>
+            <unwrap mode="1">
+                <num0 x="42" y="4" transform="0" nobrightness="true"/>
+                <num1 x="48" y="4" transform="0" nobrightness="true"/>
+                <num2 x="44" y="4" transform="0" nobrightness="true"/>
+                <num3 x="44" y="0" transform="0" nobrightness="true"/>
+                <num4 x="38" y="4" transform="0" nobrightness="true"/>
+                <num5 x="42" y="0" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="3" name="box3">
+            <position x="0" y="0" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="32" z="4"/>
+            <unwrap mode="1">
+                <num0 x="42" y="4" transform="0" nobrightness="true"/>
+                <num1 x="48" y="4" transform="0" nobrightness="true"/>
+                <num2 x="44" y="4" transform="0" nobrightness="true"/>
+                <num3 x="44" y="0" transform="0" nobrightness="true"/>
+                <num4 x="38" y="4" transform="0" nobrightness="true"/>
+                <num5 x="42" y="0" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="4" name="box4">
+            <position x="-0.1875" y="0" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="32" z="4"/>
+            <unwrap mode="1">
+                <num0 x="42" y="4" transform="0" nobrightness="true"/>
+                <num1 x="48" y="4" transform="0" nobrightness="true"/>
+                <num2 x="44" y="4" transform="0" nobrightness="true"/>
+                <num3 x="44" y="0" transform="0" nobrightness="true"/>
+                <num4 x="38" y="4" transform="0" nobrightness="true"/>
+                <num5 x="42" y="0" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="5" name="box5">
+            <position x="-0.375" y="0" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="32" z="4"/>
+            <unwrap mode="1">
+                <num0 x="42" y="4" transform="0" nobrightness="true"/>
+                <num1 x="48" y="4" transform="0" nobrightness="true"/>
+                <num2 x="44" y="4" transform="0" nobrightness="true"/>
+                <num3 x="44" y="0" transform="0" nobrightness="true"/>
+                <num4 x="38" y="4" transform="0" nobrightness="true"/>
+                <num5 x="42" y="0" transform="0" nobrightness="true"/>
+            </unwrap>
+        </node>
+        <node id="6" name="handle">
+			<active type="head"/>
+            <position x="0" y="-1" z="-0.40625"/>
+            <offset x="0.28125" y="0.9375" z="0.40625"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="1" z="5"/>
+            <unwrap mode="1">
+                <num0 x="5" y="40" transform="0" nobrightness="true"/>
+                <num1 x="12" y="40" transform="0" nobrightness="true"/>
+                <num2 x="7" y="40" transform="0" nobrightness="true"/>
+                <num3 x="7" y="35" transform="0" nobrightness="true"/>
+                <num4 x="0" y="40" transform="0" nobrightness="true"/>
+                <num5 x="5" y="35" transform="0" nobrightness="true"/>
+            </unwrap>
+            <node id="8" name="handle">
+				<active type="head"/>
+                <position x="-0.28125" y="-0.9375" z="-0.40625"/>
+                <offset x="0.28125" y="0.75" z="0.40625"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="2" y="1" z="5"/>
+                <unwrap mode="1">
+                    <num0 x="5" y="40" transform="0" nobrightness="true"/>
+                    <num1 x="12" y="40" transform="0" nobrightness="true"/>
+                    <num2 x="7" y="40" transform="0" nobrightness="true"/>
+                    <num3 x="7" y="35" transform="0" nobrightness="true"/>
+                    <num4 x="0" y="40" transform="0" nobrightness="true"/>
+                    <num5 x="5" y="35" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="10" name="handle">
+				<active type="head"/>
+                <position x="-0.28125" y="-0.9375" z="-0.40625"/>
+                <offset x="0.1875" y="0.84375" z="0.40625"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="2" z="5"/>
+                <unwrap mode="1">
+                    <num0 x="5" y="40" transform="0" nobrightness="true"/>
+                    <num1 x="11" y="40" transform="0" nobrightness="true"/>
+                    <num2 x="6" y="40" transform="0" nobrightness="true"/>
+                    <num3 x="6" y="35" transform="0" nobrightness="true"/>
+                    <num4 x="0" y="40" transform="0" nobrightness="true"/>
+                    <num5 x="5" y="35" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+            <node id="12" name="handle">
+				<active type="head"/>
+                <position x="-0.28125" y="-0.9375" z="-0.40625"/>
+                <offset x="0.375" y="0.84375" z="0.40625"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="2" z="5"/>
+                <unwrap mode="1">
+                    <num0 x="5" y="40" transform="0" nobrightness="true"/>
+                    <num1 x="11" y="40" transform="0" nobrightness="true"/>
+                    <num2 x="6" y="40" transform="0" nobrightness="true"/>
+                    <num3 x="6" y="35" transform="0" nobrightness="true"/>
+                    <num4 x="0" y="40" transform="0" nobrightness="true"/>
+                    <num5 x="5" y="35" transform="0" nobrightness="true"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="rabbit" texwidth="64" texheight="128" nocullface="true" standartlighting="true">
+    <node id="22" name="Right_foot">
+        <position x="-0.125" y="0.75" z="0"/>
+        <offset x="0" y="-0.6875" z="0.125"/>
+        <scale x="1.1" y="1.01" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="4" y="2" z="9"/>
+        <unwrap mode="1">
+            <num0 x="9" y="62" transform="0"/>
+            <num1 x="22" y="62" transform="0"/>
+            <num2 x="13" y="62" transform="0"/>
+            <num3 x="13" y="53" transform="0"/>
+            <num4 x="0" y="62" transform="0"/>
+            <num5 x="9" y="53" transform="0"/>
+        </unwrap>
+        <node id="23" name="footprint_1">
+            <position x="-0.04375" y="-0.0625" z="0.2375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="1" z="1"/>
+            <unwrap mode="1">
+                <num0 x="10" y="52" transform="0"/>
+                <num1 x="12" y="52" transform="0"/>
+                <num2 x="11" y="52" transform="0"/>
+                <num3 x="11" y="51" transform="0"/>
+                <num4 x="9" y="52" transform="0"/>
+                <num5 x="10" y="51" transform="0"/>
+            </unwrap>
+            <node id="24" name="footprint_2">
+                <position x="0.0875" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="10" y="52" transform="0"/>
+                    <num1 x="12" y="52" transform="0"/>
+                    <num2 x="11" y="52" transform="0"/>
+                    <num3 x="11" y="51" transform="0"/>
+                    <num4 x="9" y="52" transform="0"/>
+                    <num5 x="10" y="51" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="25" name="footprint_3">
+                <position x="0.1375" y="0" z="-0.0825"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="10" y="52" transform="0"/>
+                    <num1 x="12" y="52" transform="0"/>
+                    <num2 x="11" y="52" transform="0"/>
+                    <num3 x="11" y="51" transform="0"/>
+                    <num4 x="9" y="52" transform="0"/>
+                    <num5 x="10" y="51" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="26" name="footprint_4">
+                <position x="-0.05" y="0" z="-0.0825"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="10" y="52" transform="0"/>
+                    <num1 x="12" y="52" transform="0"/>
+                    <num2 x="11" y="52" transform="0"/>
+                    <num3 x="11" y="51" transform="0"/>
+                    <num4 x="9" y="52" transform="0"/>
+                    <num5 x="10" y="51" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="27" name="footprint_5">
+                <position x="0.04375" y="0" z="-0.11375"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1.5" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="10" y="52" transform="0"/>
+                    <num1 x="12" y="52" transform="0"/>
+                    <num2 x="11" y="52" transform="0"/>
+                    <num3 x="11" y="51" transform="0"/>
+                    <num4 x="9" y="52" transform="0"/>
+                    <num5 x="10" y="51" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <node id="34" name="Right_leg">
+        <position x="-0.125" y="0.75" z="0"/>
+        <offset x="0" y="-0.3125" z="0"/>
+        <scale x="1.05" y="1" z="1.05"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="4" y="11" z="4"/>
+        <unwrap mode="1">
+            <num0 x="4" y="40" transform="0"/>
+            <num1 x="12" y="40" transform="0"/>
+            <num2 x="8" y="40" transform="0"/>
+            <num3 x="8" y="36" transform="0"/>
+            <num4 x="0" y="40" transform="0"/>
+            <num5 x="4" y="36" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="37" name="Body">
+        <position x="0" y="1.5" z="0"/>
+        <offset x="0" y="-0.375" z="0"/>
+        <scale x="1.1" y="1.1" z="1.1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="8" y="12" z="4"/>
+        <unwrap mode="1">
+            <num0 x="21" y="45" transform="0"/>
+            <num1 x="33" y="45" transform="0"/>
+            <num2 x="29" y="45" transform="0"/>
+            <num3 x="29" y="41" transform="0"/>
+            <num4 x="17" y="45" transform="0"/>
+            <num5 x="21" y="41" transform="0"/>
+        </unwrap>
+        <node id="36" name="Skirt">
+            <position x="0" y="0.375" z="0"/>
+            <offset x="0" y="-0.6875" z="0"/>
+            <scale x="1.05" y="1.05" z="1.06"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="8" y="5" z="4"/>
+            <unwrap mode="1">
+                <num0 x="20" y="36" transform="0"/>
+                <num1 x="32" y="36" transform="0"/>
+                <num2 x="28" y="36" transform="0"/>
+                <num3 x="28" y="32" transform="0"/>
+                <num4 x="16" y="36" transform="0"/>
+                <num5 x="20" y="32" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="44" name="tail">
+            <position x="0" y="-0.3125" z="-0.25"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="2" y="2" z="2"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="2" y="2" z="2"/>
+            <unwrap mode="1">
+                <num0 x="35" y="59" transform="0"/>
+                <num1 x="39" y="59" transform="0"/>
+                <num2 x="37" y="59" transform="0"/>
+                <num3 x="37" y="57" transform="0"/>
+                <num4 x="33" y="59" transform="0"/>
+                <num5 x="35" y="57" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <node id="40" name="Left_hand">
+        <position x="0.3125" y="1.375" z="0"/>
+        <offset x="0.0625" y="-0.25" z="0"/>
+        <scale x="-1.1" y="1.1" z="1.1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="4" y="11" z="4"/>
+        <unwrap mode="1">
+            <num0 x="45" y="36" transform="0"/>
+            <num1 x="53" y="36" transform="0"/>
+            <num2 x="49" y="36" transform="0"/>
+            <num3 x="49" y="32" transform="0"/>
+            <num4 x="41" y="36" transform="0"/>
+            <num5 x="45" y="32" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="41" name="Head">
+        <position x="0" y="1.5" z="0"/>
+        <offset x="0" y="0.25" z="0"/>
+        <scale x="1.2" y="1.2" z="1.2"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="8" y="8" z="8"/>
+        <unwrap mode="1">
+            <num0 x="8" y="72" transform="0"/>
+            <num1 x="24" y="72" transform="0"/>
+            <num2 x="16" y="72" transform="0"/>
+            <num3 x="16" y="64" transform="0"/>
+            <num4 x="0" y="72" transform="0"/>
+            <num5 x="8" y="64" transform="0"/>
+        </unwrap>
+        <node id="42" name="ear_Right">
+            <position x="0.125" y="0.2875" z="0"/>
+            <offset x="0" y="0.25" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.991934" x="0.0885295" y="-0.0544785" z="0.0725387"/>
+            <size x="4" y="8" z="1"/>
+            <unwrap mode="1">
+                <num0 x="33" y="72" transform="0"/>
+                <num1 x="38" y="72" transform="0"/>
+                <num2 x="37" y="72" transform="0"/>
+                <num3 x="37" y="71" transform="0"/>
+                <num4 x="32" y="72" transform="0"/>
+                <num5 x="33" y="71" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="43" name="ear_Left">
+            <position x="-0.125" y="0.28125" z="0"/>
+            <offset x="0" y="0.25" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="0.967771" x="0.220346" y="0.0540521" z="-0.109295"/>
+            <size x="4" y="8" z="1"/>
+            <unwrap mode="1">
+                <num0 x="33" y="72" transform="0"/>
+                <num1 x="38" y="72" transform="0"/>
+                <num2 x="37" y="72" transform="0"/>
+                <num3 x="37" y="71" transform="0"/>
+                <num4 x="32" y="72" transform="0"/>
+                <num5 x="33" y="71" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <node id="45" name="Right_hand">
+        <position x="-0.3125" y="1.375" z="0"/>
+        <offset x="-0.0625" y="-0.25" z="0"/>
+        <scale x="1.1" y="1.1" z="1.1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="4" y="11" z="4"/>
+        <unwrap mode="1">
+            <num0 x="45" y="36" transform="0"/>
+            <num1 x="53" y="36" transform="0"/>
+            <num2 x="49" y="36" transform="0"/>
+            <num3 x="49" y="32" transform="0"/>
+            <num4 x="41" y="36" transform="0"/>
+            <num5 x="45" y="32" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="46" name="Left_leg">
+        <position x="0.125" y="0.75" z="0"/>
+        <offset x="0" y="-0.3125" z="0"/>
+        <scale x="-1.05" y="1" z="1.05"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="4" y="11" z="4"/>
+        <unwrap mode="1">
+            <num0 x="4" y="40" transform="0"/>
+            <num1 x="12" y="40" transform="0"/>
+            <num2 x="8" y="40" transform="0"/>
+            <num3 x="8" y="36" transform="0"/>
+            <num4 x="0" y="40" transform="0"/>
+            <num5 x="4" y="36" transform="0"/>
+        </unwrap>
+    </node>
+    <node id="47" name="Left_foot">
+        <position x="0.125" y="0.75" z="0"/>
+        <offset x="0" y="-0.6875" z="0.125"/>
+        <scale x="-1.1" y="1.01" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="4" y="2" z="9"/>
+        <unwrap mode="1">
+            <num0 x="9" y="62" transform="0"/>
+            <num1 x="22" y="62" transform="0"/>
+            <num2 x="13" y="62" transform="0"/>
+            <num3 x="13" y="53" transform="0"/>
+            <num4 x="0" y="62" transform="0"/>
+            <num5 x="9" y="53" transform="0"/>
+        </unwrap>
+        <node id="48" name="footprint_1">
+            <position x="0.04375" y="-0.0625" z="0.2375"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="1" y="1" z="1"/>
+            <unwrap mode="1">
+                <num0 x="10" y="52" transform="0"/>
+                <num1 x="12" y="52" transform="0"/>
+                <num2 x="11" y="52" transform="0"/>
+                <num3 x="11" y="51" transform="0"/>
+                <num4 x="9" y="52" transform="0"/>
+                <num5 x="10" y="51" transform="0"/>
+            </unwrap>
+            <node id="49" name="footprint_2">
+                <position x="-0.0875" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="10" y="52" transform="0"/>
+                    <num1 x="12" y="52" transform="0"/>
+                    <num2 x="11" y="52" transform="0"/>
+                    <num3 x="11" y="51" transform="0"/>
+                    <num4 x="9" y="52" transform="0"/>
+                    <num5 x="10" y="51" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="50" name="footprint_3">
+                <position x="-0.1375" y="0" z="-0.0825"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="10" y="52" transform="0"/>
+                    <num1 x="12" y="52" transform="0"/>
+                    <num2 x="11" y="52" transform="0"/>
+                    <num3 x="11" y="51" transform="0"/>
+                    <num4 x="9" y="52" transform="0"/>
+                    <num5 x="10" y="51" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="51" name="footprint_4">
+                <position x="0.05" y="0" z="-0.0825"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="10" y="52" transform="0"/>
+                    <num1 x="12" y="52" transform="0"/>
+                    <num2 x="11" y="52" transform="0"/>
+                    <num3 x="11" y="51" transform="0"/>
+                    <num4 x="9" y="52" transform="0"/>
+                    <num5 x="10" y="51" transform="0"/>
+                </unwrap>
+            </node>
+            <node id="52" name="footprint_5">
+                <position x="-0.04375" y="0" z="-0.11375"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1.5" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="1" y="1" z="1"/>
+                <unwrap mode="1">
+                    <num0 x="10" y="52" transform="0"/>
+                    <num1 x="12" y="52" transform="0"/>
+                    <num2 x="11" y="52" transform="0"/>
+                    <num3 x="11" y="51" transform="0"/>
+                    <num4 x="9" y="52" transform="0"/>
+                    <num5 x="10" y="51" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+    </node>
+    <animations count="0"/>
+</model>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="stay" duration="30" holdlastframe="0">
+    <node id="2">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="-2.51596e-05" y="0" z="0"/>
+            <orientation interpolation="0" index="15" w="-0.000769953" x="-0.000209473" y="-0.262568" z="0.964914"/>
+            <orientation interpolation="0" index="30" w="-1" x="2.51346e-05" y="3.19963e-08" z="-0.00118993"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

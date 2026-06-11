@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation name="stay" duration="40" holdlastframe="0">
+    <node id="22">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="8" w="0.999722" x="0" y="0" z="-0.0235598"/>
+            <orientation interpolation="0" index="9" w="0.99968" x="0" y="0" z="-0.0253046"/>
+            <orientation interpolation="0" index="10" w="0.999657" x="0" y="0" z="-0.0261769"/>
+            <orientation interpolation="0" index="11" w="0.99968" x="0" y="0" z="-0.0253046"/>
+            <orientation interpolation="0" index="12" w="0.999722" x="0" y="0" z="-0.0235598"/>
+            <orientation interpolation="0" index="28" w="0.999722" x="0" y="0" z="0.0235598"/>
+            <orientation interpolation="0" index="29" w="0.99968" x="0" y="0" z="0.0253046"/>
+            <orientation interpolation="0" index="30" w="0.999657" x="0" y="0" z="0.0261769"/>
+            <orientation interpolation="0" index="31" w="0.99968" x="0" y="0" z="0.0253046"/>
+            <orientation interpolation="0" index="32" w="0.999722" x="0" y="0" z="0.0235598"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="1">
+        <positions>
+            <position interpolation="0" index="0" x="0" y="0" z="0"/>
+            <position interpolation="0" index="20" x="0" y="-0.0625" z="0"/>
+        </positions>
+        <orientations/>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+    <node id="44">
+        <positions/>
+        <orientations>
+            <orientation interpolation="0" index="0" w="1" x="0" y="0" z="0"/>
+            <orientation interpolation="0" index="8" w="0.999722" x="0" y="0" z="-0.0235598"/>
+            <orientation interpolation="0" index="9" w="0.99968" x="0" y="0" z="-0.0253046"/>
+            <orientation interpolation="0" index="10" w="0.999657" x="0" y="0" z="-0.0261769"/>
+            <orientation interpolation="0" index="11" w="0.99968" x="0" y="0" z="-0.0253046"/>
+            <orientation interpolation="0" index="12" w="0.999722" x="0" y="0" z="-0.0235598"/>
+            <orientation interpolation="0" index="28" w="0.999722" x="0" y="0" z="0.0235598"/>
+            <orientation interpolation="0" index="29" w="0.99968" x="0" y="0" z="0.0253046"/>
+            <orientation interpolation="0" index="30" w="0.999657" x="0" y="0" z="0.0261769"/>
+            <orientation interpolation="0" index="31" w="0.99968" x="0" y="0" z="0.0253046"/>
+            <orientation interpolation="0" index="32" w="0.999722" x="0" y="0" z="0.0235598"/>
+        </orientations>
+        <sizes/>
+        <offsets/>
+        <scales/>
+    </node>
+</animation>

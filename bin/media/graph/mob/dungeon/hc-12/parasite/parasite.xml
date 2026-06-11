@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="parasite" texwidth="64" texheight="32" standartlighting="true">
+    <node id="0" name="body">
+        <position x="0" y="0.125" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="8" y="4" z="8"/>
+        <unwrap mode="1">
+            <num0 x="8" y="8" transform="0"/>
+            <num1 x="24" y="8" transform="0"/>
+            <num2 x="16" y="8" transform="0"/>
+            <num3 x="16" y="0" transform="0"/>
+            <num4 x="0" y="8" transform="0"/>
+            <num5 x="8" y="0" transform="0"/>
+        </unwrap>
+        <node id="1" name="head">
+            <active type="head"/>
+            <position x="0" y="0.0625" z="0"/>
+            <offset x="0" y="0.125" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.985222" x="-0.171284" y="0" z="0"/>
+            <size x="5" y="4" z="5"/>
+            <unwrap mode="1">
+                <num0 x="37" y="8" transform="0"/>
+                <num1 x="47" y="8" transform="0"/>
+                <num2 x="42" y="8" transform="0"/>
+                <num3 x="42" y="3" transform="0"/>
+                <num4 x="32" y="8" transform="0"/>
+                <num5 x="37" y="3" transform="0"/>
+            </unwrap>
+            <node id="2" name="head2">
+                <active type="head"/>
+                <position x="0" y="0" z="0"/>
+                <offset x="0" y="0.125" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="0.984863" x="0" y="0" z="0.173337"/>
+                <size x="3" y="6" z="4"/>
+                <unwrap mode="1">
+                    <num0 x="39" y="16" transform="0"/>
+                    <num1 x="46" y="16" transform="0"/>
+                    <num2 x="42" y="16" transform="0"/>
+                    <num3 x="42" y="12" transform="0"/>
+                    <num4 x="35" y="16" transform="0"/>
+                    <num5 x="39" y="12" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="3" name="tentacle">
+            <position x="0.125" y="0" z="0.1875"/>
+            <offset x="0" y="0" z="0.125"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.973491" x="0.168771" y="0.152105" z="0.0263699"/>
+            <size x="2" y="2" z="5"/>
+            <unwrap mode="1">
+                <num0 x="5" y="24" transform="0"/>
+                <num1 x="12" y="24" transform="0"/>
+                <num2 x="7" y="24" transform="0"/>
+                <num3 x="7" y="19" transform="0"/>
+                <num4 x="0" y="24" transform="0"/>
+                <num5 x="5" y="19" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="4" name="tentacle2">
+            <position x="-0.125" y="0" z="0.1875"/>
+            <offset x="0" y="0" z="0.125"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="0.973491" x="0.168771" y="-0.152105" z="-0.0263699"/>
+            <size x="2" y="2" z="5"/>
+            <unwrap mode="1">
+                <num0 x="5" y="24" transform="0"/>
+                <num1 x="12" y="24" transform="0"/>
+                <num2 x="7" y="24" transform="0"/>
+                <num3 x="7" y="19" transform="0"/>
+                <num4 x="0" y="24" transform="0"/>
+                <num5 x="5" y="19" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="5" name="tentacle3">
+            <position x="-0.25" y="0" z="-0.125"/>
+            <offset x="0" y="0" z="0.125"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="0.835768" x="0.165586" y="-0.521837" z="0.0419577"/>
+            <size x="2" y="2" z="5"/>
+            <unwrap mode="1">
+                <num0 x="5" y="17" transform="0"/>
+                <num1 x="12" y="17" transform="0"/>
+                <num2 x="7" y="17" transform="0"/>
+                <num3 x="7" y="12" transform="0"/>
+                <num4 x="0" y="17" transform="0"/>
+                <num5 x="5" y="12" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="6" name="tentacle4">
+            <position x="0.1875" y="0" z="0.0625"/>
+            <offset x="0" y="0" z="-0.125"/>
+            <scale x="1" y="1" z="-1"/>
+            <orientation w="0.835768" x="-0.165586" y="-0.521837" z="-0.0419577"/>
+            <size x="2" y="2" z="5"/>
+            <unwrap mode="1">
+                <num0 x="5" y="17" transform="0"/>
+                <num1 x="12" y="17" transform="0"/>
+                <num2 x="7" y="17" transform="0"/>
+                <num3 x="7" y="12" transform="0"/>
+                <num4 x="0" y="17" transform="0"/>
+                <num5 x="5" y="12" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="2">
+        <animation id="0" name="stay"/>
+        <animation id="1" name="walk"/>
+    </animations>
+</model>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="gate3x3" texwidth="128" texheight="64" standartlighting="true" alpha="true">>
+    <node id="0" name="Block">
+        <position x="0" y="0" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="48" y="1" z="48"/>
+        <unwrap mode="2">
+            <num0 x="0" y="47" transform="0"/>
+            <num1 x="48" y="0" transform="8"/>
+            <num2 x="48" y="47" transform="8"/>
+            <num3 x="48" y="0" transform="0"/>
+            <num4 x="1" y="0" transform="1"/>
+            <num5 x="0" y="0" transform="0"/>
+        </unwrap>
+    </node>
+    <animations count="0"/>
+</model>

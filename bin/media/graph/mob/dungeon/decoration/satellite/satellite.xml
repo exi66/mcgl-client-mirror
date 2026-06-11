@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="satellite" texwidth="128" texheight="128" nocullface="true" standartlighting="true">
+    <node id="0" name="Base">
+        <position x="0" y="1.0625" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1" y="1" z="1"/>
+        <orientation w="0.991445" x="0.130526" y="0" z="0"/>
+        <size x="16" y="32" z="16"/>
+        <unwrap mode="1">
+            <num0 x="16" y="16" transform="0"/>
+            <num1 x="48" y="16" transform="0"/>
+            <num2 x="32" y="16" transform="0"/>
+            <num3 x="32" y="0" transform="0"/>
+            <num4 x="0" y="16" transform="0"/>
+            <num5 x="16" y="0" transform="0"/>
+        </unwrap>
+        <node id="1" name="rod_r">
+            <position x="0.5" y="0.3125" z="0"/>
+            <offset x="1.5" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="0.991445" x="0.130526" y="0" z="0"/>
+            <size x="48" y="2" z="2"/>
+            <unwrap mode="1">
+                <num0 x="2" y="50" transform="0"/>
+                <num1 x="52" y="50" transform="0"/>
+                <num2 x="50" y="50" transform="0"/>
+                <num3 x="50" y="48" transform="0"/>
+                <num4 x="0" y="50" transform="0"/>
+                <num5 x="2" y="48" transform="0"/>
+            </unwrap>
+            <node id="3" name="panel">
+                <position x="0.25" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="40" y="34" z="0"/>
+                <unwrap mode="1">
+                    <num0 x="0" y="52" transform="0"/>
+                    <num1 x="40" y="52" transform="0"/>
+                    <num2 x="40" y="52" transform="0"/>
+                    <num3 x="40" y="52" transform="0"/>
+                    <num4 x="0" y="52" transform="0"/>
+                    <num5 x="0" y="52" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="4" name="rod_l">
+            <position x="-0.5" y="0.3125" z="0"/>
+            <offset x="-1.5" y="0" z="0"/>
+            <scale x="-1" y="1" z="1"/>
+            <orientation w="0.991445" x="0.130526" y="0" z="0"/>
+            <size x="48" y="2" z="2"/>
+            <unwrap mode="1">
+                <num0 x="2" y="50" transform="0"/>
+                <num1 x="52" y="50" transform="0"/>
+                <num2 x="50" y="50" transform="0"/>
+                <num3 x="50" y="48" transform="0"/>
+                <num4 x="0" y="50" transform="0"/>
+                <num5 x="2" y="48" transform="0"/>
+            </unwrap>
+            <node id="5" name="panel">
+                <position x="-0.25" y="0" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="-1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="40" y="34" z="0"/>
+                <unwrap mode="1">
+                    <num0 x="0" y="52" transform="0"/>
+                    <num1 x="40" y="52" transform="0"/>
+                    <num2 x="40" y="52" transform="0"/>
+                    <num3 x="40" y="52" transform="0"/>
+                    <num4 x="0" y="52" transform="0"/>
+                    <num5 x="0" y="52" transform="0"/>
+                </unwrap>
+            </node>
+        </node>
+        <node id="6" name="bottom">
+            <position x="0" y="-1.125" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="14" y="4" z="14"/>
+            <unwrap mode="1">
+                <num0 x="80" y="86" transform="0"/>
+                <num1 x="108" y="86" transform="0"/>
+                <num2 x="94" y="86" transform="0"/>
+                <num3 x="94" y="72" transform="0"/>
+                <num4 x="66" y="86" transform="0"/>
+                <num5 x="80" y="72" transform="0"/>
+            </unwrap>
+        </node>
+        <node id="7" name="b_antenna">
+            <position x="0" y="1.375" z="0"/>
+            <offset x="0" y="0" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="12" y="12" z="12"/>
+            <unwrap mode="1">
+                <num0 x="76" y="36" transform="0"/>
+                <num1 x="100" y="36" transform="0"/>
+                <num2 x="88" y="36" transform="0"/>
+                <num3 x="88" y="24" transform="0"/>
+                <num4 x="64" y="36" transform="0"/>
+                <num5 x="76" y="24" transform="0"/>
+            </unwrap>
+            <node id="8" name="plate">
+                <position x="0" y="0.40625" z="0"/>
+                <offset x="0" y="0" z="0"/>
+                <scale x="1" y="1" z="1"/>
+                <orientation w="1" x="0" y="0" z="0"/>
+                <size x="24" y="1" z="24"/>
+                <unwrap mode="1">
+                    <num0 x="56" y="127" transform="0"/>
+                    <num1 x="104" y="127" transform="0"/>
+                    <num2 x="80" y="127" transform="0"/>
+                    <num3 x="80" y="103" transform="0"/>
+                    <num4 x="32" y="127" transform="0"/>
+                    <num5 x="56" y="103" transform="0"/>
+                </unwrap>
+                <node id="9" name="Block">
+                    <position x="0" y="0.25" z="0"/>
+                    <offset x="0" y="0" z="0"/>
+                    <scale x="1" y="1" z="1"/>
+                    <orientation w="1" x="0" y="0" z="0"/>
+                    <size x="1" y="8" z="1"/>
+                    <unwrap mode="1">
+                        <num0 x="81" y="53" transform="0"/>
+                        <num1 x="83" y="53" transform="0"/>
+                        <num2 x="82" y="53" transform="0"/>
+                        <num3 x="82" y="52" transform="0"/>
+                        <num4 x="80" y="53" transform="0"/>
+                        <num5 x="81" y="52" transform="0"/>
+                    </unwrap>
+                </node>
+            </node>
+        </node>
+        <node id="10" name="case">
+            <position x="0" y="-0.5625" z="0.53125"/>
+            <offset x="0" y="0.75" z="0"/>
+            <scale x="1" y="1" z="1"/>
+            <orientation w="1" x="0" y="0" z="0"/>
+            <size x="14" y="24" z="1"/>
+            <unwrap mode="1">
+                <num0 x="1" y="87" transform="0"/>
+                <num1 x="16" y="87" transform="0"/>
+                <num2 x="15" y="87" transform="0"/>
+                <num3 x="15" y="86" transform="0"/>
+                <num4 x="0" y="87" transform="0"/>
+                <num5 x="1" y="86" transform="0"/>
+            </unwrap>
+        </node>
+    </node>
+    <animations count="1">
+        <animation id="0" name="stay"/>
+    </animations>
+</model>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model name="tablecloth-2" texwidth="64" texheight="32" nocullface="true" standartlighting="true">
+    <node id="0" name="base">
+        <position x="0" y="0.85" z="0"/>
+        <offset x="0" y="0" z="0"/>
+        <scale x="1.001" y="1" z="1.001"/>
+        <orientation w="1" x="0" y="0" z="0"/>
+        <size x="32" y="5" z="16"/>
+        <unwrap mode="2">
+            <num0 x="0" y="16" transform="0" nobrightness="true"/>
+            <num1 x="0" y="16" transform="0" nobrightness="true"/>
+            <num2 x="0" y="16" transform="0" nobrightness="true"/>
+            <num3 x="40" y="0" transform="0" nobrightness="true"/>
+            <num4 x="0" y="16" transform="0" nobrightness="true"/>
+            <num5 x="32" y="16" transform="0" nobrightness="true"/>
+        </unwrap>
+    </node>
+    <animations count="0"/>
+</model>
