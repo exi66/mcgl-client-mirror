@@ -1,5 +1,5 @@
 e91081f7b57d92a4f7747af41bfb6d13  ./Minecraft.jar
-2561a69afc64fc748a6133e5ca1096b6  ./version.md5
+a1b304050e5c2d08f0b6500e5e9fd5ab  ./version.md5
 98bd0e0359aac0eeae8ca703f0bcc574  ./resources/sound/step/grass1.ogg
 0efdd06219119dbab7e9c30b3be30a42  ./resources/sound/step/wood3.ogg
 644465befd41420e4b869d49558d271a  ./resources/sound/step/gravel4.ogg
@@ -766,7 +766,7 @@ b04d0d52d7340cf7d465e3368a746252  ./bin/lib/libnixspecific64.dylib
 567c3e80b11028402b66c51abf642c81  ./bin/lib/libnixspecific64.so
 76650ecbb03c9caee1f7eec09223f948  ./bin/lib/valuelib32.dll
 089104cb90d8b4e1aa00b1f5faef0742  ./bin/gson-2.8.5.jar
-c3c98b132d8f1fbcc6ac825f9aa7f76a  ./bin/mcgl.jar
+b46c5aed194a8250907f2cad234b69c8  ./bin/mcgl.jar
 e7776f2b03a4c62d691a90d3c68c93c0  ./bin/httpcore-4.4.4.jar
 e0a45df625cb96b69505e59bb25a0189  ./bin/httpclient-4.5.2.jar
 6ac4d72d11a0e6a99d600c6bc62d4c57  ./bin/media/xml/accessories.xml
@@ -972,7 +972,7 @@ ac59ea4d60f0f68124838f61b2447d2c  ./bin/media/graph/item/default/items3.png
 4b7b636951f597a7e17d2bc3501c36b7  ./bin/media/graph/item/default/items1.png
 674a23cfec98875c514e82d84e3bf56e  ./bin/media/graph/item/default/sign.png
 f3a97e0bc140ca71e45ca94bbfdc48ef  ./bin/media/graph/item/default/cart.png
-6ca988f80eaa352d528a91d973fd3f90  ./bin/media/graph/item/default/items4.png
+e215d3f889e8f570aecf967609de1f6c  ./bin/media/graph/item/default/items4.png
 6023e706327dea402763b143fed31441  ./bin/media/graph/item/quest.png
 97a0380c1177443d917d15093d953ca8  ./bin/media/graph/item/cinema.png
 eff7c792dfc267a8a32f2b5b45ebc513  ./bin/media/graph/item/cinema8.png
@@ -982,7 +982,7 @@ e0cbcf11babe42505691d94edcdfd9d3  ./bin/media/graph/item/hd/items2.png
 1282a86c31f78fac31390c937f71f87d  ./bin/media/graph/item/hd/items1.png
 326269641bb32e9cb0f7f2828b56f9d1  ./bin/media/graph/item/hd/sign.png
 b28535acf820d65b3e2dc36b7e48d1f6  ./bin/media/graph/item/hd/cart.png
-98a9caa3b10f72810e115731d2667aad  ./bin/media/graph/item/hd/items4.png
+afc0e5397f213503b977e687055fd384  ./bin/media/graph/item/hd/items4.png
 c96949d15387d67eaa5ffaea7edc4e52  ./bin/media/graph/item/keys.png
 b070ad97a00ee047cdb292d3e7babd25  ./bin/media/graph/item/cinema6.png
 6e22b2747d73c0e23bb70877dd378e30  ./bin/media/graph/item/cinema7.png
@@ -2539,7 +2539,7 @@ b8ce8e514bc5f53e93de1b775b8de591  ./bin/media/graph/bg/bg2.png
 cfc66468a697913d641afd21eea6036a  ./bin/media/graph/bg/bg1.png
 0b8fb6109f61c1c3d823597619a1bdb4  ./bin/media/gui/keypositions
 26c6bc5031a2109daf5e43044e053ad7  ./bin/media/gui/mapnondata.png
-5bbfa6c238a238dfe472727832dcca5a  ./bin/media/ahiteminf.ini
+d997a504be1eb96b76c44c301b3b0f82  ./bin/media/ahiteminf.ini
 b47dc68330b655d8921e134c6ce14baf  ./bin/media/struct/pent.dat
 8396fd16be0b75c6fd2fbbe0381861e1  ./bin/media/struct/lines.dat
 5c55b836f16a594dcadf6e9c9665216a  ./bin/media/systems/system-4.dat
