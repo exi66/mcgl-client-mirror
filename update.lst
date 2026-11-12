@@ -1,5 +1,5 @@
 e91081f7b57d92a4f7747af41bfb6d13  ./Minecraft.jar
-a1b304050e5c2d08f0b6500e5e9fd5ab  ./version.md5
+92b31733bfb564ea4b57248fa0c5622b  ./version.md5
 98bd0e0359aac0eeae8ca703f0bcc574  ./resources/sound/step/grass1.ogg
 0efdd06219119dbab7e9c30b3be30a42  ./resources/sound/step/wood3.ogg
 644465befd41420e4b869d49558d271a  ./resources/sound/step/gravel4.ogg
@@ -766,7 +766,7 @@ b04d0d52d7340cf7d465e3368a746252  ./bin/lib/libnixspecific64.dylib
 567c3e80b11028402b66c51abf642c81  ./bin/lib/libnixspecific64.so
 76650ecbb03c9caee1f7eec09223f948  ./bin/lib/valuelib32.dll
 089104cb90d8b4e1aa00b1f5faef0742  ./bin/gson-2.8.5.jar
-b46c5aed194a8250907f2cad234b69c8  ./bin/mcgl.jar
+cbe977649e2622d7033da0428f325dd1  ./bin/mcgl.jar
 e7776f2b03a4c62d691a90d3c68c93c0  ./bin/httpcore-4.4.4.jar
 e0a45df625cb96b69505e59bb25a0189  ./bin/httpclient-4.5.2.jar
 6ac4d72d11a0e6a99d600c6bc62d4c57  ./bin/media/xml/accessories.xml
